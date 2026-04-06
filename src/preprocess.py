@@ -1,5 +1,7 @@
 import re
 from underthesea import word_tokenize
+import pandas as pd
+import os
 teencode_dict = {
     "ko": "không",
     "k": "không",
@@ -40,7 +42,21 @@ def clean_text(text):
     #4. Tách từ tiếng việt
     text = word_tokenize(text, format="text")
     return text
+
+
 if __name__ == "__main__":
-    test_str = "Hàng vè hơi chậm nhưng dc cái rất okie k vấn đề j"
-    print(clean_text(test_str))
+    BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+    file_path = os.path.join(BASE_DIR, "data", "shopee_reviews_100_comments.csv")
+
+    df = pd.read_csv(file_path)
+
+    # tạo cột text sạch
+    df["clean_comment"] = df["review_text"].apply(clean_text)
+
+    # lưu file mới
+    output_path = os.path.join(BASE_DIR, "data", "processed_reviews.csv")
+    df.to_csv(output_path, index=False, encoding="utf-8-sig")
+
+    print("✅ Đã preprocess xong!")
+    print(df[["review_text", "clean_comment"]].head())
 

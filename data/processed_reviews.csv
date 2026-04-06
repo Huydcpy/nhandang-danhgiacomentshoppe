@@ -1,0 +1,101 @@
+﻿review_id,product_category,rating,sentiment_label,review_text,date,clean_comment
+1,chuột,2,negative,"size bị lệch, mặc không vừa",2026-03-09,size bị lệch mặc không vừa
+2,áo thun,5,positive,"giao hàng siêu nhanh, mới đặt hôm qua nay nhận",2026-01-06,giao hàng siêu nhanh mới đặt hôm_qua nay nhận
+3,sạc dự phòng,4,positive,"đúng mẫu, màu đẹp, rất đáng tiền",2026-02-10,đúng mẫu màu đẹp rất đáng tiền
+4,tai nghe,5,positive,"giao nhanh, chất lượng rất ổn trong tầm giá",2026-01-28,giao nhanh chất_lượng rất ổn trong tầm giá
+5,áo thun,5,positive,"sản phẩm dùng tốt, shop tư vấn nhiệt tình",2026-03-12,sản_phẩm dùng tốt cửa_hàng tư_vấn nhiệt_tình
+6,tai nghe,3,neutral,chất lượng bình thường so với giá,2026-01-30,chất_lượng bình_thường so với giá
+7,áo thun,3,neutral,"shop đóng gói ổn, chưa dùng lâu nên chưa rõ",2026-01-19,cửa_hàng đóng_gói ổn chưa dùng lâu nên chưa rõ
+8,tai nghe,4,positive,"hàng đẹp như hình, đóng gói cẩn thận, sẽ ủng hộ tiếp",2026-03-16,hàng đẹp như hình đóng_gói cẩn_thận sẽ ủng_hộ tiếp
+9,bàn phím,3,neutral,"shop đóng gói ổn, chưa dùng lâu nên chưa rõ",2026-01-18,cửa_hàng đóng_gói ổn chưa dùng lâu nên chưa rõ
+10,chuột,3,neutral,"sản phẩm tạm ổn, dùng được",2026-02-18,sản_phẩm tạm ổn dùng được
+11,tai nghe,4,positive,"vải mềm, mặc thoải mái, form đẹp",2026-01-24,vải mềm mặc thoải_mái form đẹp
+12,giày thể thao,5,positive,"đóng gói chắc chắn, không bị móp méo",2026-02-08,đóng_gói chắc_chắn không bị móp méo
+13,tai nghe,1,negative,"pin yếu hơn mô tả, trải nghiệm không tốt",2026-02-21,pin yếu hơn mô_tả trải_nghiệm không tốt
+14,áo thun,4,positive,"sản phẩm dùng tốt, shop tư vấn nhiệt tình",2026-01-21,sản_phẩm dùng tốt cửa_hàng tư_vấn nhiệt_tình
+15,áo thun,5,positive,"giao nhanh, chất lượng rất ổn trong tầm giá",2026-01-01,giao nhanh chất_lượng rất ổn trong tầm giá
+16,tai nghe,3,neutral,chất lượng bình thường so với giá,2026-02-15,chất_lượng bình_thường so với giá
+17,giày thể thao,5,positive,"hàng đẹp như hình, đóng gói cẩn thận, sẽ ủng hộ tiếp",2026-02-13,hàng đẹp như hình đóng_gói cẩn_thận sẽ ủng_hộ tiếp
+18,nồi chiên,2,negative,"sản phẩm có vết xước, cảm giác cũ",2026-02-01,sản_phẩm có vết xước cảm_giác cũ
+19,giày thể thao,4,positive,"đúng mẫu, màu đẹp, rất đáng tiền",2026-01-16,đúng mẫu màu đẹp rất đáng tiền
+20,nồi chiên,2,negative,"size bị lệch, mặc không vừa",2026-01-04,size bị lệch mặc không vừa
+21,chuột,2,negative,"sản phẩm có vết xước, cảm giác cũ",2026-03-06,sản_phẩm có vết xước cảm_giác cũ
+22,bàn phím,5,positive,"pin trâu, dùng mượt, rất hài lòng",2026-01-06,pin trâu dùng mượt rất hài_lòng
+23,bàn phím,1,negative,"pin yếu hơn mô tả, trải nghiệm không tốt",2026-01-13,pin yếu hơn mô_tả trải_nghiệm không tốt
+24,sạc dự phòng,5,positive,"đúng mẫu, màu đẹp, rất đáng tiền",2026-02-25,đúng mẫu màu đẹp rất đáng tiền
+25,tai nghe,4,positive,"vải mềm, mặc thoải mái, form đẹp",2026-03-07,vải mềm mặc thoải_mái form đẹp
+26,tai nghe,3,neutral,chất lượng bình thường so với giá,2026-03-20,chất_lượng bình_thường so với giá
+27,áo thun,4,positive,"pin trâu, dùng mượt, rất hài lòng",2026-03-03,pin trâu dùng mượt rất hài_lòng
+28,sạc dự phòng,5,positive,"hàng đẹp như hình, đóng gói cẩn thận, sẽ ủng hộ tiếp",2026-02-28,hàng đẹp như hình đóng_gói cẩn_thận sẽ ủng_hộ tiếp
+29,tai nghe,4,positive,"giao nhanh, chất lượng rất ổn trong tầm giá",2026-02-28,giao nhanh chất_lượng rất ổn trong tầm giá
+30,áo thun,5,positive,"giao hàng siêu nhanh, mới đặt hôm qua nay nhận",2026-02-25,giao hàng siêu nhanh mới đặt hôm_qua nay nhận
+31,giày thể thao,4,positive,"pin trâu, dùng mượt, rất hài lòng",2026-01-14,pin trâu dùng mượt rất hài_lòng
+32,bàn phím,5,positive,"đúng mẫu, màu đẹp, rất đáng tiền",2026-03-01,đúng mẫu màu đẹp rất đáng tiền
+33,sạc dự phòng,5,positive,"giao hàng siêu nhanh, mới đặt hôm qua nay nhận",2026-03-22,giao hàng siêu nhanh mới đặt hôm_qua nay nhận
+34,sạc dự phòng,4,positive,"giao hàng siêu nhanh, mới đặt hôm qua nay nhận",2026-01-05,giao hàng siêu nhanh mới đặt hôm_qua nay nhận
+35,tai nghe,5,positive,"giao nhanh, chất lượng rất ổn trong tầm giá",2026-01-04,giao nhanh chất_lượng rất ổn trong tầm giá
+36,giày thể thao,5,positive,"sản phẩm dùng tốt, shop tư vấn nhiệt tình",2026-01-05,sản_phẩm dùng tốt cửa_hàng tư_vấn nhiệt_tình
+37,chuột,4,positive,"pin trâu, dùng mượt, rất hài lòng",2026-03-01,pin trâu dùng mượt rất hài_lòng
+38,áo thun,3,neutral,không quá xuất sắc nhưng chấp nhận được,2026-02-23,không quá xuất_sắc nhưng chấp_nhận được
+39,tai nghe,5,positive,"giao hàng siêu nhanh, mới đặt hôm qua nay nhận",2026-01-13,giao hàng siêu nhanh mới đặt hôm_qua nay nhận
+40,giày thể thao,5,positive,"pin trâu, dùng mượt, rất hài lòng",2026-01-13,pin trâu dùng mượt rất hài_lòng
+41,áo thun,4,positive,"vải mềm, mặc thoải mái, form đẹp",2026-01-27,vải mềm mặc thoải_mái form đẹp
+42,nồi chiên,1,negative,"giao chậm, đóng gói sơ sài",2026-01-17,giao chậm đóng_gói sơ_sài
+43,áo thun,5,positive,"ô mai gót ??? sản phẩm dùng tốt, shop tư vấn nhiệt tình",2026-02-03,ô mai_gót sản_phẩm dùng tốt cửa_hàng tư_vấn nhiệt_tình
+44,giày thể thao,3,neutral,chất lượng bình thường so với giá,2026-03-26,chất_lượng bình_thường so với giá
+45,áo thun,1,negative,"không giống hình :((( trông chối không tả được, khá thất vọng",2026-01-07,không giống_hình trông_chối không tả được khá thất_vọng
+46,chuột,4,positive,"giao hàng siêu nhanh, mới đặt hôm qua nay nhận",2026-01-03,giao hàng siêu nhanh mới đặt hôm_qua nay nhận
+47,tai nghe,3,neutral,"sản phẩm tạm ổn, dùng được",2026-01-09,sản_phẩm tạm ổn dùng được
+48,tai nghe,5,positive,"giao nhanh :)), chất lượng rất ổn trong tầm giá",2026-02-15,giao nhanh chất_lượng rất ổn trong tầm giá
+49,chuột,5,positive,"pin trâu, dùng mượt, rất hài lòng",2026-03-26,pin trâu dùng mượt rất hài_lòng
+50,giày thể thao,5,positive,"đóng gói chắc chắn, không bị móp méo",2026-03-28,đóng_gói chắc_chắn không bị móp méo
+51,sạc dự phòng,3,neutral,chất lượng bình thường so với giá,2026-02-25,chất_lượng bình_thường so với giá
+52,chuột,2,negative,"shop phản hồi chậm, hỗ trợ kém",2026-01-30,cửa_hàng phản_hồi chậm hỗ_trợ kém
+53,tai nghe,4,positive,"giao nhanh, chất lượng rất ổn trong tầm giá",2026-01-18,giao nhanh chất_lượng rất ổn trong tầm giá
+54,giày thể thao,3,neutral,"shop đóng gói ổn, chưa dùng lâu nên chưa rõ",2026-03-07,cửa_hàng đóng_gói ổn chưa dùng lâu nên chưa rõ
+55,tai nghe,2,negative,"không giống hình, khá thất vọng",2026-03-30,không giống_hình khá thất_vọng
+56,chuột,4,positive,"vải mềm, mặc thoải mái, form đẹp",2026-03-23,vải mềm mặc thoải_mái form đẹp
+57,chuột,2,negative,"giao chậm, đóng gói sơ sài",2026-01-15,giao chậm đóng_gói sơ_sài
+58,tai nghe,3,neutral,chất lượng bình thường so với giá,2026-02-04,chất_lượng bình_thường so với giá
+59,sạc dự phòng,2,negative,"sản phẩm có vết xước, cảm giác cũ",2026-03-09,sản_phẩm có vết xước cảm_giác cũ
+60,bàn phím,5,positive,"đóng gói chắc chắn, không bị móp méo",2026-03-12,đóng_gói chắc_chắn không bị móp méo
+61,bàn phím,4,positive,"giao nhanh, chất lượng rất ổn trong tầm giá",2026-03-08,giao nhanh chất_lượng rất ổn trong tầm giá
+62,bàn phím,2,negative,"giao chậm, đóng gói sơ sài",2026-01-20,giao chậm đóng_gói sơ_sài
+63,tai nghe,4,positive,"hàng đẹp như hình, đóng gói cẩn thận, sẽ ủng hộ tiếp",2026-01-07,hàng đẹp như hình đóng_gói cẩn_thận sẽ ủng_hộ tiếp
+64,nồi chiên,1,negative,"giao chậm, đóng gói sơ sài",2026-01-16,giao chậm đóng_gói sơ_sài
+65,áo thun,4,positive,"giao hàng siêu nhanh, mới đặt hôm qua nay nhận",2026-01-14,giao hàng siêu nhanh mới đặt hôm_qua nay nhận
+66,bàn phím,4,positive,"vải mềm, mặc thoải mái, form đẹp",2026-01-13,vải mềm mặc thoải_mái form đẹp
+67,nồi chiên,5,positive,"vải mềm, mặc thoải mái, form đẹp",2026-01-26,vải mềm mặc thoải_mái form đẹp
+68,tai nghe,1,negative,"size bị lệch, mặc không vừa",2026-01-25,size bị lệch mặc không vừa
+69,chuột,3,neutral,chất lượng bình thường so với giá,2026-01-27,chất_lượng bình_thường so với giá
+70,áo thun,4,positive,"đóng gói chắc chắn, không bị móp méo",2026-02-20,đóng_gói chắc_chắn không bị móp méo
+71,tai nghe,4,positive,"đúng mẫu, màu đẹp, rất đáng tiền",2026-01-19,đúng mẫu màu đẹp rất đáng tiền
+72,áo thun,5,positive,"đúng mẫu, màu đẹp, rất đáng tiền",2026-03-07,đúng mẫu màu đẹp rất đáng tiền
+73,nồi chiên,4,positive,"hàng đẹp như hình, đóng gói cẩn thận, sẽ ủng hộ tiếp",2026-01-19,hàng đẹp như hình đóng_gói cẩn_thận sẽ ủng_hộ tiếp
+74,bàn phím,3,neutral,không quá xuất sắc nhưng chấp nhận được,2026-02-09,không quá xuất_sắc nhưng chấp_nhận được
+75,chuột,3,neutral,"shop đóng gói ổn, chưa dùng lâu nên chưa rõ",2026-03-25,cửa_hàng đóng_gói ổn chưa dùng lâu nên chưa rõ
+76,chuột,2,negative,"shop phản hồi chậm, hỗ trợ kém",2026-03-07,cửa_hàng phản_hồi chậm hỗ_trợ kém
+77,áo thun,1,negative,"size bị lệch, mặc không vừa",2026-03-01,size bị lệch mặc không vừa
+78,giày thể thao,4,positive,"giao nhanh, chất lượng rất ổn trong tầm giá",2026-02-20,giao nhanh chất_lượng rất ổn trong tầm giá
+79,áo thun,1,negative,"size bị lệch, mặc không vừa",2026-01-25,size bị lệch mặc không vừa
+80,bàn phím,5,positive,"hàng đẹp như hình, đóng gói cẩn thận, sẽ ủng hộ tiếp",2026-01-04,hàng đẹp như hình đóng_gói cẩn_thận sẽ ủng_hộ tiếp
+81,nồi chiên,4,positive,"hàng đẹp như hình, đóng gói cẩn thận, sẽ ủng hộ tiếp",2026-01-16,hàng đẹp như hình đóng_gói cẩn_thận sẽ ủng_hộ tiếp
+82,áo thun,2,negative,"sản phẩm có vết xước, cảm giác cũ",2026-02-12,sản_phẩm có vết xước cảm_giác cũ
+83,sạc dự phòng,1,negative,"size bị lệch, mặc không vừa",2026-03-11,size bị lệch mặc không vừa
+84,nồi chiên,5,positive,"pin trâu, dùng mượt, rất hài lòng",2026-01-07,pin trâu dùng mượt rất hài_lòng
+85,giày thể thao,3,neutral,chất lượng bình thường so với giá,2026-03-14,chất_lượng bình_thường so với giá
+86,tai nghe,5,positive,"vải mềm, mặc thoải mái, form đẹp",2026-01-10,vải mềm mặc thoải_mái form đẹp
+87,nồi chiên,4,positive,"giao nhanh, chất lượng rất ổn trong tầm giá",2026-01-13,giao nhanh chất_lượng rất ổn trong tầm giá
+88,sạc dự phòng,4,positive,"giao hàng siêu nhanh, mới đặt hôm qua nay nhận",2026-01-12,giao hàng siêu nhanh mới đặt hôm_qua nay nhận
+89,tai nghe,3,neutral,"shop đóng gói ổn, chưa dùng lâu nên chưa rõ",2026-03-19,cửa_hàng đóng_gói ổn chưa dùng lâu nên chưa rõ
+90,chuột,3,neutral,"shop đóng gói ổn, chưa dùng lâu nên chưa rõ",2026-03-13,cửa_hàng đóng_gói ổn chưa dùng lâu nên chưa rõ
+91,sạc dự phòng,3,neutral,"sản phẩm tạm ổn, dùng được",2026-01-29,sản_phẩm tạm ổn dùng được
+92,nồi chiên,3,neutral,chất lượng bình thường so với giá,2026-02-18,chất_lượng bình_thường so với giá
+93,nồi chiên,1,negative,"không giống hình, khá thất vọng",2026-01-04,không giống_hình khá thất_vọng
+94,nồi chiên,4,positive,"giao hàng siêu nhanh, mới đặt hôm qua nay nhận",2026-03-10,giao hàng siêu nhanh mới đặt hôm_qua nay nhận
+95,giày thể thao,4,positive,"hàng đẹp như hình, đóng gói cẩn thận, sẽ ủng hộ tiếp",2026-02-11,hàng đẹp như hình đóng_gói cẩn_thận sẽ ủng_hộ tiếp
+96,bàn phím,3,neutral,đúng mô tả nhưng giao hơi lâu,2026-01-07,đúng mô_tả nhưng giao_hơi lâu
+97,giày thể thao,5,positive,"đóng gói chắc chắn, không bị móp méo",2026-03-19,đóng_gói chắc_chắn không bị móp méo
+98,giày thể thao,4,positive,"đúng mẫu, màu đẹp, rất đáng tiền",2026-01-11,đúng mẫu màu đẹp rất đáng tiền
+99,chuột,5,positive,"hàng đẹp như hình, đóng gói cẩn thận, sẽ ủng hộ tiếp",2026-01-29,hàng đẹp như hình đóng_gói cẩn_thận sẽ ủng_hộ tiếp
+100,bàn phím,2,negative,"size bị lệch, mặc không vừa",2026-02-19,size bị lệch mặc không vừa
