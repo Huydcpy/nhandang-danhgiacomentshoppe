@@ -1,6 +1,6 @@
 import pickle
 import os
-from preprocess import clean_text
+from src.preprocess import clean_text
 
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 

@@ -46,7 +46,7 @@ def clean_text(text):
 
 if __name__ == "__main__":
     BASE_DIR = os.path.dirname(os.path.dirname(__file__))
-    file_path = os.path.join(BASE_DIR, "data", "shopee_reviews_100_comments.csv")
+    file_path = os.path.join(BASE_DIR, "data", "shopee_reviews_2000_realistic.csv")
 
     df = pd.read_csv(file_path)
 
