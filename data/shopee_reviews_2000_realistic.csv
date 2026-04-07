@@ -38,10 +38,10 @@
 37,sạc dự phòng,4,positive,"sạc nhanh, pin đúng dung lượng, sẽ ủng hộ tiếp",2025-10-24
 38,sạc dự phòng,4,positive,"dùng ổn định, rất hài lòng",2025-09-25
 39,tai nghe,3,neutral,"đóng gói cẩn thận, âm thanh ở mức chấp nhận được, hơi tiếc",2025-03-09
-40,giày thể thao,2,negative,"keo dán chưa chắc, hơi tiếc",2025-11-15
+40,giày thể thao,2,negative,"keo dán chưa chắc, hơi tiếc, xấu vãi",2025-11-15
 41,sạc dự phòng,3,neutral,"đóng gói cẩn thận, đúng mô tả nhưng chưa nổi bật, sẽ ủng hộ tiếp",2025-06-28
 42,chuột,3,neutral,săn sale nên thấy dùng tạm ổn trong tầm giá,2025-12-27
-43,tai nghe,2,negative,"đeo hơi đau tai, sẽ ủng hộ tiếp",2025-05-16
+43,tai nghe,2,negative,"đeo hơi đau tai, sẽ ủng hộ tiếp, xấu vãi",2025-05-16
 44,chuột,3,neutral,"chưa dùng lâu nên chưa đánh giá thêm, sẽ ủng hộ tiếp",2026-01-03
 45,tai nghe,5,positive,đeo êm tai lâu không đau,2025-11-21
 46,áo thun,3,neutral,"shop giao nhanh, đúng mô tả, chất vải bình thường, đáng tiền",2025-03-24
@@ -53,7 +53,7 @@
 52,nồi chiên,1,negative,"shop giao nhanh, vỏ có vết xước, sẽ ủng hộ tiếp",2026-02-23
 53,áo thun,4,positive,"shop giao nhanh, vải mềm, form đẹp, hơi tiếc",2025-06-18
 54,tai nghe,3,neutral,"chưa test lâu nên chưa rõ độ bền, hơi tiếc",2025-12-14
-55,nồi chiên,1,negative,"shop giao nhanh, vỏ có vết xước",2025-05-16
+55,nồi chiên,1,negative,"xấu vãi shop giao nhanh, vỏ có vết xước",2025-05-16
 56,chuột,5,positive,"săn sale nên thấy cầm vừa tay, phản hồi tốt",2025-09-19
 57,chuột,4,positive,"săn sale nên thấy di chuột mượt, click nhạy, rất đáng tiền",2025-09-24
 58,nồi chiên,2,negative,"vỏ có vết xước, đáng tiền",2025-11-16
