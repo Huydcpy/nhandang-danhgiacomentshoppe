@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-from predict import predict_sentiment
+from src.predict import predict_sentiment
 
 st.set_page_config(
     page_title="Shopee Sentiment AI",
