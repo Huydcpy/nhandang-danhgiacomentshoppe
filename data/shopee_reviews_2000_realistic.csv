@@ -1,0 +1,2001 @@
+﻿review_id,product_category,rating,sentiment_label,review_text,date
+1,giày thể thao,5,positive,"shop giao nhanh, đi êm chân, form đẹp",2025-12-13
+2,giày thể thao,3,neutral,"đi ổn, đúng giá tiền",2025-04-22
+3,bàn phím,1,negative,"gõ hơi cứng và ồn, hơi tiếc",2025-04-23
+4,áo thun,1,negative,"săn sale nên thấy chỉ thừa nhiều, hơi thất vọng, đáng tiền",2025-05-23
+5,bàn phím,5,positive,"săn sale nên thấy gõ êm tay, led đẹp",2025-07-03
+6,nồi chiên,5,positive,"săn sale nên thấy dung tích lớn, rất tiện",2025-03-05
+7,áo thun,5,positive,"shop giao nhanh, màu đẹp như hình",2025-01-24
+8,giày thể thao,5,positive,"đi êm chân, form đẹp, hơi tiếc",2025-05-23
+9,áo thun,1,negative,"đóng gói cẩn thận, vải mỏng hơn mong đợi, sẽ ủng hộ tiếp",2025-12-10
+10,tai nghe,1,negative,"shop giao nhanh, đeo hơi đau tai, sẽ ủng hộ tiếp",2025-08-25
+11,áo thun,4,positive,"shop giao nhanh, vải mềm, form đẹp",2026-02-17
+12,tai nghe,4,positive,"đóng gói cẩn thận, mic thu âm rõ, gọi điện tốt, sẽ ủng hộ tiếp",2025-12-02
+13,áo thun,5,positive,"shop giao nhanh, mặc thoải mái, đường may chắc, sẽ ủng hộ tiếp",2026-01-17
+14,sạc dự phòng,2,negative,"shop giao nhanh, dung lượng không như quảng cáo, sẽ ủng hộ tiếp",2025-09-18
+15,áo thun,4,positive,"shop giao nhanh, vải mềm, form đẹp, hơi tiếc",2025-11-02
+16,chuột,5,positive,"di chuột mượt, click nhạy, rất đáng tiền",2026-01-20
+17,tai nghe,3,neutral,"săn sale nên thấy nghe ổn trong tầm giá, sẽ ủng hộ tiếp",2025-08-21
+18,chuột,3,neutral,"đúng mô tả, hiệu năng bình thường, đáng tiền",2026-03-07
+19,giày thể thao,1,negative,"shop giao nhanh, đi hơi cứng chân",2026-02-03
+20,sạc dự phòng,3,neutral,"dùng được, chưa thấy vấn đề, đáng tiền",2026-03-26
+21,nồi chiên,3,neutral,"dùng ổn, cần test thêm",2025-02-13
+22,giày thể thao,4,positive,"săn sale nên thấy đi êm chân, form đẹp",2025-03-26
+23,tai nghe,1,negative,"shop giao nhanh, đeo hơi đau tai, đáng tiền",2025-07-24
+24,giày thể thao,2,negative,"shop giao nhanh, keo dán chưa chắc, sẽ ủng hộ tiếp",2025-02-02
+25,tai nghe,4,positive,"âm thanh rõ, bass tốt",2025-04-28
+26,chuột,3,neutral,"shop giao nhanh, đúng mô tả, hiệu năng bình thường, đáng tiền",2025-12-09
+27,áo thun,4,positive,"săn sale nên thấy vải mềm, form đẹp, hơi tiếc",2025-04-08
+28,chuột,5,positive,"săn sale nên thấy kết nối ổn định, không bị lag, hơi tiếc",2026-03-19
+29,giày thể thao,4,positive,"đóng gói cẩn thận, đế bám tốt, chạy thích",2025-05-08
+30,bàn phím,5,positive,"shop giao nhanh, switch phản hồi tốt, rất thích, đáng tiền",2025-08-25
+31,bàn phím,3,neutral,dùng văn phòng khá ổn,2025-11-30
+32,sạc dự phòng,3,neutral,"săn sale nên thấy dùng được, chưa thấy vấn đề, hơi tiếc",2025-09-04
+33,bàn phím,3,neutral,"đúng mô tả nhưng giao hơi lâu, hơi tiếc",2025-05-16
+34,nồi chiên,3,neutral,"đúng mô tả, mức trung bình, hơi tiếc",2025-03-21
+35,bàn phím,4,positive,"đóng gói cẩn thận, keycap chắc chắn, build ngon",2025-01-26
+36,sạc dự phòng,4,positive,"dùng ổn định, rất hài lòng, sẽ ủng hộ tiếp",2025-02-05
+37,sạc dự phòng,4,positive,"sạc nhanh, pin đúng dung lượng, sẽ ủng hộ tiếp",2025-10-24
+38,sạc dự phòng,4,positive,"dùng ổn định, rất hài lòng",2025-09-25
+39,tai nghe,3,neutral,"đóng gói cẩn thận, âm thanh ở mức chấp nhận được, hơi tiếc",2025-03-09
+40,giày thể thao,2,negative,"keo dán chưa chắc, hơi tiếc",2025-11-15
+41,sạc dự phòng,3,neutral,"đóng gói cẩn thận, đúng mô tả nhưng chưa nổi bật, sẽ ủng hộ tiếp",2025-06-28
+42,chuột,3,neutral,săn sale nên thấy dùng tạm ổn trong tầm giá,2025-12-27
+43,tai nghe,2,negative,"đeo hơi đau tai, sẽ ủng hộ tiếp",2025-05-16
+44,chuột,3,neutral,"chưa dùng lâu nên chưa đánh giá thêm, sẽ ủng hộ tiếp",2026-01-03
+45,tai nghe,5,positive,đeo êm tai lâu không đau,2025-11-21
+46,áo thun,3,neutral,"shop giao nhanh, đúng mô tả, chất vải bình thường, đáng tiền",2025-03-24
+47,giày thể thao,5,positive,"đi êm chân, form đẹp, sẽ ủng hộ tiếp",2025-10-07
+48,chuột,3,neutral,"dùng tạm ổn trong tầm giá, đáng tiền",2025-07-06
+49,nồi chiên,3,neutral,"shop giao nhanh, dùng ổn, cần test thêm",2025-07-01
+50,nồi chiên,1,negative,"shop giao nhanh, quạt hơi ồn, sẽ ủng hộ tiếp",2026-03-28
+51,áo thun,5,positive,"shop giao nhanh, màu đẹp như hình, đáng tiền",2025-03-23
+52,nồi chiên,1,negative,"shop giao nhanh, vỏ có vết xước, sẽ ủng hộ tiếp",2026-02-23
+53,áo thun,4,positive,"shop giao nhanh, vải mềm, form đẹp, hơi tiếc",2025-06-18
+54,tai nghe,3,neutral,"chưa test lâu nên chưa rõ độ bền, hơi tiếc",2025-12-14
+55,nồi chiên,1,negative,"shop giao nhanh, vỏ có vết xước",2025-05-16
+56,chuột,5,positive,"săn sale nên thấy cầm vừa tay, phản hồi tốt",2025-09-19
+57,chuột,4,positive,"săn sale nên thấy di chuột mượt, click nhạy, rất đáng tiền",2025-09-24
+58,nồi chiên,2,negative,"vỏ có vết xước, đáng tiền",2025-11-16
+59,tai nghe,2,negative,"đóng gói cẩn thận, đeo hơi đau tai, hơi tiếc",2025-06-17
+60,áo thun,1,negative,"săn sale nên thấy vải mỏng hơn mong đợi, sẽ ủng hộ tiếp",2025-11-12
+61,sạc dự phòng,4,positive,"shop giao nhanh, thiết kế đẹp, cầm chắc tay, hơi tiếc",2026-02-07
+62,sạc dự phòng,2,negative,"săn sale nên thấy dung lượng không như quảng cáo, sẽ ủng hộ tiếp",2025-09-19
+63,áo thun,3,neutral,"đúng mô tả, chất vải bình thường",2025-06-21
+64,chuột,3,neutral,"shop giao nhanh, dùng tạm ổn trong tầm giá, sẽ ủng hộ tiếp",2025-01-13
+65,chuột,5,positive,"săn sale nên thấy kết nối ổn định, không bị lag",2025-04-10
+66,giày thể thao,2,negative,"shop giao nhanh, keo dán chưa chắc",2026-04-03
+67,nồi chiên,3,neutral,"shop giao nhanh, dùng ổn, cần test thêm",2025-08-26
+68,chuột,2,negative,săn sale nên thấy pin yếu hơn mô tả,2025-10-14
+69,sạc dự phòng,5,positive,"săn sale nên thấy dùng ổn định, rất hài lòng, sẽ ủng hộ tiếp",2026-01-16
+70,nồi chiên,5,positive,"đóng gói cẩn thận, dung tích lớn, rất tiện",2025-09-06
+71,giày thể thao,5,positive,"đóng gói cẩn thận, nhẹ chân, đúng size, sẽ ủng hộ tiếp",2025-05-20
+72,tai nghe,4,positive,"shop giao nhanh, âm thanh rõ, bass tốt, hơi tiếc",2025-12-22
+73,bàn phím,2,negative,"đóng gói cẩn thận, led không đều màu",2025-08-27
+74,áo thun,5,positive,màu đẹp như hình,2025-07-14
+75,áo thun,5,positive,"săn sale nên thấy mặc thoải mái, đường may chắc",2026-01-18
+76,giày thể thao,2,negative,"đóng gói cẩn thận, keo dán chưa chắc, hơi tiếc",2025-09-06
+77,chuột,5,positive,"shop giao nhanh, kết nối ổn định, không bị lag",2025-10-01
+78,chuột,3,neutral,"săn sale nên thấy đúng mô tả, hiệu năng bình thường, sẽ ủng hộ tiếp",2026-03-20
+79,áo thun,5,positive,"shop giao nhanh, mặc thoải mái, đường may chắc, hơi tiếc",2025-06-17
+80,tai nghe,3,neutral,"đóng gói cẩn thận, nghe ổn trong tầm giá",2025-08-29
+81,chuột,2,negative,pin yếu hơn mô tả,2026-01-22
+82,chuột,3,neutral,"shop giao nhanh, đúng mô tả, hiệu năng bình thường, sẽ ủng hộ tiếp",2025-03-06
+83,áo thun,2,negative,"xấu, đóng gói cẩn thận, chỉ thừa nhiều, hơi thất vọng, đáng tiền",2025-03-27
+84,sạc dự phòng,1,negative,"xấu, dung lượng không như quảng cáo",2025-01-14
+85,tai nghe,2,negative," xấu shop giao nhanh, đeo hơi đau tai",2025-10-31
+86,giày thể thao,3,neutral,"đóng gói cẩn thận, chất lượng bình thường",2026-02-17
+87,chuột,3,neutral,"săn sale nên thấy đúng mô tả, hiệu năng bình thường, đáng tiền",2025-02-05
+88,sạc dự phòng,2,negative,"dung lượng không như quảng cáo, hơi tiếc",2025-07-05
+89,giày thể thao,3,neutral,"shop giao nhanh, mẫu đẹp nhưng chưa thử chạy lâu",2025-11-30
+90,tai nghe,2,negative,"xấu pin tụt nhanh, đáng tiền",2025-06-15
+91,nồi chiên,4,positive,"shop giao nhanh, máy chạy êm, dễ vệ sinh, hơi tiếc",2025-10-19
+92,sạc dự phòng,1,negative,"đóng gói cẩn thận, dung lượng không như quảng cáo, sẽ ủng hộ tiếp",2025-09-07
+93,bàn phím,5,positive,"switch phản hồi tốt, rất thích, đáng tiền",2025-10-12
+94,chuột,1,negative,"săn sale nên thấy pin yếu hơn mô tả, hơi tiếc",2025-10-12
+95,nồi chiên,5,positive,"máy chạy êm, dễ vệ sinh",2025-05-31
+96,bàn phím,4,positive,"keycap chắc chắn, build ngon, đáng tiền",2025-08-31
+97,sạc dự phòng,2,negative,"săn sale nên thấy dung lượng không như quảng cáo, đáng tiền",2025-06-06
+98,tai nghe,4,positive,"âm thanh rõ, bass tốt, sẽ ủng hộ tiếp",2025-04-09
+99,bàn phím,2,negative,"shop giao nhanh, một vài phím bị liệt, đáng tiền",2025-04-27
+100,tai nghe,4,positive,đeo êm tai lâu không đau,2025-10-11
+101,tai nghe,2,negative,âm bị rè khi mở lớn,2025-05-26
+102,áo thun,5,positive,"đóng gói cẩn thận, vải mềm, form đẹp, hơi tiếc",2025-02-28
+103,nồi chiên,5,positive,"dung tích lớn, rất tiện, sẽ ủng hộ tiếp",2025-03-18
+104,nồi chiên,1,negative,quạt hơi ồn,2026-01-27
+105,áo thun,2,negative,"xấu vãi săn sale nên thấy vải mỏng hơn mong đợi, đáng tiền",2026-03-17
+106,sạc dự phòng,3,neutral,"đúng mô tả nhưng chưa nổi bật, sẽ ủng hộ tiếp",2025-11-17
+107,bàn phím,4,positive,"shop giao nhanh, gõ êm tay, led đẹp",2025-02-08
+108,bàn phím,5,positive,"switch phản hồi tốt, rất thích, sẽ ủng hộ tiếp",2025-05-28
+109,giày thể thao,5,positive,"shop giao nhanh, nhẹ chân, đúng size, đáng tiền",2026-02-08
+110,nồi chiên,2,negative,"quạt hơi ồn, sẽ ủng hộ tiếp",2025-11-28
+111,bàn phím,3,neutral,"shop giao nhanh, gõ ổn, chưa có gì nổi bật, đáng tiền",2025-11-01
+112,giày thể thao,3,neutral,"săn sale nên thấy đi ổn, đúng giá tiền, đáng tiền",2025-12-25
+113,áo thun,3,neutral,mặc tạm ổn,2026-04-01
+114,áo thun,1,negative,"xấu vãi shop giao nhanh, size bị lệch, mặc không vừa",2025-10-28
+115,chuột,3,neutral,săn sale nên thấy dùng tạm ổn trong tầm giá,2025-11-30
+116,áo thun,3,neutral,săn sale nên thấy không quá xuất sắc nhưng chấp nhận được,2025-08-29
+117,tai nghe,5,positive,"đóng gói cẩn thận, âm thanh rõ, bass tốt, hơi tiếc",2025-12-22
+118,áo thun,5,positive,"mặc thoải mái, đường may chắc, đáng tiền",2025-05-10
+119,tai nghe,5,positive,"mic thu âm rõ, gọi điện tốt, hơi tiếc",2025-07-31
+120,chuột,5,positive,"kết nối ổn định, không bị lag, sẽ ủng hộ tiếp",2025-05-17
+121,sạc dự phòng,5,positive,"săn sale nên thấy dùng ổn định, rất hài lòng",2025-01-15
+122,giày thể thao,1,negative,đi hơi cứng chân,2025-10-10
+123,áo thun,4,positive,"shop giao nhanh, vải mềm, form đẹp, hơi tiếc",2026-01-02
+124,tai nghe,2,negative,"săn sale nên thấy pin tụt nhanh, sẽ ủng hộ tiếp",2025-08-22
+125,sạc dự phòng,4,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng, hơi tiếc",2025-06-24
+126,nồi chiên,2,negative,"đóng gói cẩn thận, nhiệt không đều như mong đợi",2025-10-24
+127,giày thể thao,4,positive,"săn sale nên thấy nhẹ chân, đúng size, đáng tiền",2025-06-20
+128,sạc dự phòng,3,neutral,"shop giao nhanh, sạc ở mức bình thường, sẽ ủng hộ tiếp",2025-10-20
+129,áo thun,5,positive,"săn sale nên thấy mặc thoải mái, đường may chắc, hơi tiếc",2025-07-17
+130,giày thể thao,3,neutral,"shop giao nhanh, đi ổn, đúng giá tiền",2025-10-30
+131,tai nghe,3,neutral,săn sale nên thấy chưa test lâu nên chưa rõ độ bền,2026-01-05
+132,bàn phím,4,positive,"đóng gói cẩn thận, switch phản hồi tốt, rất thích, đáng tiền",2025-11-16
+133,giày thể thao,4,positive,"nhẹ chân, đúng size, hơi tiếc",2025-06-12
+134,giày thể thao,1,negative,"size không chuẩn, sẽ ủng hộ tiếp",2025-11-20
+135,giày thể thao,3,neutral,mẫu đẹp nhưng chưa thử chạy lâu,2025-08-16
+136,bàn phím,1,negative,"led không đều màu, đáng tiền",2025-07-03
+137,tai nghe,4,positive,"shop giao nhanh, mic thu âm rõ, gọi điện tốt, sẽ ủng hộ tiếp",2025-03-31
+138,chuột,1,negative,"kết nối chập chờn, dùng bực mình, sẽ ủng hộ tiếp",2025-04-29
+139,áo thun,2,negative,"chỉ thừa nhiều, hơi thất vọng, hơi tiếc",2025-05-28
+140,giày thể thao,2,negative,"đi hơi cứng chân, đáng tiền",2025-11-24
+141,áo thun,2,negative,"săn sale nên thấy size bị lệch, mặc không vừa, hơi tiếc",2025-02-24
+142,bàn phím,5,positive,"đóng gói cẩn thận, keycap chắc chắn, build ngon",2026-03-01
+143,giày thể thao,4,positive,"săn sale nên thấy nhẹ chân, đúng size, đáng tiền",2026-02-02
+144,nồi chiên,5,positive,"shop giao nhanh, dung tích lớn, rất tiện",2025-05-09
+145,giày thể thao,3,neutral,"chất lượng bình thường, đáng tiền",2026-02-08
+146,áo thun,5,positive,"đóng gói cẩn thận, vải mềm, form đẹp, đáng tiền",2026-01-18
+147,áo thun,4,positive,"màu đẹp như hình, đáng tiền",2026-03-02
+148,bàn phím,5,positive,"đóng gói cẩn thận, keycap chắc chắn, build ngon",2025-08-28
+149,chuột,4,positive,"cầm vừa tay, phản hồi tốt, hơi tiếc",2025-01-08
+150,tai nghe,2,negative,"đóng gói cẩn thận, đeo hơi đau tai",2025-07-15
+151,nồi chiên,1,negative,"shop giao nhanh, nhiệt không đều như mong đợi, hơi tiếc",2025-01-13
+152,sạc dự phòng,3,neutral,"đúng mô tả nhưng chưa nổi bật, hơi tiếc",2025-12-25
+153,tai nghe,1,negative,"âm bị rè khi mở lớn, đáng tiền",2025-09-10
+154,chuột,4,positive,"đóng gói cẩn thận, kết nối ổn định, không bị lag",2025-08-03
+155,sạc dự phòng,2,negative,"máy hơi nóng khi sạc, hơi tiếc",2025-11-12
+156,áo thun,3,neutral,"đóng gói cẩn thận, không quá xuất sắc nhưng chấp nhận được, sẽ ủng hộ tiếp",2025-08-16
+157,áo thun,3,neutral,"đóng gói cẩn thận, không quá xuất sắc nhưng chấp nhận được",2025-11-27
+158,tai nghe,5,positive,"săn sale nên thấy âm thanh rõ, bass tốt",2025-12-06
+159,bàn phím,1,negative,"shop giao nhanh, led không đều màu, sẽ ủng hộ tiếp",2026-02-07
+160,sạc dự phòng,4,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng, sẽ ủng hộ tiếp",2026-02-08
+161,sạc dự phòng,4,positive,"đóng gói cẩn thận, dùng ổn định, rất hài lòng, sẽ ủng hộ tiếp",2025-02-26
+162,giày thể thao,3,neutral,"shop giao nhanh, mẫu đẹp nhưng chưa thử chạy lâu",2025-06-15
+163,chuột,4,positive,"kết nối ổn định, không bị lag",2026-01-17
+164,chuột,5,positive,"kết nối ổn định, không bị lag, sẽ ủng hộ tiếp",2025-11-11
+165,chuột,2,negative,"double click sau vài ngày, khá khó chịu, hơi tiếc",2026-03-10
+166,áo thun,4,positive,săn sale nên thấy màu đẹp như hình,2026-04-06
+167,chuột,4,positive,"đóng gói cẩn thận, pin trâu, dùng mượt cả ngày",2025-11-21
+168,sạc dự phòng,2,negative,"máy hơi nóng khi sạc, đáng tiền",2025-08-21
+169,sạc dự phòng,1,negative,"máy hơi nóng khi sạc, sẽ ủng hộ tiếp",2025-08-09
+170,áo thun,3,neutral,"săn sale nên thấy đúng mô tả, chất vải bình thường, hơi tiếc",2026-01-09
+171,chuột,5,positive,"shop giao nhanh, cầm vừa tay, phản hồi tốt, hơi tiếc",2025-02-04
+172,chuột,3,neutral,"đóng gói cẩn thận, dùng tạm ổn trong tầm giá, sẽ ủng hộ tiếp",2025-10-12
+173,chuột,1,negative,"đóng gói cẩn thận, kết nối chập chờn, dùng bực mình, hơi tiếc",2026-03-21
+174,giày thể thao,5,positive,"đế bám tốt, chạy thích",2025-09-17
+175,bàn phím,5,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp",2025-07-08
+176,chuột,3,neutral,"đúng mô tả, hiệu năng bình thường",2025-12-12
+177,giày thể thao,1,negative,"đóng gói cẩn thận, keo dán chưa chắc, đáng tiền",2025-06-23
+178,tai nghe,4,positive,"shop giao nhanh, âm thanh rõ, bass tốt",2025-02-16
+179,giày thể thao,2,negative,"đóng gói cẩn thận, đi hơi cứng chân, sẽ ủng hộ tiếp",2025-07-09
+180,tai nghe,1,negative,"shop giao nhanh, âm bị rè khi mở lớn",2025-01-26
+181,giày thể thao,5,positive,"đế bám tốt, chạy thích, hơi tiếc",2025-08-01
+182,tai nghe,4,positive,"đeo êm tai lâu không đau, đáng tiền",2025-12-14
+183,giày thể thao,1,negative,săn sale nên thấy keo dán chưa chắc,2025-01-29
+184,chuột,4,positive,"đóng gói cẩn thận, cầm vừa tay, phản hồi tốt, đáng tiền",2025-03-03
+185,chuột,5,positive,"săn sale nên thấy pin trâu, dùng mượt cả ngày",2025-12-27
+186,bàn phím,1,negative,"led không đều màu, hơi tiếc",2025-01-10
+187,áo thun,3,neutral,"săn sale nên thấy không quá xuất sắc nhưng chấp nhận được, hơi tiếc",2025-05-29
+188,chuột,5,positive,"đóng gói cẩn thận, kết nối ổn định, không bị lag",2025-08-12
+189,nồi chiên,5,positive,"dung tích lớn, rất tiện, hơi tiếc",2026-03-22
+190,tai nghe,2,negative,âm bị rè khi mở lớn,2025-11-21
+191,chuột,2,negative,"shop giao nhanh, con lăn bị kẹt, trải nghiệm tệ, sẽ ủng hộ tiếp",2025-02-22
+192,bàn phím,4,positive,"keycap chắc chắn, build ngon, sẽ ủng hộ tiếp",2026-01-31
+193,giày thể thao,5,positive,"đóng gói cẩn thận, nhẹ chân, đúng size, sẽ ủng hộ tiếp",2025-08-14
+194,chuột,5,positive,"đóng gói cẩn thận, di chuột mượt, click nhạy, rất đáng tiền",2025-02-07
+195,tai nghe,4,positive,"đóng gói cẩn thận, đeo êm tai lâu không đau",2025-11-27
+196,nồi chiên,3,neutral,nấu được nhưng không quá nhanh,2026-02-10
+197,giày thể thao,3,neutral,"mẫu đẹp nhưng chưa thử chạy lâu, hơi tiếc",2025-09-14
+198,bàn phím,3,neutral,đúng mô tả nhưng giao hơi lâu,2025-11-27
+199,bàn phím,5,positive,"keycap chắc chắn, build ngon",2025-03-23
+200,tai nghe,5,positive,"đóng gói cẩn thận, đeo êm tai lâu không đau",2025-01-27
+201,nồi chiên,1,negative,vỏ có vết xước,2025-12-14
+202,áo thun,4,positive,"vải mềm, form đẹp, sẽ ủng hộ tiếp",2025-06-29
+203,tai nghe,3,neutral,"chưa test lâu nên chưa rõ độ bền, đáng tiền",2025-10-14
+204,áo thun,1,negative,"chỉ thừa nhiều, hơi thất vọng",2025-11-27
+205,giày thể thao,5,positive,"đóng gói cẩn thận, đế bám tốt, chạy thích, sẽ ủng hộ tiếp",2025-04-20
+206,tai nghe,3,neutral,"shop giao nhanh, âm thanh ở mức chấp nhận được, sẽ ủng hộ tiếp",2025-02-09
+207,tai nghe,3,neutral,"đóng gói cẩn thận, chưa test lâu nên chưa rõ độ bền",2025-03-09
+208,sạc dự phòng,4,positive,"dùng ổn định, rất hài lòng, sẽ ủng hộ tiếp",2026-01-05
+209,áo thun,5,positive,"mặc thoải mái, đường may chắc, đáng tiền",2026-01-21
+210,giày thể thao,3,neutral,"săn sale nên thấy mẫu đẹp nhưng chưa thử chạy lâu, sẽ ủng hộ tiếp",2025-07-08
+211,giày thể thao,3,neutral,săn sale nên thấy mẫu đẹp nhưng chưa thử chạy lâu,2025-09-28
+212,áo thun,3,neutral,"đúng mô tả, chất vải bình thường, hơi tiếc",2026-03-24
+213,tai nghe,1,negative,"pin tụt nhanh, sẽ ủng hộ tiếp",2025-05-20
+214,áo thun,3,neutral,"shop giao nhanh, mặc tạm ổn, hơi tiếc",2026-03-29
+215,tai nghe,3,neutral,"nghe ổn trong tầm giá, đáng tiền",2025-05-01
+216,áo thun,3,neutral,"đóng gói cẩn thận, mặc tạm ổn",2026-03-06
+217,giày thể thao,1,negative,"đóng gói cẩn thận, keo dán chưa chắc, hơi tiếc",2025-12-23
+218,nồi chiên,5,positive,"dung tích lớn, rất tiện",2025-01-10
+219,tai nghe,4,positive,"đóng gói cẩn thận, âm thanh rõ, bass tốt, sẽ ủng hộ tiếp",2025-06-04
+220,chuột,5,positive,"di chuột mượt, click nhạy, rất đáng tiền, hơi tiếc",2025-11-02
+221,sạc dự phòng,4,positive,"săn sale nên thấy thiết kế đẹp, cầm chắc tay",2025-11-11
+222,tai nghe,5,positive,"mic thu âm rõ, gọi điện tốt",2025-07-04
+223,chuột,3,neutral,"chưa dùng lâu nên chưa đánh giá thêm, hơi tiếc",2025-07-11
+224,tai nghe,1,negative,"shop giao nhanh, pin tụt nhanh",2026-01-31
+225,sạc dự phòng,1,negative,"đóng gói cẩn thận, sạc vào rất chậm",2025-06-23
+226,nồi chiên,2,negative,"shop giao nhanh, nhiệt không đều như mong đợi, sẽ ủng hộ tiếp",2025-02-02
+227,giày thể thao,3,neutral,"shop giao nhanh, mẫu đẹp nhưng chưa thử chạy lâu",2026-02-10
+228,bàn phím,3,neutral,săn sale nên thấy dùng văn phòng khá ổn,2025-08-31
+229,tai nghe,4,positive,"đeo êm tai lâu không đau, đáng tiền",2025-05-20
+230,chuột,3,neutral,"săn sale nên thấy đúng mô tả, hiệu năng bình thường, hơi tiếc",2025-06-23
+231,bàn phím,5,positive,"đóng gói cẩn thận, keycap chắc chắn, build ngon",2026-01-08
+232,áo thun,4,positive,"mặc thoải mái, đường may chắc",2025-06-17
+233,giày thể thao,5,positive,"săn sale nên thấy đi êm chân, form đẹp, đáng tiền",2025-08-17
+234,chuột,2,negative,"con lăn bị kẹt, trải nghiệm tệ",2025-12-10
+235,giày thể thao,4,positive,"đi êm chân, form đẹp, hơi tiếc",2025-01-18
+236,bàn phím,5,positive,"switch phản hồi tốt, rất thích",2025-11-06
+237,bàn phím,2,negative,led không đều màu,2025-03-12
+238,sạc dự phòng,5,positive,"sạc nhanh, pin đúng dung lượng",2026-01-12
+239,bàn phím,5,positive,"đóng gói cẩn thận, switch phản hồi tốt, rất thích, hơi tiếc",2025-04-20
+240,sạc dự phòng,5,positive,"shop giao nhanh, sạc nhanh, pin đúng dung lượng",2025-08-20
+241,bàn phím,3,neutral,"đóng gói cẩn thận, dùng văn phòng khá ổn, đáng tiền",2025-12-30
+242,chuột,2,negative,"shop giao nhanh, pin yếu hơn mô tả, đáng tiền",2025-09-18
+243,bàn phím,4,positive,"săn sale nên thấy gõ êm tay, led đẹp",2025-07-04
+244,sạc dự phòng,1,negative,máy hơi nóng khi sạc,2025-06-08
+245,áo thun,3,neutral,"đúng mô tả, chất vải bình thường",2025-03-06
+246,tai nghe,2,negative,"đeo hơi đau tai, đáng tiền",2025-03-07
+247,nồi chiên,3,neutral,nấu được nhưng không quá nhanh,2026-03-02
+248,chuột,1,negative,"đóng gói cẩn thận, pin yếu hơn mô tả, sẽ ủng hộ tiếp",2025-06-27
+249,sạc dự phòng,3,neutral,"dùng được, chưa thấy vấn đề, đáng tiền",2025-03-06
+250,giày thể thao,4,positive,"nhẹ chân, đúng size, sẽ ủng hộ tiếp",2025-03-29
+251,giày thể thao,1,negative,keo dán chưa chắc,2025-11-25
+252,nồi chiên,2,negative,"nhiệt không đều như mong đợi, hơi tiếc",2026-04-01
+253,giày thể thao,2,negative,"săn sale nên thấy keo dán chưa chắc, đáng tiền",2025-08-21
+254,chuột,2,negative,"săn sale nên thấy kết nối chập chờn, dùng bực mình, hơi tiếc",2025-04-15
+255,tai nghe,2,negative,"đóng gói cẩn thận, đeo hơi đau tai, hơi tiếc",2025-03-08
+256,nồi chiên,4,positive,"săn sale nên thấy nướng nhanh, chín đều",2025-05-17
+257,áo thun,4,positive,"săn sale nên thấy mặc thoải mái, đường may chắc",2025-08-03
+258,bàn phím,3,neutral,"đóng gói cẩn thận, dùng văn phòng khá ổn, sẽ ủng hộ tiếp",2026-01-26
+259,bàn phím,5,positive,"săn sale nên thấy switch phản hồi tốt, rất thích",2025-02-16
+260,áo thun,1,negative,"đóng gói cẩn thận, chỉ thừa nhiều, hơi thất vọng",2025-01-26
+261,tai nghe,5,positive,"mic thu âm rõ, gọi điện tốt",2025-08-09
+262,bàn phím,3,neutral,"đúng mô tả nhưng giao hơi lâu, hơi tiếc",2025-01-27
+263,sạc dự phòng,2,negative,săn sale nên thấy sạc vào rất chậm,2025-08-19
+264,nồi chiên,1,negative,"săn sale nên thấy quạt hơi ồn, đáng tiền",2026-02-11
+265,tai nghe,1,negative,âm bị rè khi mở lớn,2025-07-25
+266,sạc dự phòng,4,positive,"đóng gói cẩn thận, dùng ổn định, rất hài lòng, hơi tiếc",2025-09-23
+267,áo thun,4,positive,"đóng gói cẩn thận, màu đẹp như hình, sẽ ủng hộ tiếp",2025-07-21
+268,sạc dự phòng,2,negative,máy hơi nóng khi sạc,2025-09-08
+269,giày thể thao,1,negative,"đóng gói cẩn thận, đi hơi cứng chân",2025-08-02
+270,sạc dự phòng,4,positive,"thiết kế đẹp, cầm chắc tay",2025-04-27
+271,giày thể thao,5,positive,"nhẹ chân, đúng size, hơi tiếc",2025-03-17
+272,nồi chiên,1,negative,"quạt hơi ồn, hơi tiếc",2025-06-10
+273,áo thun,4,positive,"màu đẹp như hình, hơi tiếc",2026-03-23
+274,nồi chiên,1,negative,"shop giao nhanh, nhiệt không đều như mong đợi",2025-06-16
+275,giày thể thao,5,positive,"săn sale nên thấy đi êm chân, form đẹp",2025-06-25
+276,sạc dự phòng,5,positive,"shop giao nhanh, sạc nhanh, pin đúng dung lượng, đáng tiền",2025-10-13
+277,tai nghe,5,positive,"shop giao nhanh, mic thu âm rõ, gọi điện tốt, hơi tiếc",2025-06-12
+278,áo thun,5,positive,"vải mềm, form đẹp",2025-07-14
+279,áo thun,3,neutral,"đóng gói cẩn thận, mặc tạm ổn",2025-06-27
+280,áo thun,1,negative,"size bị lệch, mặc không vừa, đáng tiền",2025-10-15
+281,giày thể thao,4,positive,"đi êm chân, form đẹp",2025-04-26
+282,giày thể thao,4,positive,"săn sale nên thấy đế bám tốt, chạy thích",2025-12-15
+283,nồi chiên,4,positive,"săn sale nên thấy dung tích lớn, rất tiện, hơi tiếc",2025-11-30
+284,bàn phím,3,neutral,đúng mô tả nhưng giao hơi lâu,2025-11-30
+285,sạc dự phòng,4,positive,"shop giao nhanh, thiết kế đẹp, cầm chắc tay",2026-03-05
+286,áo thun,3,neutral,"mặc tạm ổn, đáng tiền",2025-10-18
+287,sạc dự phòng,5,positive,"thiết kế đẹp, cầm chắc tay",2025-09-10
+288,bàn phím,3,neutral,"gõ ổn, chưa có gì nổi bật, đáng tiền",2025-03-25
+289,giày thể thao,5,positive,"đóng gói cẩn thận, đi êm chân, form đẹp, đáng tiền",2025-10-18
+290,giày thể thao,3,neutral,"mẫu đẹp nhưng chưa thử chạy lâu, đáng tiền",2025-02-14
+291,áo thun,1,negative,"đóng gói cẩn thận, vải mỏng hơn mong đợi, sẽ ủng hộ tiếp",2025-01-04
+292,tai nghe,5,positive,"đóng gói cẩn thận, đeo êm tai lâu không đau",2026-01-06
+293,sạc dự phòng,5,positive,"sạc nhanh, pin đúng dung lượng, hơi tiếc",2025-06-07
+294,bàn phím,5,positive,"đóng gói cẩn thận, keycap chắc chắn, build ngon, đáng tiền",2025-11-11
+295,bàn phím,4,positive,"săn sale nên thấy gõ êm tay, led đẹp",2025-07-11
+296,áo thun,1,negative,"size bị lệch, mặc không vừa",2025-09-27
+297,áo thun,1,negative,"chỉ thừa nhiều, hơi thất vọng",2026-03-01
+298,sạc dự phòng,3,neutral,"đóng gói cẩn thận, dùng được, chưa thấy vấn đề",2025-08-15
+299,chuột,1,negative,"kết nối chập chờn, dùng bực mình, hơi tiếc",2025-03-09
+300,sạc dự phòng,4,positive,"đóng gói cẩn thận, dùng ổn định, rất hài lòng",2025-07-22
+301,tai nghe,3,neutral,"săn sale nên thấy âm thanh ở mức chấp nhận được, đáng tiền",2025-12-25
+302,chuột,1,negative,"kết nối chập chờn, dùng bực mình, đáng tiền",2025-07-29
+303,bàn phím,3,neutral,"săn sale nên thấy đúng mô tả nhưng giao hơi lâu, hơi tiếc",2025-07-12
+304,chuột,2,negative,"shop giao nhanh, double click sau vài ngày, khá khó chịu",2025-07-21
+305,sạc dự phòng,4,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng, hơi tiếc",2025-12-11
+306,giày thể thao,1,negative,"săn sale nên thấy keo dán chưa chắc, đáng tiền",2025-03-21
+307,tai nghe,4,positive,"săn sale nên thấy mic thu âm rõ, gọi điện tốt",2026-01-28
+308,chuột,4,positive,"săn sale nên thấy di chuột mượt, click nhạy, rất đáng tiền",2025-12-11
+309,giày thể thao,3,neutral,"săn sale nên thấy mẫu đẹp nhưng chưa thử chạy lâu, sẽ ủng hộ tiếp",2025-10-04
+310,bàn phím,3,neutral,"đóng gói cẩn thận, dùng văn phòng khá ổn, sẽ ủng hộ tiếp",2026-02-22
+311,giày thể thao,1,negative,"shop giao nhanh, đi hơi cứng chân",2025-04-24
+312,áo thun,4,positive,săn sale nên thấy màu đẹp như hình,2025-09-11
+313,chuột,3,neutral,"săn sale nên thấy đúng mô tả, hiệu năng bình thường, hơi tiếc",2025-03-18
+314,tai nghe,5,positive,"đóng gói cẩn thận, âm thanh rõ, bass tốt, sẽ ủng hộ tiếp",2026-02-17
+315,áo thun,3,neutral,"không quá xuất sắc nhưng chấp nhận được, sẽ ủng hộ tiếp",2025-07-18
+316,bàn phím,5,positive,"đóng gói cẩn thận, switch phản hồi tốt, rất thích",2025-10-02
+317,giày thể thao,3,neutral,mẫu đẹp nhưng chưa thử chạy lâu,2025-01-21
+318,nồi chiên,4,positive,"đóng gói cẩn thận, nướng nhanh, chín đều, đáng tiền",2025-01-08
+319,bàn phím,3,neutral,"gõ ổn, chưa có gì nổi bật, sẽ ủng hộ tiếp",2025-07-23
+320,bàn phím,2,negative,"led không đều màu, đáng tiền",2025-06-07
+321,tai nghe,5,positive,"săn sale nên thấy âm thanh rõ, bass tốt, đáng tiền",2025-04-15
+322,tai nghe,4,positive,"shop giao nhanh, mic thu âm rõ, gọi điện tốt",2025-05-14
+323,sạc dự phòng,3,neutral,"shop giao nhanh, dùng được, chưa thấy vấn đề, đáng tiền",2025-04-28
+324,áo thun,2,negative,"đóng gói cẩn thận, chỉ thừa nhiều, hơi thất vọng, đáng tiền",2026-01-26
+325,nồi chiên,5,positive,"đóng gói cẩn thận, nướng nhanh, chín đều, sẽ ủng hộ tiếp",2025-03-13
+326,giày thể thao,1,negative,size không chuẩn,2026-02-23
+327,giày thể thao,4,positive,"shop giao nhanh, đi êm chân, form đẹp",2025-12-29
+328,bàn phím,5,positive,"gõ êm tay, led đẹp",2025-09-05
+329,giày thể thao,4,positive,"đi êm chân, form đẹp",2026-01-05
+330,tai nghe,1,negative,"săn sale nên thấy đeo hơi đau tai, sẽ ủng hộ tiếp",2025-02-24
+331,chuột,1,negative,"đóng gói cẩn thận, con lăn bị kẹt, trải nghiệm tệ, đáng tiền",2026-02-12
+332,áo thun,5,positive,"shop giao nhanh, màu đẹp như hình, sẽ ủng hộ tiếp",2025-06-03
+333,giày thể thao,3,neutral,"săn sale nên thấy đi ổn, đúng giá tiền, hơi tiếc",2025-07-13
+334,sạc dự phòng,4,positive,"săn sale nên thấy sạc nhanh, pin đúng dung lượng, hơi tiếc",2025-11-27
+335,nồi chiên,4,positive,"shop giao nhanh, nướng nhanh, chín đều",2025-09-01
+336,tai nghe,4,positive,"mic thu âm rõ, gọi điện tốt",2025-04-02
+337,nồi chiên,4,positive,"săn sale nên thấy dung tích lớn, rất tiện",2025-06-03
+338,bàn phím,2,negative,"shop giao nhanh, led không đều màu",2025-09-14
+339,giày thể thao,3,neutral,"shop giao nhanh, mẫu đẹp nhưng chưa thử chạy lâu",2025-06-24
+340,sạc dự phòng,3,neutral,"đóng gói cẩn thận, dùng được, chưa thấy vấn đề, hơi tiếc",2025-09-09
+341,bàn phím,5,positive,"gõ êm tay, led đẹp, hơi tiếc",2025-02-13
+342,nồi chiên,1,negative,"đóng gói cẩn thận, quạt hơi ồn, sẽ ủng hộ tiếp",2025-07-14
+343,giày thể thao,3,neutral,"đóng gói cẩn thận, mẫu đẹp nhưng chưa thử chạy lâu",2025-02-16
+344,chuột,3,neutral,"chưa dùng lâu nên chưa đánh giá thêm, sẽ ủng hộ tiếp",2025-02-14
+345,bàn phím,5,positive,"gõ êm tay, led đẹp, đáng tiền",2025-10-11
+346,chuột,2,negative,"đóng gói cẩn thận, double click sau vài ngày, khá khó chịu, hơi tiếc",2025-07-18
+347,nồi chiên,4,positive,"săn sale nên thấy dung tích lớn, rất tiện, sẽ ủng hộ tiếp",2025-03-13
+348,tai nghe,5,positive,"shop giao nhanh, âm thanh rõ, bass tốt, hơi tiếc",2025-05-22
+349,áo thun,4,positive,"shop giao nhanh, mặc thoải mái, đường may chắc, hơi tiếc",2025-11-01
+350,sạc dự phòng,4,positive,"thiết kế đẹp, cầm chắc tay, hơi tiếc",2025-06-20
+351,nồi chiên,2,negative,săn sale nên thấy vỏ có vết xước,2025-03-11
+352,tai nghe,4,positive,"shop giao nhanh, đeo êm tai lâu không đau, hơi tiếc",2025-06-13
+353,tai nghe,1,negative,"săn sale nên thấy pin tụt nhanh, đáng tiền",2026-02-23
+354,nồi chiên,4,positive,"dung tích lớn, rất tiện, sẽ ủng hộ tiếp",2025-12-16
+355,nồi chiên,1,negative,"đóng gói cẩn thận, vỏ có vết xước",2026-02-24
+356,nồi chiên,3,neutral,"đóng gói cẩn thận, dùng ổn, cần test thêm, sẽ ủng hộ tiếp",2025-05-10
+357,giày thể thao,5,positive,"săn sale nên thấy đi êm chân, form đẹp",2025-09-03
+358,sạc dự phòng,5,positive,"thiết kế đẹp, cầm chắc tay",2025-11-23
+359,chuột,4,positive,"pin trâu, dùng mượt cả ngày",2025-10-16
+360,giày thể thao,2,negative,đi hơi cứng chân,2025-02-20
+361,tai nghe,4,positive,"săn sale nên thấy đeo êm tai lâu không đau, hơi tiếc",2026-01-31
+362,giày thể thao,2,negative,săn sale nên thấy keo dán chưa chắc,2025-06-01
+363,áo thun,3,neutral,"shop giao nhanh, không quá xuất sắc nhưng chấp nhận được, đáng tiền",2025-06-09
+364,tai nghe,4,positive,săn sale nên thấy đeo êm tai lâu không đau,2025-08-13
+365,giày thể thao,1,negative,đi hơi cứng chân,2025-01-12
+366,nồi chiên,4,positive,"shop giao nhanh, dung tích lớn, rất tiện",2025-03-31
+367,sạc dự phòng,5,positive,"săn sale nên thấy sạc nhanh, pin đúng dung lượng, sẽ ủng hộ tiếp",2025-04-06
+368,giày thể thao,1,negative,"size không chuẩn, sẽ ủng hộ tiếp",2025-08-19
+369,sạc dự phòng,4,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng",2025-10-23
+370,chuột,3,neutral,"shop giao nhanh, chưa dùng lâu nên chưa đánh giá thêm, hơi tiếc",2025-02-28
+371,tai nghe,2,negative,săn sale nên thấy đeo hơi đau tai,2025-07-20
+372,sạc dự phòng,5,positive,"shop giao nhanh, dùng ổn định, rất hài lòng, đáng tiền",2025-11-11
+373,sạc dự phòng,4,positive,"shop giao nhanh, sạc nhanh, pin đúng dung lượng, đáng tiền",2025-03-01
+374,bàn phím,4,positive,"switch phản hồi tốt, rất thích, sẽ ủng hộ tiếp",2025-10-22
+375,áo thun,5,positive,"shop giao nhanh, màu đẹp như hình, hơi tiếc",2025-05-28
+376,bàn phím,5,positive,"switch phản hồi tốt, rất thích, hơi tiếc",2025-03-11
+377,bàn phím,3,neutral,"săn sale nên thấy dùng văn phòng khá ổn, hơi tiếc",2025-12-30
+378,nồi chiên,4,positive,"dung tích lớn, rất tiện, sẽ ủng hộ tiếp",2025-05-30
+379,chuột,5,positive,"kết nối ổn định, không bị lag, hơi tiếc",2025-10-09
+380,sạc dự phòng,4,positive,"đóng gói cẩn thận, dùng ổn định, rất hài lòng",2026-02-26
+381,nồi chiên,5,positive,"máy chạy êm, dễ vệ sinh, sẽ ủng hộ tiếp",2025-06-02
+382,nồi chiên,3,neutral,"nấu được nhưng không quá nhanh, hơi tiếc",2026-03-20
+383,chuột,3,neutral,"đúng mô tả, hiệu năng bình thường, đáng tiền",2026-03-17
+384,giày thể thao,1,negative,"shop giao nhanh, size không chuẩn, sẽ ủng hộ tiếp",2026-02-21
+385,bàn phím,3,neutral,"dùng văn phòng khá ổn, sẽ ủng hộ tiếp",2025-06-15
+386,giày thể thao,5,positive,"săn sale nên thấy đi êm chân, form đẹp",2025-05-22
+387,nồi chiên,1,negative,"đóng gói cẩn thận, quạt hơi ồn, sẽ ủng hộ tiếp",2026-01-25
+388,nồi chiên,1,negative,"đóng gói cẩn thận, nhiệt không đều như mong đợi, hơi tiếc",2025-07-12
+389,áo thun,4,positive,"đóng gói cẩn thận, màu đẹp như hình, đáng tiền",2025-08-21
+390,áo thun,4,positive,"săn sale nên thấy màu đẹp như hình, đáng tiền",2026-03-12
+391,chuột,3,neutral,"shop giao nhanh, chưa dùng lâu nên chưa đánh giá thêm, hơi tiếc",2025-05-18
+392,tai nghe,3,neutral,"săn sale nên thấy chưa test lâu nên chưa rõ độ bền, đáng tiền",2026-04-03
+393,giày thể thao,3,neutral,săn sale nên thấy chất lượng bình thường,2025-03-05
+394,nồi chiên,5,positive,"shop giao nhanh, máy chạy êm, dễ vệ sinh, sẽ ủng hộ tiếp",2026-03-28
+395,giày thể thao,5,positive,"đóng gói cẩn thận, nhẹ chân, đúng size, đáng tiền",2025-02-12
+396,tai nghe,1,negative,"đóng gói cẩn thận, pin tụt nhanh, sẽ ủng hộ tiếp",2025-08-08
+397,giày thể thao,4,positive,"săn sale nên thấy đi êm chân, form đẹp",2025-03-09
+398,sạc dự phòng,5,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng",2026-03-17
+399,áo thun,1,negative,"săn sale nên thấy size bị lệch, mặc không vừa",2026-01-10
+400,nồi chiên,5,positive,"shop giao nhanh, máy chạy êm, dễ vệ sinh, hơi tiếc",2026-02-01
+401,nồi chiên,3,neutral,"dùng ổn, cần test thêm",2025-01-05
+402,sạc dự phòng,2,negative,"shop giao nhanh, máy hơi nóng khi sạc, sẽ ủng hộ tiếp",2025-07-30
+403,sạc dự phòng,1,negative,"shop giao nhanh, sạc vào rất chậm",2025-10-29
+404,giày thể thao,5,positive,"shop giao nhanh, đi êm chân, form đẹp, đáng tiền",2025-11-27
+405,chuột,5,positive,"shop giao nhanh, cầm vừa tay, phản hồi tốt",2025-11-07
+406,sạc dự phòng,5,positive,"dùng ổn định, rất hài lòng, sẽ ủng hộ tiếp",2025-09-11
+407,áo thun,5,positive,"màu đẹp như hình, đáng tiền",2025-06-12
+408,bàn phím,5,positive,"shop giao nhanh, keycap chắc chắn, build ngon, hơi tiếc",2026-01-30
+409,chuột,4,positive,"shop giao nhanh, cầm vừa tay, phản hồi tốt",2025-01-31
+410,nồi chiên,5,positive,"săn sale nên thấy máy chạy êm, dễ vệ sinh",2025-11-24
+411,sạc dự phòng,2,negative,"đóng gói cẩn thận, sạc vào rất chậm",2025-09-19
+412,bàn phím,3,neutral,đúng mô tả nhưng giao hơi lâu,2025-06-08
+413,giày thể thao,4,positive,"đi êm chân, form đẹp, hơi tiếc",2025-03-01
+414,áo thun,2,negative,"shop giao nhanh, chỉ thừa nhiều, hơi thất vọng",2025-01-07
+415,giày thể thao,4,positive,"đóng gói cẩn thận, đế bám tốt, chạy thích",2025-09-22
+416,nồi chiên,3,neutral,"shop giao nhanh, nấu được nhưng không quá nhanh, đáng tiền",2026-01-11
+417,chuột,3,neutral,"đóng gói cẩn thận, chưa dùng lâu nên chưa đánh giá thêm",2025-02-02
+418,tai nghe,2,negative,"pin tụt nhanh, đáng tiền",2025-01-29
+419,áo thun,3,neutral,"đóng gói cẩn thận, mặc tạm ổn",2026-04-03
+420,sạc dự phòng,1,negative,máy hơi nóng khi sạc,2025-01-23
+421,nồi chiên,3,neutral,"đóng gói cẩn thận, nấu được nhưng không quá nhanh, hơi tiếc",2025-03-18
+422,bàn phím,3,neutral,"đóng gói cẩn thận, gõ ổn, chưa có gì nổi bật, sẽ ủng hộ tiếp",2025-08-02
+423,giày thể thao,4,positive,"đi êm chân, form đẹp",2025-04-02
+424,bàn phím,3,neutral,"săn sale nên thấy gõ ổn, chưa có gì nổi bật, đáng tiền",2026-02-01
+425,nồi chiên,4,positive,"đóng gói cẩn thận, nướng nhanh, chín đều, sẽ ủng hộ tiếp",2025-05-30
+426,sạc dự phòng,3,neutral,"sạc ở mức bình thường, hơi tiếc",2026-01-31
+427,nồi chiên,4,positive,"săn sale nên thấy nướng nhanh, chín đều",2025-04-30
+428,sạc dự phòng,4,positive,"săn sale nên thấy sạc nhanh, pin đúng dung lượng, đáng tiền",2025-02-23
+429,bàn phím,2,negative,"led không đều màu, sẽ ủng hộ tiếp",2025-12-31
+430,tai nghe,4,positive,"đóng gói cẩn thận, mic thu âm rõ, gọi điện tốt, hơi tiếc",2026-01-18
+431,chuột,2,negative,"double click sau vài ngày, khá khó chịu",2025-02-01
+432,áo thun,1,negative,"đóng gói cẩn thận, vải mỏng hơn mong đợi, đáng tiền",2026-02-15
+433,áo thun,2,negative,"đóng gói cẩn thận, vải mỏng hơn mong đợi, sẽ ủng hộ tiếp",2025-02-08
+434,bàn phím,4,positive,"shop giao nhanh, gõ êm tay, led đẹp, hơi tiếc",2025-08-27
+435,tai nghe,5,positive,"đóng gói cẩn thận, đeo êm tai lâu không đau, hơi tiếc",2025-05-16
+436,nồi chiên,4,positive,"dung tích lớn, rất tiện",2025-04-21
+437,nồi chiên,3,neutral,"shop giao nhanh, đúng mô tả, mức trung bình, đáng tiền",2025-07-22
+438,sạc dự phòng,5,positive,"sạc nhanh, pin đúng dung lượng, hơi tiếc",2026-03-14
+439,áo thun,1,negative,"vải mỏng hơn mong đợi, sẽ ủng hộ tiếp",2025-03-04
+440,chuột,4,positive,"săn sale nên thấy pin trâu, dùng mượt cả ngày, đáng tiền",2025-12-18
+441,giày thể thao,3,neutral,"đi ổn, đúng giá tiền",2025-04-12
+442,giày thể thao,4,positive,"đế bám tốt, chạy thích",2025-08-25
+443,chuột,5,positive,"kết nối ổn định, không bị lag, hơi tiếc",2025-12-16
+444,áo thun,4,positive,"đóng gói cẩn thận, mặc thoải mái, đường may chắc, hơi tiếc",2026-03-29
+445,bàn phím,4,positive,"săn sale nên thấy switch phản hồi tốt, rất thích",2025-09-03
+446,chuột,5,positive,"shop giao nhanh, kết nối ổn định, không bị lag",2025-05-08
+447,giày thể thao,3,neutral,"đóng gói cẩn thận, chất lượng bình thường, hơi tiếc",2025-10-06
+448,nồi chiên,5,positive,"shop giao nhanh, máy chạy êm, dễ vệ sinh",2025-06-13
+449,sạc dự phòng,5,positive,"thiết kế đẹp, cầm chắc tay, đáng tiền",2026-01-28
+450,sạc dự phòng,3,neutral,"shop giao nhanh, dùng được, chưa thấy vấn đề, đáng tiền",2025-10-01
+451,nồi chiên,3,neutral,"săn sale nên thấy đúng mô tả, mức trung bình, đáng tiền",2026-03-06
+452,nồi chiên,4,positive,"đóng gói cẩn thận, dung tích lớn, rất tiện",2025-01-15
+453,giày thể thao,1,negative,"đi hơi cứng chân, đáng tiền",2025-03-31
+454,áo thun,4,positive,"shop giao nhanh, màu đẹp như hình",2025-09-27
+455,áo thun,4,positive,"shop giao nhanh, mặc thoải mái, đường may chắc, đáng tiền",2025-01-31
+456,chuột,4,positive,"cầm vừa tay, phản hồi tốt, đáng tiền",2025-12-27
+457,giày thể thao,4,positive,"đóng gói cẩn thận, đế bám tốt, chạy thích, sẽ ủng hộ tiếp",2025-03-22
+458,giày thể thao,3,neutral,"đi ổn, đúng giá tiền",2026-02-07
+459,tai nghe,4,positive,"đóng gói cẩn thận, đeo êm tai lâu không đau, sẽ ủng hộ tiếp",2025-04-01
+460,giày thể thao,5,positive,"đi êm chân, form đẹp, đáng tiền",2026-02-19
+461,sạc dự phòng,4,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng",2025-05-02
+462,tai nghe,3,neutral,"đóng gói cẩn thận, chưa test lâu nên chưa rõ độ bền, hơi tiếc",2025-01-06
+463,tai nghe,4,positive,đeo êm tai lâu không đau,2025-01-25
+464,áo thun,5,positive,"săn sale nên thấy mặc thoải mái, đường may chắc, hơi tiếc",2025-06-29
+465,sạc dự phòng,5,positive,"săn sale nên thấy sạc nhanh, pin đúng dung lượng",2026-02-14
+466,nồi chiên,4,positive,"máy chạy êm, dễ vệ sinh",2025-06-25
+467,bàn phím,3,neutral,"dùng văn phòng khá ổn, đáng tiền",2025-11-01
+468,sạc dự phòng,3,neutral,"shop giao nhanh, đúng mô tả nhưng chưa nổi bật",2026-04-01
+469,áo thun,4,positive,"shop giao nhanh, vải mềm, form đẹp, hơi tiếc",2025-12-23
+470,sạc dự phòng,2,negative,"shop giao nhanh, dung lượng không như quảng cáo",2025-01-26
+471,áo thun,1,negative,"đóng gói cẩn thận, size bị lệch, mặc không vừa",2025-08-07
+472,chuột,5,positive,"di chuột mượt, click nhạy, rất đáng tiền, sẽ ủng hộ tiếp",2025-03-29
+473,giày thể thao,4,positive,"đóng gói cẩn thận, đi êm chân, form đẹp, hơi tiếc",2025-08-30
+474,áo thun,3,neutral,"không quá xuất sắc nhưng chấp nhận được, hơi tiếc",2025-04-05
+475,tai nghe,3,neutral,"nghe ổn trong tầm giá, đáng tiền",2025-08-14
+476,áo thun,5,positive,"vải mềm, form đẹp",2025-12-09
+477,tai nghe,3,neutral,"chưa test lâu nên chưa rõ độ bền, hơi tiếc",2026-02-24
+478,sạc dự phòng,5,positive,"đóng gói cẩn thận, thiết kế đẹp, cầm chắc tay",2025-07-22
+479,nồi chiên,1,negative,"shop giao nhanh, vỏ có vết xước, sẽ ủng hộ tiếp",2025-04-19
+480,nồi chiên,4,positive,"săn sale nên thấy nướng nhanh, chín đều, sẽ ủng hộ tiếp",2026-02-26
+481,giày thể thao,5,positive,"nhẹ chân, đúng size",2025-07-18
+482,sạc dự phòng,5,positive,"săn sale nên thấy dùng ổn định, rất hài lòng",2026-02-07
+483,giày thể thao,1,negative,"shop giao nhanh, đi hơi cứng chân, sẽ ủng hộ tiếp",2025-10-18
+484,sạc dự phòng,1,negative,"máy hơi nóng khi sạc, đáng tiền",2026-03-21
+485,sạc dự phòng,3,neutral,săn sale nên thấy sạc ở mức bình thường,2025-11-08
+486,áo thun,5,positive,"vải mềm, form đẹp",2025-12-15
+487,giày thể thao,5,positive,"shop giao nhanh, nhẹ chân, đúng size",2026-01-17
+488,áo thun,3,neutral,"đóng gói cẩn thận, đúng mô tả, chất vải bình thường, đáng tiền",2025-05-24
+489,nồi chiên,4,positive,"đóng gói cẩn thận, nướng nhanh, chín đều, hơi tiếc",2026-02-01
+490,nồi chiên,5,positive,"săn sale nên thấy nướng nhanh, chín đều, sẽ ủng hộ tiếp",2026-02-26
+491,áo thun,1,negative,"shop giao nhanh, chỉ thừa nhiều, hơi thất vọng",2025-06-09
+492,giày thể thao,1,negative,"shop giao nhanh, keo dán chưa chắc, sẽ ủng hộ tiếp",2026-03-05
+493,chuột,5,positive,"shop giao nhanh, cầm vừa tay, phản hồi tốt, đáng tiền",2025-07-08
+494,nồi chiên,5,positive,"dung tích lớn, rất tiện, sẽ ủng hộ tiếp",2025-07-10
+495,áo thun,2,negative,"chỉ thừa nhiều, hơi thất vọng, đáng tiền",2025-06-26
+496,bàn phím,3,neutral,"đúng mô tả nhưng giao hơi lâu, hơi tiếc",2025-01-26
+497,bàn phím,3,neutral,"shop giao nhanh, dùng văn phòng khá ổn, sẽ ủng hộ tiếp",2025-05-18
+498,giày thể thao,4,positive,"shop giao nhanh, đế bám tốt, chạy thích, sẽ ủng hộ tiếp",2025-11-04
+499,nồi chiên,5,positive,"đóng gói cẩn thận, dung tích lớn, rất tiện, hơi tiếc",2026-04-04
+500,áo thun,3,neutral,"săn sale nên thấy mặc tạm ổn, đáng tiền",2025-12-13
+501,sạc dự phòng,3,neutral,"dùng được, chưa thấy vấn đề, đáng tiền",2025-10-15
+502,giày thể thao,2,negative,"size không chuẩn, hơi tiếc",2025-02-02
+503,tai nghe,3,neutral,"đóng gói cẩn thận, nghe ổn trong tầm giá, sẽ ủng hộ tiếp",2025-03-18
+504,sạc dự phòng,3,neutral,"đóng gói cẩn thận, đúng mô tả nhưng chưa nổi bật, sẽ ủng hộ tiếp",2026-01-05
+505,chuột,2,negative,"săn sale nên thấy kết nối chập chờn, dùng bực mình, hơi tiếc",2026-01-13
+506,chuột,2,negative,"pin yếu hơn mô tả, hơi tiếc",2025-12-10
+507,tai nghe,1,negative,"pin tụt nhanh, hơi tiếc",2025-03-07
+508,giày thể thao,4,positive,"nhẹ chân, đúng size, sẽ ủng hộ tiếp",2025-07-01
+509,bàn phím,2,negative,"đóng gói cẩn thận, led không đều màu, đáng tiền",2025-10-27
+510,tai nghe,4,positive,"âm thanh rõ, bass tốt",2025-11-14
+511,chuột,4,positive,"kết nối ổn định, không bị lag, đáng tiền",2025-07-31
+512,chuột,3,neutral,"đóng gói cẩn thận, dùng tạm ổn trong tầm giá, hơi tiếc",2025-10-19
+513,áo thun,4,positive,"đóng gói cẩn thận, mặc thoải mái, đường may chắc, sẽ ủng hộ tiếp",2025-06-10
+514,giày thể thao,5,positive,"shop giao nhanh, đi êm chân, form đẹp",2026-01-27
+515,bàn phím,4,positive,"săn sale nên thấy keycap chắc chắn, build ngon, hơi tiếc",2025-07-26
+516,áo thun,3,neutral,"mặc tạm ổn, sẽ ủng hộ tiếp",2026-01-10
+517,tai nghe,3,neutral,"âm thanh ở mức chấp nhận được, sẽ ủng hộ tiếp",2025-04-26
+518,giày thể thao,3,neutral,"săn sale nên thấy đi ổn, đúng giá tiền",2025-10-29
+519,tai nghe,4,positive,săn sale nên thấy đeo êm tai lâu không đau,2025-11-02
+520,sạc dự phòng,4,positive,"đóng gói cẩn thận, thiết kế đẹp, cầm chắc tay, sẽ ủng hộ tiếp",2025-03-26
+521,nồi chiên,4,positive,"shop giao nhanh, dung tích lớn, rất tiện, sẽ ủng hộ tiếp",2026-01-11
+522,chuột,1,negative,"con lăn bị kẹt, trải nghiệm tệ, hơi tiếc",2026-03-25
+523,giày thể thao,4,positive,"nhẹ chân, đúng size",2025-01-25
+524,giày thể thao,5,positive,"đi êm chân, form đẹp, đáng tiền",2025-08-31
+525,giày thể thao,4,positive,"đế bám tốt, chạy thích",2025-05-19
+526,sạc dự phòng,2,negative,sạc vào rất chậm,2025-03-02
+527,tai nghe,4,positive,"âm thanh rõ, bass tốt, sẽ ủng hộ tiếp",2026-02-03
+528,tai nghe,3,neutral,"săn sale nên thấy chưa test lâu nên chưa rõ độ bền, đáng tiền",2025-03-24
+529,chuột,2,negative,"shop giao nhanh, con lăn bị kẹt, trải nghiệm tệ",2025-01-07
+530,giày thể thao,4,positive,"đi êm chân, form đẹp",2025-02-08
+531,giày thể thao,1,negative,"đóng gói cẩn thận, đi hơi cứng chân, đáng tiền",2025-08-26
+532,chuột,4,positive,"đóng gói cẩn thận, cầm vừa tay, phản hồi tốt, đáng tiền",2025-08-07
+533,giày thể thao,4,positive,"shop giao nhanh, đi êm chân, form đẹp, đáng tiền",2025-07-03
+534,áo thun,3,neutral,"đóng gói cẩn thận, đúng mô tả, chất vải bình thường, sẽ ủng hộ tiếp",2025-02-28
+535,áo thun,5,positive,"săn sale nên thấy mặc thoải mái, đường may chắc, hơi tiếc",2025-11-29
+536,nồi chiên,4,positive,"nướng nhanh, chín đều, hơi tiếc",2025-10-30
+537,áo thun,3,neutral,"săn sale nên thấy không quá xuất sắc nhưng chấp nhận được, đáng tiền",2025-11-10
+538,chuột,3,neutral,"chưa dùng lâu nên chưa đánh giá thêm, hơi tiếc",2025-08-14
+539,chuột,5,positive,"đóng gói cẩn thận, pin trâu, dùng mượt cả ngày",2025-09-25
+540,giày thể thao,2,negative,"shop giao nhanh, size không chuẩn, hơi tiếc",2025-06-27
+541,giày thể thao,1,negative,size không chuẩn,2025-01-06
+542,giày thể thao,3,neutral,"đi ổn, đúng giá tiền, hơi tiếc",2025-06-14
+543,bàn phím,5,positive,"shop giao nhanh, keycap chắc chắn, build ngon",2025-11-26
+544,áo thun,4,positive,"săn sale nên thấy mặc thoải mái, đường may chắc",2025-08-18
+545,chuột,3,neutral,săn sale nên thấy dùng tạm ổn trong tầm giá,2025-02-22
+546,áo thun,4,positive,"màu đẹp như hình, đáng tiền",2026-04-01
+547,sạc dự phòng,2,negative,"dung lượng không như quảng cáo, sẽ ủng hộ tiếp",2026-03-09
+548,áo thun,5,positive,săn sale nên thấy màu đẹp như hình,2025-02-19
+549,nồi chiên,2,negative,"đóng gói cẩn thận, vỏ có vết xước",2025-09-25
+550,tai nghe,1,negative,"shop giao nhanh, pin tụt nhanh, hơi tiếc",2025-02-24
+551,tai nghe,1,negative,"shop giao nhanh, pin tụt nhanh, hơi tiếc",2026-02-27
+552,nồi chiên,5,positive,"máy chạy êm, dễ vệ sinh",2025-03-05
+553,nồi chiên,3,neutral,nấu được nhưng không quá nhanh,2026-01-12
+554,chuột,2,negative,"pin yếu hơn mô tả, sẽ ủng hộ tiếp",2026-01-10
+555,nồi chiên,5,positive,"săn sale nên thấy dung tích lớn, rất tiện, hơi tiếc",2025-11-08
+556,giày thể thao,3,neutral,"đóng gói cẩn thận, mẫu đẹp nhưng chưa thử chạy lâu, hơi tiếc",2026-02-17
+557,bàn phím,5,positive,"keycap chắc chắn, build ngon, sẽ ủng hộ tiếp",2025-04-13
+558,bàn phím,2,negative,"shop giao nhanh, gõ hơi cứng và ồn, sẽ ủng hộ tiếp",2025-09-15
+559,sạc dự phòng,1,negative,"dung lượng không như quảng cáo, hơi tiếc",2025-10-26
+560,sạc dự phòng,3,neutral,sạc ở mức bình thường,2025-02-24
+561,chuột,4,positive,"đóng gói cẩn thận, pin trâu, dùng mượt cả ngày, sẽ ủng hộ tiếp",2025-05-27
+562,giày thể thao,4,positive,"đi êm chân, form đẹp",2025-07-03
+563,nồi chiên,4,positive,"nướng nhanh, chín đều, đáng tiền",2025-12-21
+564,giày thể thao,5,positive,"đóng gói cẩn thận, đế bám tốt, chạy thích",2025-01-28
+565,chuột,2,negative,"đóng gói cẩn thận, pin yếu hơn mô tả",2025-10-07
+566,giày thể thao,2,negative,"shop giao nhanh, đi hơi cứng chân",2025-04-06
+567,bàn phím,2,negative,"săn sale nên thấy một vài phím bị liệt, đáng tiền",2025-10-12
+568,tai nghe,5,positive,"săn sale nên thấy đeo êm tai lâu không đau, sẽ ủng hộ tiếp",2025-01-21
+569,bàn phím,3,neutral,đúng mô tả nhưng giao hơi lâu,2025-07-03
+570,chuột,3,neutral,dùng tạm ổn trong tầm giá,2026-02-07
+571,sạc dự phòng,5,positive,"shop giao nhanh, thiết kế đẹp, cầm chắc tay, sẽ ủng hộ tiếp",2025-12-06
+572,tai nghe,5,positive,"mic thu âm rõ, gọi điện tốt, hơi tiếc",2025-10-15
+573,nồi chiên,3,neutral,"đóng gói cẩn thận, đúng mô tả, mức trung bình, hơi tiếc",2025-05-04
+574,giày thể thao,1,negative,"đóng gói cẩn thận, size không chuẩn, hơi tiếc",2026-02-12
+575,chuột,5,positive,"cầm vừa tay, phản hồi tốt",2025-08-17
+576,áo thun,4,positive,màu đẹp như hình,2025-03-27
+577,nồi chiên,1,negative,"shop giao nhanh, quạt hơi ồn, hơi tiếc",2026-03-04
+578,chuột,5,positive,"pin trâu, dùng mượt cả ngày, hơi tiếc",2026-01-03
+579,tai nghe,4,positive,"đóng gói cẩn thận, âm thanh rõ, bass tốt",2025-02-06
+580,sạc dự phòng,3,neutral,"săn sale nên thấy sạc ở mức bình thường, hơi tiếc",2025-08-10
+581,tai nghe,4,positive,"mic thu âm rõ, gọi điện tốt",2026-01-23
+582,giày thể thao,2,negative,"size không chuẩn, đáng tiền",2026-02-07
+583,giày thể thao,4,positive,"săn sale nên thấy đế bám tốt, chạy thích, hơi tiếc",2026-02-25
+584,giày thể thao,4,positive,"săn sale nên thấy đi êm chân, form đẹp",2025-06-01
+585,giày thể thao,5,positive,"nhẹ chân, đúng size, sẽ ủng hộ tiếp",2025-03-05
+586,chuột,5,positive,"shop giao nhanh, cầm vừa tay, phản hồi tốt, đáng tiền",2025-04-19
+587,áo thun,3,neutral,"shop giao nhanh, mặc tạm ổn",2026-03-04
+588,tai nghe,4,positive,"săn sale nên thấy mic thu âm rõ, gọi điện tốt",2025-02-07
+589,tai nghe,1,negative,"âm bị rè khi mở lớn, hơi tiếc",2025-06-19
+590,tai nghe,4,positive,đeo êm tai lâu không đau,2026-04-06
+591,bàn phím,5,positive,"đóng gói cẩn thận, keycap chắc chắn, build ngon",2025-03-20
+592,sạc dự phòng,2,negative,"sạc vào rất chậm, đáng tiền",2025-05-07
+593,nồi chiên,5,positive,"shop giao nhanh, máy chạy êm, dễ vệ sinh, đáng tiền",2026-03-26
+594,áo thun,5,positive,"mặc thoải mái, đường may chắc",2025-03-31
+595,giày thể thao,1,negative,"shop giao nhanh, size không chuẩn, đáng tiền",2026-01-11
+596,giày thể thao,4,positive,"nhẹ chân, đúng size",2025-10-24
+597,áo thun,3,neutral,"đóng gói cẩn thận, không quá xuất sắc nhưng chấp nhận được",2026-04-03
+598,sạc dự phòng,4,positive,"shop giao nhanh, thiết kế đẹp, cầm chắc tay",2026-01-11
+599,nồi chiên,5,positive,"đóng gói cẩn thận, máy chạy êm, dễ vệ sinh",2025-01-06
+600,giày thể thao,4,positive,"shop giao nhanh, đế bám tốt, chạy thích, sẽ ủng hộ tiếp",2025-10-17
+601,sạc dự phòng,2,negative,"dung lượng không như quảng cáo, sẽ ủng hộ tiếp",2026-01-25
+602,áo thun,5,positive,"vải mềm, form đẹp, sẽ ủng hộ tiếp",2025-09-23
+603,nồi chiên,5,positive,"nướng nhanh, chín đều, đáng tiền",2025-02-22
+604,giày thể thao,3,neutral,chất lượng bình thường,2025-03-31
+605,áo thun,1,negative,"đóng gói cẩn thận, chỉ thừa nhiều, hơi thất vọng, hơi tiếc",2025-04-25
+606,sạc dự phòng,5,positive,"thiết kế đẹp, cầm chắc tay",2025-09-14
+607,bàn phím,4,positive,"đóng gói cẩn thận, keycap chắc chắn, build ngon, sẽ ủng hộ tiếp",2025-03-18
+608,bàn phím,4,positive,"đóng gói cẩn thận, switch phản hồi tốt, rất thích",2025-09-04
+609,giày thể thao,4,positive,"săn sale nên thấy nhẹ chân, đúng size",2025-05-05
+610,chuột,4,positive,"di chuột mượt, click nhạy, rất đáng tiền, sẽ ủng hộ tiếp",2025-01-29
+611,bàn phím,4,positive,"keycap chắc chắn, build ngon",2026-03-26
+612,giày thể thao,1,negative,săn sale nên thấy keo dán chưa chắc,2025-08-30
+613,nồi chiên,4,positive,"shop giao nhanh, dung tích lớn, rất tiện",2026-02-25
+614,nồi chiên,5,positive,"đóng gói cẩn thận, dung tích lớn, rất tiện, hơi tiếc",2025-11-02
+615,sạc dự phòng,5,positive,"sạc nhanh, pin đúng dung lượng",2025-04-14
+616,sạc dự phòng,3,neutral,"đúng mô tả nhưng chưa nổi bật, sẽ ủng hộ tiếp",2025-09-01
+617,sạc dự phòng,1,negative,"shop giao nhanh, dung lượng không như quảng cáo",2025-10-04
+618,nồi chiên,5,positive,"máy chạy êm, dễ vệ sinh",2025-08-08
+619,bàn phím,3,neutral,đúng mô tả nhưng giao hơi lâu,2025-02-20
+620,áo thun,5,positive,"đóng gói cẩn thận, vải mềm, form đẹp",2026-03-25
+621,sạc dự phòng,4,positive,"dùng ổn định, rất hài lòng",2025-09-25
+622,chuột,1,negative,"săn sale nên thấy con lăn bị kẹt, trải nghiệm tệ, đáng tiền",2025-02-24
+623,bàn phím,5,positive,"săn sale nên thấy keycap chắc chắn, build ngon",2025-07-07
+624,sạc dự phòng,5,positive,"thiết kế đẹp, cầm chắc tay",2025-09-05
+625,bàn phím,5,positive,"switch phản hồi tốt, rất thích, đáng tiền",2026-02-01
+626,giày thể thao,4,positive,"shop giao nhanh, nhẹ chân, đúng size, hơi tiếc",2026-02-05
+627,giày thể thao,3,neutral,"săn sale nên thấy chất lượng bình thường, đáng tiền",2026-02-15
+628,sạc dự phòng,1,negative,dung lượng không như quảng cáo,2026-02-26
+629,bàn phím,5,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2025-07-09
+630,chuột,2,negative,"con lăn bị kẹt, trải nghiệm tệ",2026-02-01
+631,nồi chiên,5,positive,"shop giao nhanh, nướng nhanh, chín đều",2025-05-27
+632,bàn phím,4,positive,"keycap chắc chắn, build ngon, đáng tiền",2025-05-03
+633,giày thể thao,4,positive,"săn sale nên thấy đế bám tốt, chạy thích, đáng tiền",2025-12-09
+634,áo thun,4,positive,màu đẹp như hình,2025-10-09
+635,tai nghe,2,negative,"shop giao nhanh, pin tụt nhanh",2025-04-10
+636,áo thun,3,neutral,săn sale nên thấy mặc tạm ổn,2025-02-24
+637,sạc dự phòng,5,positive,"sạc nhanh, pin đúng dung lượng, đáng tiền",2026-03-25
+638,sạc dự phòng,3,neutral,"sạc ở mức bình thường, hơi tiếc",2026-01-30
+639,bàn phím,3,neutral,"dùng văn phòng khá ổn, hơi tiếc",2025-03-01
+640,tai nghe,4,positive,"săn sale nên thấy đeo êm tai lâu không đau, đáng tiền",2025-09-22
+641,sạc dự phòng,5,positive,"thiết kế đẹp, cầm chắc tay, hơi tiếc",2025-12-11
+642,giày thể thao,3,neutral,"đóng gói cẩn thận, mẫu đẹp nhưng chưa thử chạy lâu, đáng tiền",2025-04-22
+643,sạc dự phòng,4,positive,"shop giao nhanh, dùng ổn định, rất hài lòng, sẽ ủng hộ tiếp",2026-01-12
+644,bàn phím,3,neutral,"shop giao nhanh, gõ ổn, chưa có gì nổi bật",2025-07-02
+645,bàn phím,3,neutral,săn sale nên thấy dùng văn phòng khá ổn,2025-01-04
+646,nồi chiên,3,neutral,"nấu được nhưng không quá nhanh, đáng tiền",2025-09-10
+647,sạc dự phòng,3,neutral,"đóng gói cẩn thận, đúng mô tả nhưng chưa nổi bật, hơi tiếc",2025-04-24
+648,nồi chiên,2,negative,vỏ có vết xước,2025-09-15
+649,tai nghe,4,positive,"âm thanh rõ, bass tốt, hơi tiếc",2025-06-11
+650,giày thể thao,4,positive,"nhẹ chân, đúng size, đáng tiền",2025-07-05
+651,sạc dự phòng,3,neutral,"đóng gói cẩn thận, dùng được, chưa thấy vấn đề, hơi tiếc",2025-11-10
+652,tai nghe,5,positive,"săn sale nên thấy âm thanh rõ, bass tốt, đáng tiền",2025-07-06
+653,nồi chiên,5,positive,"shop giao nhanh, dung tích lớn, rất tiện",2025-12-18
+654,bàn phím,3,neutral,"săn sale nên thấy dùng văn phòng khá ổn, hơi tiếc",2025-04-11
+655,bàn phím,3,neutral,"shop giao nhanh, gõ ổn, chưa có gì nổi bật, hơi tiếc",2025-09-13
+656,bàn phím,3,neutral,"đóng gói cẩn thận, đúng mô tả nhưng giao hơi lâu",2026-03-16
+657,sạc dự phòng,4,positive,"shop giao nhanh, sạc nhanh, pin đúng dung lượng, đáng tiền",2025-09-01
+658,nồi chiên,2,negative,"đóng gói cẩn thận, vỏ có vết xước, đáng tiền",2025-10-14
+659,sạc dự phòng,3,neutral,"săn sale nên thấy dùng được, chưa thấy vấn đề",2025-06-29
+660,nồi chiên,1,negative,"đóng gói cẩn thận, vỏ có vết xước, đáng tiền",2025-12-11
+661,sạc dự phòng,5,positive,"thiết kế đẹp, cầm chắc tay, đáng tiền",2025-08-26
+662,giày thể thao,3,neutral,mẫu đẹp nhưng chưa thử chạy lâu,2025-07-27
+663,nồi chiên,3,neutral,"shop giao nhanh, nấu được nhưng không quá nhanh, đáng tiền",2025-06-12
+664,giày thể thao,5,positive,"săn sale nên thấy đế bám tốt, chạy thích, đáng tiền",2026-01-18
+665,sạc dự phòng,2,negative,"shop giao nhanh, sạc vào rất chậm",2025-03-06
+666,giày thể thao,5,positive,"shop giao nhanh, đi êm chân, form đẹp, hơi tiếc",2025-02-22
+667,chuột,5,positive,"săn sale nên thấy di chuột mượt, click nhạy, rất đáng tiền",2026-01-27
+668,chuột,4,positive,"đóng gói cẩn thận, kết nối ổn định, không bị lag, sẽ ủng hộ tiếp",2025-05-07
+669,giày thể thao,4,positive,"shop giao nhanh, nhẹ chân, đúng size",2025-01-18
+670,giày thể thao,5,positive,"đế bám tốt, chạy thích, đáng tiền",2025-10-08
+671,áo thun,4,positive,"màu đẹp như hình, hơi tiếc",2025-09-26
+672,giày thể thao,2,negative,"đi hơi cứng chân, sẽ ủng hộ tiếp",2026-02-17
+673,chuột,5,positive,"shop giao nhanh, cầm vừa tay, phản hồi tốt, đáng tiền",2025-01-06
+674,chuột,2,negative,"săn sale nên thấy con lăn bị kẹt, trải nghiệm tệ",2025-01-05
+675,giày thể thao,3,neutral,"săn sale nên thấy đi ổn, đúng giá tiền, đáng tiền",2025-11-02
+676,bàn phím,3,neutral,"đúng mô tả nhưng giao hơi lâu, hơi tiếc",2025-07-22
+677,bàn phím,5,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp",2025-08-05
+678,giày thể thao,5,positive,"nhẹ chân, đúng size, đáng tiền",2025-07-31
+679,bàn phím,3,neutral,"đúng mô tả nhưng giao hơi lâu, hơi tiếc",2025-11-13
+680,áo thun,5,positive,"mặc thoải mái, đường may chắc, sẽ ủng hộ tiếp",2025-01-26
+681,sạc dự phòng,4,positive,"shop giao nhanh, thiết kế đẹp, cầm chắc tay, hơi tiếc",2026-01-08
+682,chuột,4,positive,"shop giao nhanh, kết nối ổn định, không bị lag, đáng tiền",2025-08-04
+683,tai nghe,3,neutral,"nghe ổn trong tầm giá, đáng tiền",2025-02-11
+684,nồi chiên,3,neutral,săn sale nên thấy nấu được nhưng không quá nhanh,2025-10-06
+685,áo thun,5,positive,"vải mềm, form đẹp, sẽ ủng hộ tiếp",2025-07-17
+686,nồi chiên,3,neutral,"săn sale nên thấy dùng ổn, cần test thêm",2025-09-24
+687,giày thể thao,3,neutral,"đóng gói cẩn thận, chất lượng bình thường, đáng tiền",2025-03-23
+688,giày thể thao,2,negative,"đóng gói cẩn thận, đi hơi cứng chân, sẽ ủng hộ tiếp",2025-07-04
+689,chuột,3,neutral,"săn sale nên thấy dùng tạm ổn trong tầm giá, đáng tiền",2025-01-08
+690,bàn phím,3,neutral,"gõ ổn, chưa có gì nổi bật",2025-10-25
+691,nồi chiên,2,negative,"shop giao nhanh, quạt hơi ồn, sẽ ủng hộ tiếp",2025-09-13
+692,chuột,1,negative,"đóng gói cẩn thận, double click sau vài ngày, khá khó chịu, sẽ ủng hộ tiếp",2025-12-26
+693,sạc dự phòng,3,neutral,"đóng gói cẩn thận, dùng được, chưa thấy vấn đề",2026-02-08
+694,giày thể thao,3,neutral,"săn sale nên thấy đi ổn, đúng giá tiền, đáng tiền",2026-01-06
+695,bàn phím,4,positive,"săn sale nên thấy keycap chắc chắn, build ngon",2025-05-31
+696,sạc dự phòng,1,negative,"đóng gói cẩn thận, máy hơi nóng khi sạc, đáng tiền",2026-01-10
+697,áo thun,4,positive,"shop giao nhanh, màu đẹp như hình, hơi tiếc",2025-06-01
+698,nồi chiên,5,positive,"nướng nhanh, chín đều, hơi tiếc",2026-01-11
+699,bàn phím,3,neutral,đúng mô tả nhưng giao hơi lâu,2026-02-24
+700,áo thun,5,positive,"đóng gói cẩn thận, màu đẹp như hình, đáng tiền",2025-07-29
+701,giày thể thao,4,positive,"shop giao nhanh, đi êm chân, form đẹp, sẽ ủng hộ tiếp",2026-03-24
+702,chuột,5,positive,"di chuột mượt, click nhạy, rất đáng tiền",2025-11-25
+703,nồi chiên,5,positive,"đóng gói cẩn thận, nướng nhanh, chín đều, sẽ ủng hộ tiếp",2025-11-07
+704,giày thể thao,4,positive,"săn sale nên thấy đi êm chân, form đẹp",2025-07-04
+705,sạc dự phòng,2,negative,máy hơi nóng khi sạc,2025-05-17
+706,sạc dự phòng,4,positive,"shop giao nhanh, sạc nhanh, pin đúng dung lượng",2025-02-19
+707,chuột,1,negative,"pin yếu hơn mô tả, sẽ ủng hộ tiếp",2025-10-19
+708,giày thể thao,3,neutral,"chất lượng bình thường, đáng tiền",2025-12-12
+709,áo thun,1,negative,"shop giao nhanh, size bị lệch, mặc không vừa",2025-07-25
+710,sạc dự phòng,4,positive,"đóng gói cẩn thận, thiết kế đẹp, cầm chắc tay",2025-06-16
+711,nồi chiên,5,positive,"shop giao nhanh, dung tích lớn, rất tiện",2025-10-07
+712,bàn phím,5,positive,"săn sale nên thấy switch phản hồi tốt, rất thích, hơi tiếc",2025-01-01
+713,giày thể thao,5,positive,"shop giao nhanh, nhẹ chân, đúng size, đáng tiền",2025-01-04
+714,tai nghe,3,neutral,"đóng gói cẩn thận, âm thanh ở mức chấp nhận được",2025-09-19
+715,sạc dự phòng,1,negative,"săn sale nên thấy sạc vào rất chậm, đáng tiền",2025-03-21
+716,bàn phím,4,positive,"đóng gói cẩn thận, switch phản hồi tốt, rất thích",2025-10-20
+717,áo thun,1,negative,"đóng gói cẩn thận, chỉ thừa nhiều, hơi thất vọng, hơi tiếc",2025-03-30
+718,áo thun,3,neutral,"mặc tạm ổn, hơi tiếc",2025-02-10
+719,nồi chiên,5,positive,"săn sale nên thấy máy chạy êm, dễ vệ sinh",2026-03-22
+720,nồi chiên,4,positive,"đóng gói cẩn thận, nướng nhanh, chín đều",2025-01-22
+721,tai nghe,2,negative,"shop giao nhanh, đeo hơi đau tai, sẽ ủng hộ tiếp",2025-01-26
+722,giày thể thao,2,negative,size không chuẩn,2025-02-16
+723,bàn phím,5,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp",2025-09-01
+724,sạc dự phòng,2,negative,săn sale nên thấy sạc vào rất chậm,2025-08-11
+725,nồi chiên,2,negative,"shop giao nhanh, nhiệt không đều như mong đợi, hơi tiếc",2025-07-22
+726,giày thể thao,1,negative,"đóng gói cẩn thận, keo dán chưa chắc, hơi tiếc",2025-06-15
+727,giày thể thao,3,neutral,"săn sale nên thấy chất lượng bình thường, hơi tiếc",2025-07-07
+728,tai nghe,5,positive,"shop giao nhanh, đeo êm tai lâu không đau, đáng tiền",2025-11-12
+729,nồi chiên,3,neutral,"nấu được nhưng không quá nhanh, sẽ ủng hộ tiếp",2025-04-13
+730,giày thể thao,4,positive,"nhẹ chân, đúng size, sẽ ủng hộ tiếp",2025-11-14
+731,bàn phím,3,neutral,"đúng mô tả nhưng giao hơi lâu, đáng tiền",2025-08-19
+732,áo thun,4,positive,"vải mềm, form đẹp",2026-01-20
+733,tai nghe,1,negative,pin tụt nhanh,2025-01-23
+734,tai nghe,5,positive,"mic thu âm rõ, gọi điện tốt, đáng tiền",2025-01-28
+735,áo thun,1,negative,"đóng gói cẩn thận, vải mỏng hơn mong đợi, đáng tiền",2026-03-19
+736,chuột,5,positive,"kết nối ổn định, không bị lag",2025-06-11
+737,áo thun,3,neutral,"mặc tạm ổn, hơi tiếc",2025-10-15
+738,giày thể thao,4,positive,"săn sale nên thấy đế bám tốt, chạy thích, hơi tiếc",2026-01-17
+739,bàn phím,5,positive,"đóng gói cẩn thận, keycap chắc chắn, build ngon, sẽ ủng hộ tiếp",2025-09-14
+740,tai nghe,3,neutral,"âm thanh ở mức chấp nhận được, đáng tiền",2025-04-26
+741,bàn phím,5,positive,"săn sale nên thấy gõ êm tay, led đẹp",2025-12-14
+742,sạc dự phòng,3,neutral,"dùng được, chưa thấy vấn đề, sẽ ủng hộ tiếp",2025-08-07
+743,tai nghe,3,neutral,"shop giao nhanh, chưa test lâu nên chưa rõ độ bền, sẽ ủng hộ tiếp",2025-12-01
+744,bàn phím,1,negative,"led không đều màu, sẽ ủng hộ tiếp",2025-08-09
+745,nồi chiên,4,positive,"nướng nhanh, chín đều",2026-01-04
+746,chuột,4,positive,"săn sale nên thấy cầm vừa tay, phản hồi tốt, hơi tiếc",2025-06-05
+747,áo thun,1,negative,"size bị lệch, mặc không vừa, sẽ ủng hộ tiếp",2025-04-05
+748,chuột,3,neutral,"shop giao nhanh, đúng mô tả, hiệu năng bình thường, sẽ ủng hộ tiếp",2025-12-18
+749,chuột,5,positive,"đóng gói cẩn thận, kết nối ổn định, không bị lag, sẽ ủng hộ tiếp",2026-03-13
+750,áo thun,4,positive,"shop giao nhanh, vải mềm, form đẹp",2025-07-29
+751,nồi chiên,3,neutral,"shop giao nhanh, dùng ổn, cần test thêm, sẽ ủng hộ tiếp",2025-02-03
+752,bàn phím,3,neutral,"đóng gói cẩn thận, dùng văn phòng khá ổn, hơi tiếc",2026-03-31
+753,bàn phím,4,positive,"đóng gói cẩn thận, keycap chắc chắn, build ngon, hơi tiếc",2025-11-10
+754,giày thể thao,1,negative,săn sale nên thấy đi hơi cứng chân,2026-03-26
+755,bàn phím,1,negative,săn sale nên thấy gõ hơi cứng và ồn,2026-01-27
+756,giày thể thao,3,neutral,"săn sale nên thấy mẫu đẹp nhưng chưa thử chạy lâu, đáng tiền",2026-02-01
+757,nồi chiên,4,positive,"máy chạy êm, dễ vệ sinh",2025-12-20
+758,sạc dự phòng,3,neutral,"dùng được, chưa thấy vấn đề",2025-04-03
+759,nồi chiên,2,negative,"đóng gói cẩn thận, vỏ có vết xước, hơi tiếc",2025-01-13
+760,bàn phím,4,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp, đáng tiền",2025-12-21
+761,giày thể thao,3,neutral,"đi ổn, đúng giá tiền, hơi tiếc",2025-11-21
+762,tai nghe,5,positive,"đeo êm tai lâu không đau, hơi tiếc",2025-01-23
+763,nồi chiên,5,positive,"shop giao nhanh, nướng nhanh, chín đều, sẽ ủng hộ tiếp",2026-01-29
+764,giày thể thao,5,positive,"săn sale nên thấy nhẹ chân, đúng size, đáng tiền",2025-11-17
+765,bàn phím,4,positive,"gõ êm tay, led đẹp, đáng tiền",2025-01-07
+766,áo thun,5,positive,"săn sale nên thấy màu đẹp như hình, sẽ ủng hộ tiếp",2025-04-22
+767,sạc dự phòng,2,negative,dung lượng không như quảng cáo,2025-11-04
+768,chuột,5,positive,"shop giao nhanh, di chuột mượt, click nhạy, rất đáng tiền, sẽ ủng hộ tiếp",2025-01-29
+769,giày thể thao,4,positive,"nhẹ chân, đúng size",2025-06-02
+770,tai nghe,3,neutral,"shop giao nhanh, nghe ổn trong tầm giá, sẽ ủng hộ tiếp",2025-12-11
+771,tai nghe,2,negative,"đeo hơi đau tai, đáng tiền",2025-01-19
+772,chuột,3,neutral,"chưa dùng lâu nên chưa đánh giá thêm, hơi tiếc",2026-03-08
+773,sạc dự phòng,5,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng, đáng tiền",2025-09-27
+774,áo thun,1,negative,"size bị lệch, mặc không vừa",2025-02-14
+775,áo thun,2,negative,"đóng gói cẩn thận, chỉ thừa nhiều, hơi thất vọng, đáng tiền",2025-09-27
+776,sạc dự phòng,3,neutral,"đúng mô tả nhưng chưa nổi bật, hơi tiếc",2025-09-24
+777,giày thể thao,1,negative,"shop giao nhanh, size không chuẩn, đáng tiền",2025-04-10
+778,chuột,5,positive,"pin trâu, dùng mượt cả ngày, hơi tiếc",2025-07-31
+779,chuột,4,positive,"đóng gói cẩn thận, pin trâu, dùng mượt cả ngày, đáng tiền",2026-02-09
+780,chuột,5,positive,"đóng gói cẩn thận, di chuột mượt, click nhạy, rất đáng tiền, đáng tiền",2025-07-22
+781,giày thể thao,1,negative,"đóng gói cẩn thận, keo dán chưa chắc, đáng tiền",2025-12-11
+782,áo thun,3,neutral,"shop giao nhanh, đúng mô tả, chất vải bình thường, hơi tiếc",2026-04-02
+783,nồi chiên,2,negative,vỏ có vết xước,2025-06-03
+784,sạc dự phòng,1,negative,"sạc vào rất chậm, đáng tiền",2026-02-14
+785,nồi chiên,4,positive,"đóng gói cẩn thận, nướng nhanh, chín đều, hơi tiếc",2025-11-17
+786,sạc dự phòng,3,neutral,"đúng mô tả nhưng chưa nổi bật, đáng tiền",2025-12-28
+787,nồi chiên,4,positive,"máy chạy êm, dễ vệ sinh, hơi tiếc",2026-03-26
+788,bàn phím,5,positive,"đóng gói cẩn thận, keycap chắc chắn, build ngon, sẽ ủng hộ tiếp",2025-02-27
+789,tai nghe,3,neutral,nghe ổn trong tầm giá,2026-02-14
+790,áo thun,3,neutral,"săn sale nên thấy đúng mô tả, chất vải bình thường",2025-06-08
+791,nồi chiên,4,positive,"nướng nhanh, chín đều, hơi tiếc",2025-07-18
+792,giày thể thao,3,neutral,mẫu đẹp nhưng chưa thử chạy lâu,2026-03-23
+793,chuột,4,positive,"cầm vừa tay, phản hồi tốt",2026-01-24
+794,tai nghe,2,negative,"shop giao nhanh, âm bị rè khi mở lớn, đáng tiền",2025-05-22
+795,sạc dự phòng,5,positive,"shop giao nhanh, thiết kế đẹp, cầm chắc tay, sẽ ủng hộ tiếp",2025-05-21
+796,chuột,4,positive,"cầm vừa tay, phản hồi tốt, đáng tiền",2025-05-19
+797,bàn phím,3,neutral,"gõ ổn, chưa có gì nổi bật, đáng tiền",2025-11-10
+798,tai nghe,1,negative,săn sale nên thấy âm bị rè khi mở lớn,2025-02-24
+799,áo thun,5,positive,"vải mềm, form đẹp",2025-11-19
+800,nồi chiên,2,negative,"đóng gói cẩn thận, vỏ có vết xước, sẽ ủng hộ tiếp",2026-01-01
+801,nồi chiên,2,negative,"shop giao nhanh, nhiệt không đều như mong đợi",2026-02-21
+802,nồi chiên,3,neutral,"đóng gói cẩn thận, nấu được nhưng không quá nhanh, hơi tiếc",2025-08-29
+803,bàn phím,3,neutral,"săn sale nên thấy đúng mô tả nhưng giao hơi lâu, sẽ ủng hộ tiếp",2025-12-25
+804,giày thể thao,5,positive,"đế bám tốt, chạy thích",2025-09-01
+805,chuột,5,positive,"đóng gói cẩn thận, cầm vừa tay, phản hồi tốt",2025-10-22
+806,bàn phím,1,negative,led không đều màu,2026-02-10
+807,tai nghe,2,negative,"âm bị rè khi mở lớn, sẽ ủng hộ tiếp",2025-10-08
+808,bàn phím,3,neutral,"shop giao nhanh, đúng mô tả nhưng giao hơi lâu",2025-08-09
+809,nồi chiên,3,neutral,"dùng ổn, cần test thêm",2026-03-05
+810,áo thun,5,positive,"màu đẹp như hình, hơi tiếc",2025-04-01
+811,tai nghe,3,neutral,"chưa test lâu nên chưa rõ độ bền, hơi tiếc",2025-06-17
+812,áo thun,1,negative,"shop giao nhanh, size bị lệch, mặc không vừa",2026-01-22
+813,giày thể thao,3,neutral,"mẫu đẹp nhưng chưa thử chạy lâu, đáng tiền",2025-07-19
+814,sạc dự phòng,1,negative,"đóng gói cẩn thận, máy hơi nóng khi sạc, đáng tiền",2025-10-19
+815,nồi chiên,3,neutral,"đóng gói cẩn thận, đúng mô tả, mức trung bình",2025-10-26
+816,chuột,1,negative,"con lăn bị kẹt, trải nghiệm tệ, đáng tiền",2025-10-09
+817,chuột,5,positive,"cầm vừa tay, phản hồi tốt, sẽ ủng hộ tiếp",2025-08-10
+818,giày thể thao,2,negative,"săn sale nên thấy đi hơi cứng chân, hơi tiếc",2025-10-07
+819,bàn phím,1,negative,"một vài phím bị liệt, hơi tiếc",2026-03-08
+820,tai nghe,3,neutral,"shop giao nhanh, chưa test lâu nên chưa rõ độ bền, sẽ ủng hộ tiếp",2025-01-06
+821,chuột,2,negative,"shop giao nhanh, kết nối chập chờn, dùng bực mình",2025-03-12
+822,giày thể thao,3,neutral,"shop giao nhanh, chất lượng bình thường, hơi tiếc",2025-09-18
+823,áo thun,2,negative,"shop giao nhanh, vải mỏng hơn mong đợi, sẽ ủng hộ tiếp",2025-08-06
+824,sạc dự phòng,5,positive,"dùng ổn định, rất hài lòng, đáng tiền",2025-07-30
+825,sạc dự phòng,1,negative,"săn sale nên thấy máy hơi nóng khi sạc, đáng tiền",2025-02-27
+826,sạc dự phòng,4,positive,"dùng ổn định, rất hài lòng, đáng tiền",2025-08-27
+827,sạc dự phòng,4,positive,"thiết kế đẹp, cầm chắc tay",2026-02-13
+828,sạc dự phòng,4,positive,"dùng ổn định, rất hài lòng, hơi tiếc",2025-08-21
+829,sạc dự phòng,3,neutral,"đóng gói cẩn thận, sạc ở mức bình thường, đáng tiền",2025-03-27
+830,chuột,2,negative,"săn sale nên thấy double click sau vài ngày, khá khó chịu",2025-03-28
+831,sạc dự phòng,5,positive,"săn sale nên thấy thiết kế đẹp, cầm chắc tay",2025-03-06
+832,sạc dự phòng,5,positive,"sạc nhanh, pin đúng dung lượng, đáng tiền",2025-05-21
+833,nồi chiên,4,positive,"shop giao nhanh, dung tích lớn, rất tiện, hơi tiếc",2025-07-09
+834,nồi chiên,4,positive,"nướng nhanh, chín đều",2025-06-25
+835,chuột,3,neutral,"săn sale nên thấy chưa dùng lâu nên chưa đánh giá thêm, sẽ ủng hộ tiếp",2025-12-05
+836,áo thun,1,negative,"đóng gói cẩn thận, chỉ thừa nhiều, hơi thất vọng",2025-11-25
+837,tai nghe,3,neutral,"săn sale nên thấy âm thanh ở mức chấp nhận được, hơi tiếc",2025-09-01
+838,tai nghe,4,positive,"săn sale nên thấy mic thu âm rõ, gọi điện tốt, hơi tiếc",2025-05-15
+839,bàn phím,1,negative,"săn sale nên thấy led không đều màu, hơi tiếc",2025-12-14
+840,tai nghe,3,neutral,"đóng gói cẩn thận, chưa test lâu nên chưa rõ độ bền, hơi tiếc",2025-11-09
+841,giày thể thao,3,neutral,"mẫu đẹp nhưng chưa thử chạy lâu, đáng tiền",2025-12-02
+842,sạc dự phòng,4,positive,"đóng gói cẩn thận, dùng ổn định, rất hài lòng, sẽ ủng hộ tiếp",2025-06-10
+843,sạc dự phòng,4,positive,"săn sale nên thấy sạc nhanh, pin đúng dung lượng",2025-09-26
+844,chuột,1,negative,"đóng gói cẩn thận, con lăn bị kẹt, trải nghiệm tệ, sẽ ủng hộ tiếp",2025-01-18
+845,chuột,1,negative,"double click sau vài ngày, khá khó chịu",2026-03-15
+846,sạc dự phòng,4,positive,"shop giao nhanh, dùng ổn định, rất hài lòng, đáng tiền",2025-05-31
+847,áo thun,2,negative,"săn sale nên thấy vải mỏng hơn mong đợi, đáng tiền",2025-05-12
+848,bàn phím,3,neutral,"săn sale nên thấy đúng mô tả nhưng giao hơi lâu, đáng tiền",2025-01-31
+849,tai nghe,3,neutral,"nghe ổn trong tầm giá, hơi tiếc",2025-04-13
+850,sạc dự phòng,5,positive,"sạc nhanh, pin đúng dung lượng, hơi tiếc",2025-04-22
+851,sạc dự phòng,2,negative,sạc vào rất chậm,2025-02-06
+852,sạc dự phòng,1,negative,"shop giao nhanh, dung lượng không như quảng cáo",2025-01-20
+853,giày thể thao,4,positive,"đế bám tốt, chạy thích",2025-09-21
+854,giày thể thao,3,neutral,săn sale nên thấy mẫu đẹp nhưng chưa thử chạy lâu,2025-10-04
+855,bàn phím,5,positive,"keycap chắc chắn, build ngon, đáng tiền",2025-06-20
+856,giày thể thao,4,positive,"đế bám tốt, chạy thích, đáng tiền",2025-02-11
+857,nồi chiên,5,positive,"nướng nhanh, chín đều",2025-07-16
+858,giày thể thao,5,positive,"đóng gói cẩn thận, nhẹ chân, đúng size, hơi tiếc",2025-02-13
+859,giày thể thao,4,positive,"shop giao nhanh, đi êm chân, form đẹp",2026-01-04
+860,sạc dự phòng,5,positive,"đóng gói cẩn thận, dùng ổn định, rất hài lòng, hơi tiếc",2025-10-01
+861,nồi chiên,3,neutral,"nấu được nhưng không quá nhanh, đáng tiền",2026-02-08
+862,giày thể thao,4,positive,"nhẹ chân, đúng size, hơi tiếc",2025-12-14
+863,nồi chiên,3,neutral,"dùng ổn, cần test thêm, sẽ ủng hộ tiếp",2025-09-08
+864,giày thể thao,4,positive,"shop giao nhanh, nhẹ chân, đúng size",2025-03-30
+865,giày thể thao,5,positive,"đế bám tốt, chạy thích, sẽ ủng hộ tiếp",2026-03-04
+866,sạc dự phòng,4,positive,"thiết kế đẹp, cầm chắc tay",2025-04-23
+867,chuột,3,neutral,"săn sale nên thấy đúng mô tả, hiệu năng bình thường, đáng tiền",2025-03-03
+868,giày thể thao,2,negative,keo dán chưa chắc,2025-03-30
+869,tai nghe,5,positive,"shop giao nhanh, đeo êm tai lâu không đau, đáng tiền",2025-10-11
+870,bàn phím,4,positive,"gõ êm tay, led đẹp, hơi tiếc",2026-02-03
+871,bàn phím,5,positive,"gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2025-02-15
+872,giày thể thao,2,negative,"săn sale nên thấy size không chuẩn, sẽ ủng hộ tiếp",2025-04-16
+873,bàn phím,2,negative,"shop giao nhanh, một vài phím bị liệt",2025-12-21
+874,chuột,1,negative,"đóng gói cẩn thận, con lăn bị kẹt, trải nghiệm tệ, hơi tiếc",2025-01-03
+875,sạc dự phòng,4,positive,"đóng gói cẩn thận, dùng ổn định, rất hài lòng",2025-09-17
+876,bàn phím,4,positive,"shop giao nhanh, gõ êm tay, led đẹp",2026-02-12
+877,bàn phím,2,negative,"shop giao nhanh, một vài phím bị liệt",2025-01-28
+878,giày thể thao,4,positive,"đóng gói cẩn thận, đế bám tốt, chạy thích",2026-02-17
+879,nồi chiên,4,positive,"shop giao nhanh, dung tích lớn, rất tiện, sẽ ủng hộ tiếp",2026-02-07
+880,chuột,4,positive,"săn sale nên thấy pin trâu, dùng mượt cả ngày",2025-10-24
+881,tai nghe,5,positive,"đóng gói cẩn thận, âm thanh rõ, bass tốt, sẽ ủng hộ tiếp",2025-02-20
+882,bàn phím,2,negative,"một vài phím bị liệt, hơi tiếc",2025-10-27
+883,áo thun,5,positive,"vải mềm, form đẹp, hơi tiếc",2025-04-02
+884,áo thun,5,positive,"đóng gói cẩn thận, màu đẹp như hình, đáng tiền",2025-04-14
+885,tai nghe,4,positive,"âm thanh rõ, bass tốt, hơi tiếc",2025-08-23
+886,áo thun,5,positive,"mặc thoải mái, đường may chắc, sẽ ủng hộ tiếp",2026-02-09
+887,nồi chiên,1,negative,săn sale nên thấy quạt hơi ồn,2025-09-08
+888,nồi chiên,3,neutral,"nấu được nhưng không quá nhanh, hơi tiếc",2026-01-12
+889,nồi chiên,5,positive,"shop giao nhanh, dung tích lớn, rất tiện",2025-03-18
+890,sạc dự phòng,3,neutral,"săn sale nên thấy dùng được, chưa thấy vấn đề",2025-01-18
+891,áo thun,1,negative,"săn sale nên thấy vải mỏng hơn mong đợi, sẽ ủng hộ tiếp",2025-02-12
+892,sạc dự phòng,3,neutral,"đóng gói cẩn thận, dùng được, chưa thấy vấn đề, đáng tiền",2025-05-03
+893,giày thể thao,3,neutral,"đóng gói cẩn thận, chất lượng bình thường, sẽ ủng hộ tiếp",2025-12-27
+894,áo thun,3,neutral,"shop giao nhanh, đúng mô tả, chất vải bình thường, hơi tiếc",2025-04-05
+895,nồi chiên,3,neutral,"đúng mô tả, mức trung bình, hơi tiếc",2026-04-03
+896,giày thể thao,4,positive,"đóng gói cẩn thận, đế bám tốt, chạy thích",2025-10-05
+897,sạc dự phòng,3,neutral,đúng mô tả nhưng chưa nổi bật,2025-12-12
+898,tai nghe,3,neutral,săn sale nên thấy nghe ổn trong tầm giá,2025-01-21
+899,tai nghe,4,positive,"đóng gói cẩn thận, âm thanh rõ, bass tốt, sẽ ủng hộ tiếp",2025-10-04
+900,chuột,1,negative,"đóng gói cẩn thận, con lăn bị kẹt, trải nghiệm tệ, đáng tiền",2025-09-15
+901,giày thể thao,4,positive,"đóng gói cẩn thận, đế bám tốt, chạy thích, hơi tiếc",2025-09-06
+902,sạc dự phòng,2,negative,máy hơi nóng khi sạc,2026-04-06
+903,tai nghe,5,positive,"săn sale nên thấy âm thanh rõ, bass tốt",2025-02-11
+904,áo thun,3,neutral,"shop giao nhanh, mặc tạm ổn, đáng tiền",2025-02-27
+905,giày thể thao,4,positive,"nhẹ chân, đúng size, đáng tiền",2025-08-02
+906,giày thể thao,2,negative,"săn sale nên thấy đi hơi cứng chân, hơi tiếc",2026-01-13
+907,giày thể thao,4,positive,"shop giao nhanh, đi êm chân, form đẹp",2025-11-27
+908,tai nghe,5,positive,đeo êm tai lâu không đau,2026-03-08
+909,sạc dự phòng,5,positive,"shop giao nhanh, thiết kế đẹp, cầm chắc tay, đáng tiền",2025-04-27
+910,áo thun,5,positive,"đóng gói cẩn thận, vải mềm, form đẹp, đáng tiền",2025-08-22
+911,bàn phím,2,negative,"shop giao nhanh, một vài phím bị liệt, sẽ ủng hộ tiếp",2025-03-24
+912,bàn phím,5,positive,"đóng gói cẩn thận, switch phản hồi tốt, rất thích, đáng tiền",2025-04-05
+913,bàn phím,2,negative,"shop giao nhanh, led không đều màu, đáng tiền",2025-08-18
+914,sạc dự phòng,3,neutral,"săn sale nên thấy dùng được, chưa thấy vấn đề, hơi tiếc",2026-01-29
+915,bàn phím,3,neutral,"gõ ổn, chưa có gì nổi bật",2025-06-19
+916,giày thể thao,2,negative,"shop giao nhanh, size không chuẩn",2026-01-09
+917,áo thun,4,positive,"shop giao nhanh, vải mềm, form đẹp",2025-03-01
+918,tai nghe,4,positive,"đeo êm tai lâu không đau, đáng tiền",2025-01-29
+919,sạc dự phòng,2,negative,sạc vào rất chậm,2025-10-03
+920,nồi chiên,4,positive,"săn sale nên thấy nướng nhanh, chín đều, đáng tiền",2025-11-05
+921,sạc dự phòng,2,negative,"shop giao nhanh, dung lượng không như quảng cáo, hơi tiếc",2025-07-09
+922,áo thun,5,positive,"đóng gói cẩn thận, mặc thoải mái, đường may chắc, hơi tiếc",2026-03-24
+923,sạc dự phòng,5,positive,"đóng gói cẩn thận, thiết kế đẹp, cầm chắc tay, sẽ ủng hộ tiếp",2026-02-17
+924,giày thể thao,3,neutral,"đi ổn, đúng giá tiền",2025-02-14
+925,bàn phím,5,positive,"gõ êm tay, led đẹp, hơi tiếc",2025-02-15
+926,chuột,5,positive,"pin trâu, dùng mượt cả ngày, hơi tiếc",2025-12-30
+927,sạc dự phòng,3,neutral,"săn sale nên thấy dùng được, chưa thấy vấn đề, đáng tiền",2025-10-11
+928,áo thun,5,positive,"mặc thoải mái, đường may chắc, hơi tiếc",2025-04-25
+929,chuột,3,neutral,săn sale nên thấy chưa dùng lâu nên chưa đánh giá thêm,2025-12-01
+930,giày thể thao,3,neutral,"shop giao nhanh, mẫu đẹp nhưng chưa thử chạy lâu",2025-03-03
+931,nồi chiên,4,positive,"săn sale nên thấy dung tích lớn, rất tiện",2025-08-12
+932,nồi chiên,5,positive,"máy chạy êm, dễ vệ sinh",2025-01-09
+933,nồi chiên,4,positive,"săn sale nên thấy máy chạy êm, dễ vệ sinh, sẽ ủng hộ tiếp",2025-07-02
+934,bàn phím,5,positive,"đóng gói cẩn thận, keycap chắc chắn, build ngon",2025-05-29
+935,tai nghe,1,negative,"shop giao nhanh, đeo hơi đau tai",2025-11-03
+936,nồi chiên,5,positive,"đóng gói cẩn thận, dung tích lớn, rất tiện, đáng tiền",2025-12-17
+937,giày thể thao,2,negative,"keo dán chưa chắc, sẽ ủng hộ tiếp",2025-09-23
+938,tai nghe,5,positive,"shop giao nhanh, đeo êm tai lâu không đau",2025-04-22
+939,bàn phím,1,negative,săn sale nên thấy led không đều màu,2025-03-01
+940,nồi chiên,4,positive,"đóng gói cẩn thận, máy chạy êm, dễ vệ sinh, đáng tiền",2025-03-13
+941,nồi chiên,5,positive,"đóng gói cẩn thận, dung tích lớn, rất tiện",2026-01-17
+942,nồi chiên,4,positive,"shop giao nhanh, dung tích lớn, rất tiện, đáng tiền",2025-03-06
+943,bàn phím,4,positive,"keycap chắc chắn, build ngon",2025-01-10
+944,nồi chiên,5,positive,"nướng nhanh, chín đều",2026-02-11
+945,giày thể thao,2,negative,"đóng gói cẩn thận, keo dán chưa chắc",2025-02-03
+946,tai nghe,1,negative,"shop giao nhanh, đeo hơi đau tai",2025-04-13
+947,bàn phím,1,negative,"đóng gói cẩn thận, một vài phím bị liệt",2025-06-28
+948,tai nghe,4,positive,"âm thanh rõ, bass tốt",2025-09-28
+949,bàn phím,1,negative,gõ hơi cứng và ồn,2025-04-20
+950,sạc dự phòng,3,neutral,"đúng mô tả nhưng chưa nổi bật, sẽ ủng hộ tiếp",2025-08-14
+951,giày thể thao,3,neutral,"săn sale nên thấy mẫu đẹp nhưng chưa thử chạy lâu, sẽ ủng hộ tiếp",2025-09-21
+952,bàn phím,5,positive,"switch phản hồi tốt, rất thích",2025-03-11
+953,áo thun,3,neutral,"đóng gói cẩn thận, mặc tạm ổn, hơi tiếc",2025-03-01
+954,áo thun,5,positive,"vải mềm, form đẹp, hơi tiếc",2025-05-29
+955,nồi chiên,4,positive,"đóng gói cẩn thận, dung tích lớn, rất tiện, sẽ ủng hộ tiếp",2025-01-07
+956,giày thể thao,4,positive,"đế bám tốt, chạy thích",2025-03-03
+957,bàn phím,4,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2025-06-23
+958,bàn phím,1,negative,"săn sale nên thấy một vài phím bị liệt, hơi tiếc",2025-05-23
+959,nồi chiên,2,negative,săn sale nên thấy vỏ có vết xước,2025-07-27
+960,áo thun,2,negative,"size bị lệch, mặc không vừa, đáng tiền",2025-09-08
+961,áo thun,4,positive,"vải mềm, form đẹp",2025-09-13
+962,giày thể thao,4,positive,"đóng gói cẩn thận, nhẹ chân, đúng size, sẽ ủng hộ tiếp",2025-06-05
+963,sạc dự phòng,2,negative,"shop giao nhanh, dung lượng không như quảng cáo, đáng tiền",2025-12-05
+964,áo thun,5,positive,màu đẹp như hình,2026-01-27
+965,chuột,3,neutral,"đóng gói cẩn thận, chưa dùng lâu nên chưa đánh giá thêm, hơi tiếc",2025-08-15
+966,áo thun,4,positive,"shop giao nhanh, màu đẹp như hình, hơi tiếc",2025-08-09
+967,bàn phím,5,positive,"gõ êm tay, led đẹp, hơi tiếc",2025-12-04
+968,sạc dự phòng,2,negative,"shop giao nhanh, máy hơi nóng khi sạc",2025-01-29
+969,áo thun,5,positive,"đóng gói cẩn thận, mặc thoải mái, đường may chắc",2025-01-15
+970,sạc dự phòng,5,positive,"dùng ổn định, rất hài lòng",2026-01-27
+971,giày thể thao,4,positive,"đóng gói cẩn thận, đế bám tốt, chạy thích, hơi tiếc",2025-06-29
+972,chuột,1,negative,"con lăn bị kẹt, trải nghiệm tệ",2025-12-19
+973,chuột,3,neutral,dùng tạm ổn trong tầm giá,2025-06-16
+974,chuột,5,positive,"cầm vừa tay, phản hồi tốt, hơi tiếc",2025-10-29
+975,chuột,3,neutral,chưa dùng lâu nên chưa đánh giá thêm,2026-02-18
+976,áo thun,4,positive,"mặc thoải mái, đường may chắc, đáng tiền",2025-03-27
+977,sạc dự phòng,5,positive,"thiết kế đẹp, cầm chắc tay",2025-04-20
+978,tai nghe,5,positive,"âm thanh rõ, bass tốt",2026-01-03
+979,nồi chiên,2,negative,quạt hơi ồn,2025-09-01
+980,áo thun,4,positive,"đóng gói cẩn thận, màu đẹp như hình, hơi tiếc",2025-12-06
+981,sạc dự phòng,5,positive,"thiết kế đẹp, cầm chắc tay",2025-08-21
+982,giày thể thao,3,neutral,"chất lượng bình thường, sẽ ủng hộ tiếp",2025-10-23
+983,áo thun,5,positive,màu đẹp như hình,2026-03-13
+984,nồi chiên,3,neutral,"săn sale nên thấy nấu được nhưng không quá nhanh, sẽ ủng hộ tiếp",2025-05-04
+985,bàn phím,2,negative,"đóng gói cẩn thận, led không đều màu",2025-11-21
+986,bàn phím,3,neutral,"shop giao nhanh, dùng văn phòng khá ổn, đáng tiền",2025-12-18
+987,sạc dự phòng,4,positive,"shop giao nhanh, sạc nhanh, pin đúng dung lượng",2025-05-06
+988,nồi chiên,3,neutral,"săn sale nên thấy đúng mô tả, mức trung bình, hơi tiếc",2025-11-28
+989,chuột,5,positive,"đóng gói cẩn thận, di chuột mượt, click nhạy, rất đáng tiền, đáng tiền",2025-12-04
+990,sạc dự phòng,4,positive,"sạc nhanh, pin đúng dung lượng",2025-06-10
+991,sạc dự phòng,4,positive,"thiết kế đẹp, cầm chắc tay, hơi tiếc",2026-03-06
+992,giày thể thao,3,neutral,chất lượng bình thường,2025-09-25
+993,giày thể thao,3,neutral,"shop giao nhanh, đi ổn, đúng giá tiền",2025-03-04
+994,nồi chiên,3,neutral,"shop giao nhanh, đúng mô tả, mức trung bình, hơi tiếc",2025-04-22
+995,bàn phím,4,positive,"săn sale nên thấy switch phản hồi tốt, rất thích, đáng tiền",2026-03-18
+996,sạc dự phòng,5,positive,"thiết kế đẹp, cầm chắc tay, hơi tiếc",2025-09-01
+997,giày thể thao,5,positive,"săn sale nên thấy đế bám tốt, chạy thích, đáng tiền",2026-02-25
+998,tai nghe,4,positive,"shop giao nhanh, mic thu âm rõ, gọi điện tốt, đáng tiền",2025-10-10
+999,áo thun,5,positive,"shop giao nhanh, màu đẹp như hình, hơi tiếc",2025-07-18
+1000,chuột,3,neutral,"chưa dùng lâu nên chưa đánh giá thêm, sẽ ủng hộ tiếp",2025-06-02
+1001,bàn phím,3,neutral,"đóng gói cẩn thận, dùng văn phòng khá ổn, hơi tiếc",2026-02-09
+1002,chuột,4,positive,"săn sale nên thấy kết nối ổn định, không bị lag, đáng tiền",2026-01-03
+1003,áo thun,3,neutral,"đóng gói cẩn thận, không quá xuất sắc nhưng chấp nhận được",2025-02-03
+1004,tai nghe,5,positive,"mic thu âm rõ, gọi điện tốt",2025-11-25
+1005,giày thể thao,5,positive,"săn sale nên thấy đi êm chân, form đẹp, sẽ ủng hộ tiếp",2025-11-18
+1006,tai nghe,4,positive,"shop giao nhanh, âm thanh rõ, bass tốt",2026-01-01
+1007,nồi chiên,3,neutral,"săn sale nên thấy nấu được nhưng không quá nhanh, hơi tiếc",2026-03-24
+1008,giày thể thao,4,positive,"shop giao nhanh, đế bám tốt, chạy thích",2025-08-01
+1009,tai nghe,5,positive,"âm thanh rõ, bass tốt",2025-11-28
+1010,sạc dự phòng,2,negative,"đóng gói cẩn thận, sạc vào rất chậm, sẽ ủng hộ tiếp",2025-01-26
+1011,áo thun,1,negative,"đóng gói cẩn thận, size bị lệch, mặc không vừa, sẽ ủng hộ tiếp",2025-10-18
+1012,chuột,5,positive,"kết nối ổn định, không bị lag, sẽ ủng hộ tiếp",2026-01-01
+1013,bàn phím,5,positive,"săn sale nên thấy keycap chắc chắn, build ngon, hơi tiếc",2025-03-08
+1014,áo thun,3,neutral,"shop giao nhanh, không quá xuất sắc nhưng chấp nhận được, hơi tiếc",2025-04-03
+1015,áo thun,3,neutral,"shop giao nhanh, đúng mô tả, chất vải bình thường",2025-08-19
+1016,bàn phím,5,positive,"săn sale nên thấy gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2026-03-23
+1017,tai nghe,3,neutral,"săn sale nên thấy chưa test lâu nên chưa rõ độ bền, hơi tiếc",2026-01-12
+1018,sạc dự phòng,4,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng, sẽ ủng hộ tiếp",2025-08-30
+1019,tai nghe,3,neutral,nghe ổn trong tầm giá,2025-07-15
+1020,tai nghe,3,neutral,chưa test lâu nên chưa rõ độ bền,2025-04-02
+1021,tai nghe,5,positive,"shop giao nhanh, đeo êm tai lâu không đau",2025-06-12
+1022,giày thể thao,2,negative,"đóng gói cẩn thận, keo dán chưa chắc",2025-03-07
+1023,áo thun,3,neutral,"đóng gói cẩn thận, đúng mô tả, chất vải bình thường, đáng tiền",2025-11-10
+1024,nồi chiên,3,neutral,"shop giao nhanh, nấu được nhưng không quá nhanh, đáng tiền",2026-01-13
+1025,áo thun,3,neutral,"shop giao nhanh, mặc tạm ổn, sẽ ủng hộ tiếp",2025-01-28
+1026,bàn phím,5,positive,"săn sale nên thấy gõ êm tay, led đẹp, hơi tiếc",2025-03-01
+1027,áo thun,5,positive,"săn sale nên thấy mặc thoải mái, đường may chắc",2026-03-10
+1028,giày thể thao,3,neutral,"shop giao nhanh, đi ổn, đúng giá tiền, đáng tiền",2025-04-03
+1029,nồi chiên,5,positive,"dung tích lớn, rất tiện",2026-01-28
+1030,sạc dự phòng,4,positive,"thiết kế đẹp, cầm chắc tay, đáng tiền",2025-01-14
+1031,tai nghe,2,negative,pin tụt nhanh,2026-03-05
+1032,tai nghe,4,positive,"săn sale nên thấy mic thu âm rõ, gọi điện tốt, hơi tiếc",2025-11-18
+1033,tai nghe,2,negative,"âm bị rè khi mở lớn, hơi tiếc",2025-06-16
+1034,giày thể thao,3,neutral,"đóng gói cẩn thận, đi ổn, đúng giá tiền, đáng tiền",2026-02-13
+1035,chuột,1,negative,"đóng gói cẩn thận, kết nối chập chờn, dùng bực mình, sẽ ủng hộ tiếp",2025-05-03
+1036,nồi chiên,3,neutral,"shop giao nhanh, dùng ổn, cần test thêm, hơi tiếc",2026-02-04
+1037,áo thun,4,positive,"săn sale nên thấy mặc thoải mái, đường may chắc, hơi tiếc",2026-01-12
+1038,nồi chiên,3,neutral,"đúng mô tả, mức trung bình, đáng tiền",2025-09-20
+1039,bàn phím,5,positive,"switch phản hồi tốt, rất thích",2025-08-05
+1040,chuột,3,neutral,săn sale nên thấy chưa dùng lâu nên chưa đánh giá thêm,2025-01-21
+1041,sạc dự phòng,5,positive,"shop giao nhanh, dùng ổn định, rất hài lòng, hơi tiếc",2025-09-27
+1042,giày thể thao,2,negative,săn sale nên thấy đi hơi cứng chân,2026-02-15
+1043,áo thun,4,positive,"vải mềm, form đẹp, hơi tiếc",2025-06-01
+1044,sạc dự phòng,4,positive,"dùng ổn định, rất hài lòng",2025-08-06
+1045,áo thun,5,positive,"mặc thoải mái, đường may chắc",2026-01-29
+1046,sạc dự phòng,5,positive,"săn sale nên thấy sạc nhanh, pin đúng dung lượng",2025-02-12
+1047,áo thun,3,neutral,"săn sale nên thấy không quá xuất sắc nhưng chấp nhận được, hơi tiếc",2025-11-16
+1048,nồi chiên,4,positive,"nướng nhanh, chín đều",2025-05-13
+1049,nồi chiên,1,negative,săn sale nên thấy quạt hơi ồn,2025-01-07
+1050,bàn phím,2,negative,"gõ hơi cứng và ồn, hơi tiếc",2025-06-05
+1051,sạc dự phòng,3,neutral,"sạc ở mức bình thường, sẽ ủng hộ tiếp",2025-03-11
+1052,chuột,4,positive,"shop giao nhanh, di chuột mượt, click nhạy, rất đáng tiền, hơi tiếc",2025-11-29
+1053,bàn phím,1,negative,"đóng gói cẩn thận, một vài phím bị liệt, hơi tiếc",2025-03-17
+1054,áo thun,4,positive,"săn sale nên thấy vải mềm, form đẹp, hơi tiếc",2025-08-30
+1055,chuột,3,neutral,"chưa dùng lâu nên chưa đánh giá thêm, hơi tiếc",2025-01-27
+1056,tai nghe,5,positive,đeo êm tai lâu không đau,2026-01-10
+1057,sạc dự phòng,3,neutral,săn sale nên thấy sạc ở mức bình thường,2025-10-30
+1058,giày thể thao,1,negative,size không chuẩn,2025-01-10
+1059,áo thun,2,negative,"săn sale nên thấy chỉ thừa nhiều, hơi thất vọng, hơi tiếc",2025-03-01
+1060,áo thun,2,negative,"săn sale nên thấy chỉ thừa nhiều, hơi thất vọng",2025-03-24
+1061,tai nghe,2,negative,"shop giao nhanh, pin tụt nhanh",2025-04-23
+1062,sạc dự phòng,3,neutral,"đóng gói cẩn thận, dùng được, chưa thấy vấn đề, hơi tiếc",2025-08-02
+1063,nồi chiên,3,neutral,"dùng ổn, cần test thêm, sẽ ủng hộ tiếp",2025-05-25
+1064,giày thể thao,1,negative,"shop giao nhanh, keo dán chưa chắc, sẽ ủng hộ tiếp",2025-11-07
+1065,áo thun,5,positive,"shop giao nhanh, mặc thoải mái, đường may chắc, sẽ ủng hộ tiếp",2025-10-13
+1066,chuột,3,neutral,"shop giao nhanh, chưa dùng lâu nên chưa đánh giá thêm, sẽ ủng hộ tiếp",2026-02-28
+1067,nồi chiên,3,neutral,săn sale nên thấy nấu được nhưng không quá nhanh,2025-11-13
+1068,bàn phím,4,positive,"đóng gói cẩn thận, switch phản hồi tốt, rất thích, đáng tiền",2026-01-29
+1069,chuột,3,neutral,"đúng mô tả, hiệu năng bình thường",2025-12-09
+1070,chuột,2,negative,"double click sau vài ngày, khá khó chịu",2025-11-09
+1071,nồi chiên,3,neutral,"đúng mô tả, mức trung bình, sẽ ủng hộ tiếp",2025-11-19
+1072,chuột,3,neutral,"đóng gói cẩn thận, đúng mô tả, hiệu năng bình thường, hơi tiếc",2026-01-26
+1073,sạc dự phòng,4,positive,"đóng gói cẩn thận, dùng ổn định, rất hài lòng, đáng tiền",2026-02-24
+1074,bàn phím,4,positive,"switch phản hồi tốt, rất thích, sẽ ủng hộ tiếp",2026-03-04
+1075,nồi chiên,5,positive,"đóng gói cẩn thận, nướng nhanh, chín đều, đáng tiền",2026-01-02
+1076,nồi chiên,4,positive,"săn sale nên thấy dung tích lớn, rất tiện, sẽ ủng hộ tiếp",2025-03-12
+1077,nồi chiên,5,positive,"đóng gói cẩn thận, dung tích lớn, rất tiện",2025-08-15
+1078,bàn phím,3,neutral,"đóng gói cẩn thận, đúng mô tả nhưng giao hơi lâu, hơi tiếc",2026-01-31
+1079,bàn phím,5,positive,"shop giao nhanh, keycap chắc chắn, build ngon",2025-01-30
+1080,giày thể thao,3,neutral,"mẫu đẹp nhưng chưa thử chạy lâu, đáng tiền",2026-01-05
+1081,giày thể thao,5,positive,"đế bám tốt, chạy thích",2025-03-17
+1082,giày thể thao,4,positive,"đóng gói cẩn thận, nhẹ chân, đúng size, hơi tiếc",2026-02-02
+1083,bàn phím,3,neutral,"đóng gói cẩn thận, dùng văn phòng khá ổn, hơi tiếc",2026-01-07
+1084,giày thể thao,2,negative,keo dán chưa chắc,2025-10-10
+1085,tai nghe,1,negative,âm bị rè khi mở lớn,2025-05-13
+1086,bàn phím,3,neutral,dùng văn phòng khá ổn,2026-03-07
+1087,tai nghe,5,positive,"âm thanh rõ, bass tốt, hơi tiếc",2025-06-02
+1088,sạc dự phòng,2,negative,sạc vào rất chậm,2026-01-01
+1089,giày thể thao,2,negative,"đóng gói cẩn thận, đi hơi cứng chân",2025-12-11
+1090,bàn phím,1,negative,led không đều màu,2025-04-09
+1091,nồi chiên,3,neutral,"săn sale nên thấy dùng ổn, cần test thêm, hơi tiếc",2025-02-11
+1092,chuột,4,positive,"săn sale nên thấy pin trâu, dùng mượt cả ngày",2025-07-09
+1093,giày thể thao,2,negative,"săn sale nên thấy size không chuẩn, hơi tiếc",2025-08-14
+1094,giày thể thao,3,neutral,"shop giao nhanh, đi ổn, đúng giá tiền",2025-03-07
+1095,áo thun,1,negative,"shop giao nhanh, chỉ thừa nhiều, hơi thất vọng, hơi tiếc",2025-08-31
+1096,chuột,1,negative,"kết nối chập chờn, dùng bực mình",2025-07-09
+1097,sạc dự phòng,4,positive,"đóng gói cẩn thận, thiết kế đẹp, cầm chắc tay, đáng tiền",2025-06-05
+1098,tai nghe,4,positive,"săn sale nên thấy mic thu âm rõ, gọi điện tốt",2026-04-03
+1099,tai nghe,3,neutral,săn sale nên thấy chưa test lâu nên chưa rõ độ bền,2025-03-04
+1100,sạc dự phòng,4,positive,"thiết kế đẹp, cầm chắc tay, đáng tiền",2025-10-17
+1101,áo thun,3,neutral,"không quá xuất sắc nhưng chấp nhận được, sẽ ủng hộ tiếp",2026-01-26
+1102,bàn phím,2,negative,"săn sale nên thấy gõ hơi cứng và ồn, sẽ ủng hộ tiếp",2026-03-20
+1103,giày thể thao,5,positive,"săn sale nên thấy đi êm chân, form đẹp, đáng tiền",2025-10-04
+1104,chuột,3,neutral,"đúng mô tả, hiệu năng bình thường, sẽ ủng hộ tiếp",2025-12-29
+1105,chuột,1,negative,"shop giao nhanh, double click sau vài ngày, khá khó chịu",2025-10-05
+1106,sạc dự phòng,3,neutral,đúng mô tả nhưng chưa nổi bật,2025-12-04
+1107,sạc dự phòng,4,positive,"shop giao nhanh, sạc nhanh, pin đúng dung lượng",2025-08-16
+1108,chuột,3,neutral,"đúng mô tả, hiệu năng bình thường, hơi tiếc",2026-03-18
+1109,chuột,4,positive,"di chuột mượt, click nhạy, rất đáng tiền, đáng tiền",2025-07-15
+1110,tai nghe,4,positive,"shop giao nhanh, đeo êm tai lâu không đau, sẽ ủng hộ tiếp",2025-05-11
+1111,nồi chiên,5,positive,"shop giao nhanh, dung tích lớn, rất tiện",2025-11-11
+1112,tai nghe,4,positive,"đeo êm tai lâu không đau, đáng tiền",2025-03-14
+1113,áo thun,3,neutral,"mặc tạm ổn, sẽ ủng hộ tiếp",2025-05-03
+1114,nồi chiên,2,negative,"nhiệt không đều như mong đợi, hơi tiếc",2025-02-28
+1115,tai nghe,5,positive,"săn sale nên thấy âm thanh rõ, bass tốt",2025-07-28
+1116,giày thể thao,4,positive,"nhẹ chân, đúng size",2025-05-07
+1117,nồi chiên,2,negative,"săn sale nên thấy nhiệt không đều như mong đợi, hơi tiếc",2025-02-12
+1118,nồi chiên,1,negative,"vỏ có vết xước, sẽ ủng hộ tiếp",2026-02-05
+1119,bàn phím,2,negative,"một vài phím bị liệt, hơi tiếc",2026-03-01
+1120,sạc dự phòng,4,positive,"săn sale nên thấy sạc nhanh, pin đúng dung lượng, đáng tiền",2025-11-03
+1121,tai nghe,3,neutral,"shop giao nhanh, chưa test lâu nên chưa rõ độ bền",2026-03-07
+1122,sạc dự phòng,4,positive,"thiết kế đẹp, cầm chắc tay, hơi tiếc",2025-12-24
+1123,chuột,3,neutral,dùng tạm ổn trong tầm giá,2026-02-15
+1124,tai nghe,3,neutral,"săn sale nên thấy chưa test lâu nên chưa rõ độ bền, đáng tiền",2025-05-06
+1125,giày thể thao,3,neutral,"mẫu đẹp nhưng chưa thử chạy lâu, đáng tiền",2025-01-09
+1126,giày thể thao,4,positive,"đi êm chân, form đẹp, sẽ ủng hộ tiếp",2025-07-31
+1127,sạc dự phòng,3,neutral,đúng mô tả nhưng chưa nổi bật,2025-10-03
+1128,chuột,3,neutral,săn sale nên thấy chưa dùng lâu nên chưa đánh giá thêm,2025-07-03
+1129,áo thun,4,positive,"đóng gói cẩn thận, mặc thoải mái, đường may chắc, sẽ ủng hộ tiếp",2025-08-16
+1130,chuột,4,positive,"shop giao nhanh, cầm vừa tay, phản hồi tốt",2026-02-22
+1131,sạc dự phòng,1,negative,"đóng gói cẩn thận, dung lượng không như quảng cáo",2025-05-24
+1132,áo thun,3,neutral,săn sale nên thấy mặc tạm ổn,2026-03-22
+1133,tai nghe,1,negative,"shop giao nhanh, đeo hơi đau tai",2025-12-11
+1134,giày thể thao,1,negative,"shop giao nhanh, size không chuẩn",2025-03-07
+1135,tai nghe,3,neutral,âm thanh ở mức chấp nhận được,2025-11-11
+1136,tai nghe,1,negative,"pin tụt nhanh, đáng tiền",2025-08-10
+1137,nồi chiên,3,neutral,"đúng mô tả, mức trung bình, hơi tiếc",2025-09-11
+1138,tai nghe,1,negative,"đóng gói cẩn thận, âm bị rè khi mở lớn, hơi tiếc",2025-09-30
+1139,áo thun,5,positive,"mặc thoải mái, đường may chắc",2026-02-18
+1140,chuột,3,neutral,"shop giao nhanh, dùng tạm ổn trong tầm giá, sẽ ủng hộ tiếp",2025-03-26
+1141,tai nghe,4,positive,săn sale nên thấy đeo êm tai lâu không đau,2025-10-31
+1142,nồi chiên,2,negative,"quạt hơi ồn, hơi tiếc",2025-05-03
+1143,tai nghe,3,neutral,âm thanh ở mức chấp nhận được,2025-08-13
+1144,nồi chiên,5,positive,"nướng nhanh, chín đều",2025-07-13
+1145,tai nghe,3,neutral,săn sale nên thấy âm thanh ở mức chấp nhận được,2025-06-04
+1146,sạc dự phòng,1,negative,máy hơi nóng khi sạc,2025-01-27
+1147,tai nghe,3,neutral,"săn sale nên thấy chưa test lâu nên chưa rõ độ bền, sẽ ủng hộ tiếp",2026-03-19
+1148,sạc dự phòng,3,neutral,"săn sale nên thấy sạc ở mức bình thường, hơi tiếc",2026-03-27
+1149,sạc dự phòng,1,negative,"dung lượng không như quảng cáo, đáng tiền",2025-10-28
+1150,bàn phím,4,positive,"shop giao nhanh, keycap chắc chắn, build ngon",2025-03-06
+1151,giày thể thao,2,negative,"đi hơi cứng chân, hơi tiếc",2025-04-06
+1152,bàn phím,4,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp",2025-08-12
+1153,sạc dự phòng,3,neutral,"đúng mô tả nhưng chưa nổi bật, sẽ ủng hộ tiếp",2025-03-17
+1154,áo thun,5,positive,"mặc thoải mái, đường may chắc",2025-10-28
+1155,giày thể thao,1,negative,size không chuẩn,2025-08-05
+1156,tai nghe,4,positive,"đóng gói cẩn thận, âm thanh rõ, bass tốt, sẽ ủng hộ tiếp",2025-12-08
+1157,áo thun,2,negative,"chỉ thừa nhiều, hơi thất vọng, đáng tiền",2025-11-12
+1158,tai nghe,4,positive,"đeo êm tai lâu không đau, hơi tiếc",2025-04-23
+1159,chuột,2,negative,"shop giao nhanh, pin yếu hơn mô tả, hơi tiếc",2026-01-12
+1160,nồi chiên,3,neutral,"săn sale nên thấy dùng ổn, cần test thêm, sẽ ủng hộ tiếp",2026-02-27
+1161,chuột,4,positive,"di chuột mượt, click nhạy, rất đáng tiền",2025-03-14
+1162,tai nghe,5,positive,"shop giao nhanh, âm thanh rõ, bass tốt, sẽ ủng hộ tiếp",2025-05-26
+1163,bàn phím,5,positive,"switch phản hồi tốt, rất thích, sẽ ủng hộ tiếp",2025-04-02
+1164,bàn phím,5,positive,"shop giao nhanh, gõ êm tay, led đẹp, hơi tiếc",2025-12-02
+1165,nồi chiên,3,neutral,"săn sale nên thấy nấu được nhưng không quá nhanh, sẽ ủng hộ tiếp",2025-07-09
+1166,nồi chiên,4,positive,"dung tích lớn, rất tiện",2025-03-15
+1167,bàn phím,3,neutral,"đóng gói cẩn thận, dùng văn phòng khá ổn, đáng tiền",2025-11-03
+1168,áo thun,3,neutral,"không quá xuất sắc nhưng chấp nhận được, sẽ ủng hộ tiếp",2026-03-14
+1169,sạc dự phòng,4,positive,"sạc nhanh, pin đúng dung lượng, đáng tiền",2026-03-23
+1170,bàn phím,3,neutral,"dùng văn phòng khá ổn, hơi tiếc",2026-02-09
+1171,giày thể thao,2,negative,"size không chuẩn, đáng tiền",2025-09-13
+1172,sạc dự phòng,5,positive,"săn sale nên thấy dùng ổn định, rất hài lòng, hơi tiếc",2025-08-31
+1173,tai nghe,1,negative,"shop giao nhanh, âm bị rè khi mở lớn, hơi tiếc",2026-03-18
+1174,bàn phím,5,positive,"switch phản hồi tốt, rất thích, sẽ ủng hộ tiếp",2026-03-08
+1175,tai nghe,4,positive,"đóng gói cẩn thận, âm thanh rõ, bass tốt, hơi tiếc",2025-09-23
+1176,tai nghe,4,positive,"mic thu âm rõ, gọi điện tốt, đáng tiền",2025-08-07
+1177,áo thun,5,positive,"đóng gói cẩn thận, mặc thoải mái, đường may chắc, đáng tiền",2025-07-15
+1178,chuột,4,positive,"đóng gói cẩn thận, di chuột mượt, click nhạy, rất đáng tiền",2025-05-31
+1179,nồi chiên,2,negative,quạt hơi ồn,2025-02-06
+1180,tai nghe,4,positive,"đóng gói cẩn thận, âm thanh rõ, bass tốt, đáng tiền",2025-06-04
+1181,giày thể thao,3,neutral,"chất lượng bình thường, sẽ ủng hộ tiếp",2026-03-14
+1182,nồi chiên,1,negative,"đóng gói cẩn thận, vỏ có vết xước, đáng tiền",2026-02-05
+1183,áo thun,3,neutral,"không quá xuất sắc nhưng chấp nhận được, sẽ ủng hộ tiếp",2026-03-20
+1184,áo thun,4,positive,"vải mềm, form đẹp",2026-02-07
+1185,sạc dự phòng,3,neutral,"đóng gói cẩn thận, dùng được, chưa thấy vấn đề, sẽ ủng hộ tiếp",2025-08-08
+1186,nồi chiên,3,neutral,săn sale nên thấy nấu được nhưng không quá nhanh,2025-01-16
+1187,tai nghe,4,positive,"mic thu âm rõ, gọi điện tốt, hơi tiếc",2026-02-19
+1188,giày thể thao,3,neutral,"săn sale nên thấy mẫu đẹp nhưng chưa thử chạy lâu, hơi tiếc",2026-01-26
+1189,nồi chiên,2,negative,nhiệt không đều như mong đợi,2026-02-07
+1190,chuột,3,neutral,"đúng mô tả, hiệu năng bình thường",2025-10-21
+1191,nồi chiên,5,positive,"máy chạy êm, dễ vệ sinh",2025-07-17
+1192,bàn phím,5,positive,"đóng gói cẩn thận, keycap chắc chắn, build ngon",2025-03-29
+1193,chuột,1,negative,"kết nối chập chờn, dùng bực mình, sẽ ủng hộ tiếp",2025-04-12
+1194,chuột,3,neutral,"shop giao nhanh, dùng tạm ổn trong tầm giá, đáng tiền",2025-12-04
+1195,sạc dự phòng,4,positive,"dùng ổn định, rất hài lòng, sẽ ủng hộ tiếp",2025-06-17
+1196,nồi chiên,3,neutral,"shop giao nhanh, dùng ổn, cần test thêm",2025-08-03
+1197,áo thun,1,negative,"shop giao nhanh, size bị lệch, mặc không vừa, đáng tiền",2025-08-10
+1198,nồi chiên,1,negative,"nhiệt không đều như mong đợi, đáng tiền",2025-10-28
+1199,bàn phím,2,negative,"một vài phím bị liệt, sẽ ủng hộ tiếp",2025-08-17
+1200,chuột,3,neutral,"săn sale nên thấy đúng mô tả, hiệu năng bình thường, hơi tiếc",2025-08-25
+1201,sạc dự phòng,4,positive,"săn sale nên thấy dùng ổn định, rất hài lòng, đáng tiền",2025-12-25
+1202,nồi chiên,2,negative,"shop giao nhanh, nhiệt không đều như mong đợi, hơi tiếc",2025-05-08
+1203,bàn phím,3,neutral,"shop giao nhanh, đúng mô tả nhưng giao hơi lâu",2025-02-18
+1204,áo thun,1,negative,"đóng gói cẩn thận, size bị lệch, mặc không vừa",2025-05-30
+1205,giày thể thao,3,neutral,mẫu đẹp nhưng chưa thử chạy lâu,2025-07-08
+1206,chuột,3,neutral,"shop giao nhanh, chưa dùng lâu nên chưa đánh giá thêm, đáng tiền",2025-04-17
+1207,sạc dự phòng,4,positive,"săn sale nên thấy dùng ổn định, rất hài lòng, hơi tiếc",2025-06-25
+1208,giày thể thao,4,positive,"đi êm chân, form đẹp, đáng tiền",2025-02-28
+1209,giày thể thao,3,neutral,săn sale nên thấy mẫu đẹp nhưng chưa thử chạy lâu,2025-02-12
+1210,sạc dự phòng,1,negative,"đóng gói cẩn thận, dung lượng không như quảng cáo, sẽ ủng hộ tiếp",2025-03-29
+1211,nồi chiên,4,positive,"máy chạy êm, dễ vệ sinh",2026-01-15
+1212,áo thun,4,positive,"săn sale nên thấy vải mềm, form đẹp, đáng tiền",2025-04-02
+1213,bàn phím,2,negative,gõ hơi cứng và ồn,2025-11-25
+1214,giày thể thao,2,negative,"đóng gói cẩn thận, size không chuẩn, hơi tiếc",2025-01-27
+1215,sạc dự phòng,5,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng, sẽ ủng hộ tiếp",2025-04-13
+1216,chuột,4,positive,"shop giao nhanh, cầm vừa tay, phản hồi tốt",2025-04-23
+1217,chuột,3,neutral,săn sale nên thấy dùng tạm ổn trong tầm giá,2025-02-25
+1218,nồi chiên,4,positive,"săn sale nên thấy dung tích lớn, rất tiện, hơi tiếc",2025-03-03
+1219,bàn phím,5,positive,"gõ êm tay, led đẹp, hơi tiếc",2025-12-01
+1220,tai nghe,4,positive,"âm thanh rõ, bass tốt, đáng tiền",2025-11-29
+1221,sạc dự phòng,4,positive,"đóng gói cẩn thận, thiết kế đẹp, cầm chắc tay",2025-09-13
+1222,chuột,2,negative,"double click sau vài ngày, khá khó chịu, đáng tiền",2025-11-20
+1223,giày thể thao,4,positive,"đóng gói cẩn thận, đi êm chân, form đẹp, hơi tiếc",2025-02-04
+1224,tai nghe,5,positive,"shop giao nhanh, mic thu âm rõ, gọi điện tốt",2025-10-28
+1225,giày thể thao,3,neutral,"chất lượng bình thường, đáng tiền",2025-05-02
+1226,giày thể thao,4,positive,"shop giao nhanh, đi êm chân, form đẹp, đáng tiền",2025-09-13
+1227,tai nghe,5,positive,"mic thu âm rõ, gọi điện tốt, sẽ ủng hộ tiếp",2026-01-07
+1228,sạc dự phòng,3,neutral,"đóng gói cẩn thận, dùng được, chưa thấy vấn đề, đáng tiền",2025-11-26
+1229,nồi chiên,3,neutral,"shop giao nhanh, dùng ổn, cần test thêm, đáng tiền",2025-06-25
+1230,bàn phím,4,positive,"shop giao nhanh, keycap chắc chắn, build ngon",2026-03-23
+1231,áo thun,2,negative,"chỉ thừa nhiều, hơi thất vọng",2026-03-22
+1232,áo thun,4,positive,"shop giao nhanh, màu đẹp như hình, sẽ ủng hộ tiếp",2025-03-06
+1233,chuột,4,positive,"săn sale nên thấy di chuột mượt, click nhạy, rất đáng tiền, hơi tiếc",2025-06-09
+1234,bàn phím,2,negative,"một vài phím bị liệt, sẽ ủng hộ tiếp",2025-06-05
+1235,tai nghe,2,negative,"pin tụt nhanh, đáng tiền",2025-07-23
+1236,áo thun,5,positive,"màu đẹp như hình, hơi tiếc",2026-01-25
+1237,bàn phím,3,neutral,săn sale nên thấy đúng mô tả nhưng giao hơi lâu,2026-01-24
+1238,tai nghe,1,negative,"săn sale nên thấy pin tụt nhanh, hơi tiếc",2025-06-06
+1239,áo thun,5,positive,"shop giao nhanh, mặc thoải mái, đường may chắc, hơi tiếc",2025-04-11
+1240,bàn phím,3,neutral,"đóng gói cẩn thận, dùng văn phòng khá ổn, hơi tiếc",2025-07-27
+1241,áo thun,3,neutral,"đóng gói cẩn thận, đúng mô tả, chất vải bình thường",2025-02-06
+1242,áo thun,3,neutral,"shop giao nhanh, không quá xuất sắc nhưng chấp nhận được, sẽ ủng hộ tiếp",2026-01-26
+1243,áo thun,3,neutral,"đóng gói cẩn thận, không quá xuất sắc nhưng chấp nhận được",2025-11-30
+1244,áo thun,3,neutral,"đúng mô tả, chất vải bình thường, đáng tiền",2025-11-20
+1245,giày thể thao,2,negative,"săn sale nên thấy size không chuẩn, sẽ ủng hộ tiếp",2025-05-11
+1246,bàn phím,1,negative,"một vài phím bị liệt, hơi tiếc",2025-07-23
+1247,giày thể thao,1,negative,"shop giao nhanh, đi hơi cứng chân, hơi tiếc",2025-05-10
+1248,giày thể thao,5,positive,"săn sale nên thấy nhẹ chân, đúng size",2025-02-25
+1249,giày thể thao,1,negative,"shop giao nhanh, đi hơi cứng chân, hơi tiếc",2025-12-24
+1250,tai nghe,4,positive,"âm thanh rõ, bass tốt",2026-02-01
+1251,giày thể thao,5,positive,"săn sale nên thấy nhẹ chân, đúng size, sẽ ủng hộ tiếp",2025-04-01
+1252,tai nghe,4,positive,"shop giao nhanh, đeo êm tai lâu không đau",2025-02-26
+1253,áo thun,1,negative,"size bị lệch, mặc không vừa, sẽ ủng hộ tiếp",2026-02-19
+1254,nồi chiên,5,positive,"dung tích lớn, rất tiện",2026-03-21
+1255,giày thể thao,5,positive,"đế bám tốt, chạy thích, đáng tiền",2025-02-02
+1256,tai nghe,4,positive,đeo êm tai lâu không đau,2025-02-01
+1257,tai nghe,3,neutral,"shop giao nhanh, âm thanh ở mức chấp nhận được",2026-02-10
+1258,chuột,5,positive,"đóng gói cẩn thận, kết nối ổn định, không bị lag",2025-08-08
+1259,tai nghe,5,positive,"đóng gói cẩn thận, âm thanh rõ, bass tốt, hơi tiếc",2025-07-13
+1260,sạc dự phòng,5,positive,"sạc nhanh, pin đúng dung lượng, hơi tiếc",2026-03-22
+1261,giày thể thao,4,positive,"nhẹ chân, đúng size",2025-05-24
+1262,giày thể thao,3,neutral,"mẫu đẹp nhưng chưa thử chạy lâu, hơi tiếc",2025-09-21
+1263,áo thun,2,negative,"đóng gói cẩn thận, size bị lệch, mặc không vừa",2026-02-18
+1264,giày thể thao,5,positive,"săn sale nên thấy nhẹ chân, đúng size, hơi tiếc",2026-01-14
+1265,sạc dự phòng,3,neutral,"sạc ở mức bình thường, hơi tiếc",2025-05-31
+1266,sạc dự phòng,4,positive,"săn sale nên thấy sạc nhanh, pin đúng dung lượng",2025-06-04
+1267,nồi chiên,1,negative,"vỏ có vết xước, hơi tiếc",2025-12-06
+1268,sạc dự phòng,4,positive,"dùng ổn định, rất hài lòng",2025-08-11
+1269,giày thể thao,5,positive,"shop giao nhanh, đế bám tốt, chạy thích, đáng tiền",2025-12-07
+1270,áo thun,3,neutral,săn sale nên thấy không quá xuất sắc nhưng chấp nhận được,2026-02-12
+1271,giày thể thao,4,positive,"đóng gói cẩn thận, nhẹ chân, đúng size, hơi tiếc",2026-01-03
+1272,giày thể thao,2,negative,"shop giao nhanh, keo dán chưa chắc, đáng tiền",2025-03-01
+1273,tai nghe,4,positive,"mic thu âm rõ, gọi điện tốt, sẽ ủng hộ tiếp",2026-01-17
+1274,chuột,2,negative,"kết nối chập chờn, dùng bực mình",2025-06-09
+1275,chuột,2,negative,"đóng gói cẩn thận, kết nối chập chờn, dùng bực mình, đáng tiền",2026-02-13
+1276,giày thể thao,3,neutral,"săn sale nên thấy đi ổn, đúng giá tiền",2025-10-03
+1277,nồi chiên,4,positive,"săn sale nên thấy nướng nhanh, chín đều, hơi tiếc",2025-03-17
+1278,sạc dự phòng,4,positive,"thiết kế đẹp, cầm chắc tay",2025-05-21
+1279,nồi chiên,1,negative,"đóng gói cẩn thận, vỏ có vết xước, hơi tiếc",2025-01-31
+1280,nồi chiên,4,positive,"dung tích lớn, rất tiện, sẽ ủng hộ tiếp",2026-03-15
+1281,áo thun,1,negative,"size bị lệch, mặc không vừa, hơi tiếc",2025-06-22
+1282,áo thun,2,negative,vải mỏng hơn mong đợi,2026-01-08
+1283,tai nghe,4,positive,"shop giao nhanh, âm thanh rõ, bass tốt, đáng tiền",2026-01-21
+1284,nồi chiên,2,negative,"shop giao nhanh, vỏ có vết xước",2025-03-12
+1285,áo thun,1,negative,"shop giao nhanh, size bị lệch, mặc không vừa, sẽ ủng hộ tiếp",2026-01-12
+1286,giày thể thao,4,positive,"săn sale nên thấy đế bám tốt, chạy thích, sẽ ủng hộ tiếp",2025-01-29
+1287,chuột,5,positive,"di chuột mượt, click nhạy, rất đáng tiền",2025-11-29
+1288,tai nghe,2,negative,âm bị rè khi mở lớn,2025-05-04
+1289,áo thun,4,positive,"màu đẹp như hình, hơi tiếc",2026-03-19
+1290,nồi chiên,2,negative,vỏ có vết xước,2025-03-01
+1291,chuột,4,positive,"đóng gói cẩn thận, kết nối ổn định, không bị lag",2026-02-11
+1292,sạc dự phòng,5,positive,"thiết kế đẹp, cầm chắc tay, sẽ ủng hộ tiếp",2025-02-20
+1293,tai nghe,4,positive,"mic thu âm rõ, gọi điện tốt, hơi tiếc",2025-10-12
+1294,nồi chiên,1,negative,nhiệt không đều như mong đợi,2026-01-01
+1295,nồi chiên,3,neutral,"đúng mô tả, mức trung bình, sẽ ủng hộ tiếp",2026-03-18
+1296,sạc dự phòng,2,negative,dung lượng không như quảng cáo,2025-03-07
+1297,sạc dự phòng,4,positive,"đóng gói cẩn thận, dùng ổn định, rất hài lòng",2025-02-13
+1298,chuột,1,negative,"kết nối chập chờn, dùng bực mình, sẽ ủng hộ tiếp",2025-06-03
+1299,chuột,3,neutral,"dùng tạm ổn trong tầm giá, hơi tiếc",2025-12-22
+1300,tai nghe,1,negative,đeo hơi đau tai,2025-05-02
+1301,chuột,5,positive,"pin trâu, dùng mượt cả ngày",2025-04-21
+1302,sạc dự phòng,4,positive,"sạc nhanh, pin đúng dung lượng, đáng tiền",2025-05-14
+1303,áo thun,2,negative,"vải mỏng hơn mong đợi, đáng tiền",2025-12-13
+1304,áo thun,3,neutral,"đóng gói cẩn thận, mặc tạm ổn, sẽ ủng hộ tiếp",2026-01-01
+1305,tai nghe,2,negative,"đóng gói cẩn thận, âm bị rè khi mở lớn, hơi tiếc",2025-07-14
+1306,chuột,3,neutral,chưa dùng lâu nên chưa đánh giá thêm,2025-02-26
+1307,giày thể thao,2,negative,"size không chuẩn, đáng tiền",2025-06-20
+1308,nồi chiên,4,positive,"nướng nhanh, chín đều, hơi tiếc",2025-04-24
+1309,áo thun,3,neutral,"đóng gói cẩn thận, không quá xuất sắc nhưng chấp nhận được",2026-02-25
+1310,nồi chiên,5,positive,"đóng gói cẩn thận, dung tích lớn, rất tiện",2025-02-20
+1311,chuột,5,positive,"cầm vừa tay, phản hồi tốt",2025-11-01
+1312,nồi chiên,4,positive,"nướng nhanh, chín đều, sẽ ủng hộ tiếp",2025-12-03
+1313,bàn phím,5,positive,"đóng gói cẩn thận, keycap chắc chắn, build ngon, sẽ ủng hộ tiếp",2025-12-14
+1314,sạc dự phòng,5,positive,"đóng gói cẩn thận, thiết kế đẹp, cầm chắc tay, hơi tiếc",2025-09-15
+1315,tai nghe,5,positive,"đeo êm tai lâu không đau, đáng tiền",2025-07-28
+1316,nồi chiên,4,positive,"shop giao nhanh, nướng nhanh, chín đều",2025-03-26
+1317,sạc dự phòng,5,positive,"săn sale nên thấy sạc nhanh, pin đúng dung lượng",2026-01-10
+1318,bàn phím,4,positive,"gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2026-03-02
+1319,giày thể thao,5,positive,"đi êm chân, form đẹp",2025-01-22
+1320,sạc dự phòng,4,positive,"sạc nhanh, pin đúng dung lượng, đáng tiền",2026-03-06
+1321,bàn phím,2,negative,"săn sale nên thấy led không đều màu, sẽ ủng hộ tiếp",2025-07-11
+1322,chuột,4,positive,"đóng gói cẩn thận, cầm vừa tay, phản hồi tốt, hơi tiếc",2025-05-31
+1323,tai nghe,5,positive,đeo êm tai lâu không đau,2025-08-26
+1324,sạc dự phòng,3,neutral,"dùng được, chưa thấy vấn đề, hơi tiếc",2025-06-18
+1325,tai nghe,4,positive,"shop giao nhanh, mic thu âm rõ, gọi điện tốt, hơi tiếc",2025-07-01
+1326,chuột,5,positive,"di chuột mượt, click nhạy, rất đáng tiền",2026-04-06
+1327,bàn phím,5,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2025-08-29
+1328,áo thun,5,positive,"vải mềm, form đẹp, đáng tiền",2025-02-25
+1329,áo thun,1,negative,"đóng gói cẩn thận, size bị lệch, mặc không vừa, hơi tiếc",2025-01-03
+1330,tai nghe,3,neutral,"đóng gói cẩn thận, âm thanh ở mức chấp nhận được",2025-03-10
+1331,áo thun,5,positive,"shop giao nhanh, vải mềm, form đẹp, hơi tiếc",2025-12-07
+1332,tai nghe,5,positive,"shop giao nhanh, mic thu âm rõ, gọi điện tốt, đáng tiền",2026-01-20
+1333,nồi chiên,3,neutral,"dùng ổn, cần test thêm",2026-02-10
+1334,chuột,5,positive,"pin trâu, dùng mượt cả ngày, đáng tiền",2025-08-08
+1335,sạc dự phòng,2,negative,"đóng gói cẩn thận, dung lượng không như quảng cáo, hơi tiếc",2025-02-12
+1336,nồi chiên,4,positive,"đóng gói cẩn thận, nướng nhanh, chín đều",2026-03-19
+1337,tai nghe,3,neutral,săn sale nên thấy âm thanh ở mức chấp nhận được,2025-12-25
+1338,giày thể thao,1,negative,"shop giao nhanh, size không chuẩn, sẽ ủng hộ tiếp",2025-03-03
+1339,bàn phím,5,positive,"săn sale nên thấy gõ êm tay, led đẹp",2025-11-12
+1340,bàn phím,4,positive,"switch phản hồi tốt, rất thích, đáng tiền",2025-12-25
+1341,giày thể thao,3,neutral,săn sale nên thấy mẫu đẹp nhưng chưa thử chạy lâu,2025-09-19
+1342,áo thun,1,negative,"đóng gói cẩn thận, vải mỏng hơn mong đợi, đáng tiền",2025-06-29
+1343,giày thể thao,5,positive,"đi êm chân, form đẹp",2025-01-27
+1344,giày thể thao,2,negative,"đóng gói cẩn thận, đi hơi cứng chân",2025-02-21
+1345,áo thun,5,positive,"đóng gói cẩn thận, mặc thoải mái, đường may chắc",2025-02-19
+1346,giày thể thao,4,positive,"đóng gói cẩn thận, đế bám tốt, chạy thích",2025-09-28
+1347,sạc dự phòng,5,positive,"săn sale nên thấy dùng ổn định, rất hài lòng",2026-03-31
+1348,chuột,4,positive,"shop giao nhanh, pin trâu, dùng mượt cả ngày, hơi tiếc",2025-02-20
+1349,chuột,3,neutral,"săn sale nên thấy đúng mô tả, hiệu năng bình thường, sẽ ủng hộ tiếp",2025-10-01
+1350,giày thể thao,4,positive,"đế bám tốt, chạy thích, đáng tiền",2026-04-02
+1351,nồi chiên,3,neutral,"nấu được nhưng không quá nhanh, hơi tiếc",2025-02-04
+1352,áo thun,4,positive,"đóng gói cẩn thận, màu đẹp như hình, sẽ ủng hộ tiếp",2025-05-29
+1353,chuột,3,neutral,"săn sale nên thấy đúng mô tả, hiệu năng bình thường, hơi tiếc",2025-12-17
+1354,sạc dự phòng,3,neutral,"sạc ở mức bình thường, hơi tiếc",2025-10-15
+1355,nồi chiên,5,positive,"nướng nhanh, chín đều, sẽ ủng hộ tiếp",2025-10-20
+1356,bàn phím,2,negative,"gõ hơi cứng và ồn, đáng tiền",2025-06-05
+1357,nồi chiên,5,positive,"shop giao nhanh, nướng nhanh, chín đều",2025-10-01
+1358,bàn phím,4,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp",2025-11-25
+1359,bàn phím,3,neutral,"đóng gói cẩn thận, gõ ổn, chưa có gì nổi bật",2025-07-08
+1360,tai nghe,5,positive,"đeo êm tai lâu không đau, đáng tiền",2025-06-16
+1361,chuột,2,negative,"đóng gói cẩn thận, pin yếu hơn mô tả, sẽ ủng hộ tiếp",2025-05-12
+1362,chuột,2,negative,"con lăn bị kẹt, trải nghiệm tệ",2025-04-16
+1363,nồi chiên,5,positive,"nướng nhanh, chín đều, hơi tiếc",2025-03-21
+1364,áo thun,5,positive,"săn sale nên thấy vải mềm, form đẹp",2025-09-11
+1365,bàn phím,4,positive,"săn sale nên thấy keycap chắc chắn, build ngon, sẽ ủng hộ tiếp",2025-11-28
+1366,tai nghe,4,positive,"đeo êm tai lâu không đau, sẽ ủng hộ tiếp",2025-02-05
+1367,bàn phím,4,positive,"săn sale nên thấy keycap chắc chắn, build ngon",2026-01-06
+1368,sạc dự phòng,4,positive,"săn sale nên thấy thiết kế đẹp, cầm chắc tay",2025-02-26
+1369,nồi chiên,4,positive,"nướng nhanh, chín đều, đáng tiền",2025-03-15
+1370,giày thể thao,1,negative,"đóng gói cẩn thận, size không chuẩn",2025-04-14
+1371,bàn phím,5,positive,"đóng gói cẩn thận, switch phản hồi tốt, rất thích, hơi tiếc",2025-03-21
+1372,bàn phím,5,positive,"gõ êm tay, led đẹp",2025-10-06
+1373,tai nghe,5,positive,"shop giao nhanh, âm thanh rõ, bass tốt",2025-04-27
+1374,áo thun,5,positive,"săn sale nên thấy vải mềm, form đẹp",2025-09-09
+1375,bàn phím,3,neutral,"đóng gói cẩn thận, đúng mô tả nhưng giao hơi lâu",2025-11-12
+1376,tai nghe,4,positive,"shop giao nhanh, mic thu âm rõ, gọi điện tốt, sẽ ủng hộ tiếp",2025-08-08
+1377,sạc dự phòng,4,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng",2026-02-23
+1378,tai nghe,4,positive,"đóng gói cẩn thận, đeo êm tai lâu không đau, đáng tiền",2026-02-20
+1379,giày thể thao,3,neutral,"shop giao nhanh, chất lượng bình thường, đáng tiền",2025-03-17
+1380,áo thun,5,positive,"vải mềm, form đẹp, hơi tiếc",2026-01-08
+1381,tai nghe,5,positive,"săn sale nên thấy âm thanh rõ, bass tốt, đáng tiền",2025-06-13
+1382,áo thun,5,positive,"shop giao nhanh, vải mềm, form đẹp, hơi tiếc",2025-08-03
+1383,sạc dự phòng,5,positive,"thiết kế đẹp, cầm chắc tay",2026-01-02
+1384,áo thun,1,negative,"đóng gói cẩn thận, size bị lệch, mặc không vừa",2025-04-15
+1385,nồi chiên,5,positive,"nướng nhanh, chín đều, đáng tiền",2025-07-04
+1386,nồi chiên,3,neutral,"shop giao nhanh, nấu được nhưng không quá nhanh",2025-08-04
+1387,bàn phím,4,positive,"shop giao nhanh, keycap chắc chắn, build ngon",2025-12-23
+1388,giày thể thao,4,positive,"đế bám tốt, chạy thích",2025-12-06
+1389,sạc dự phòng,4,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng, sẽ ủng hộ tiếp",2025-02-10
+1390,bàn phím,5,positive,"săn sale nên thấy gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2026-01-19
+1391,sạc dự phòng,2,negative,"đóng gói cẩn thận, dung lượng không như quảng cáo, hơi tiếc",2026-02-05
+1392,giày thể thao,1,negative,keo dán chưa chắc,2025-11-06
+1393,nồi chiên,4,positive,"săn sale nên thấy máy chạy êm, dễ vệ sinh, hơi tiếc",2025-10-11
+1394,giày thể thao,3,neutral,"shop giao nhanh, mẫu đẹp nhưng chưa thử chạy lâu, đáng tiền",2025-02-17
+1395,sạc dự phòng,4,positive,"thiết kế đẹp, cầm chắc tay",2025-04-23
+1396,áo thun,4,positive,"đóng gói cẩn thận, mặc thoải mái, đường may chắc, hơi tiếc",2026-02-28
+1397,áo thun,5,positive,"đóng gói cẩn thận, vải mềm, form đẹp",2025-02-23
+1398,chuột,5,positive,"đóng gói cẩn thận, pin trâu, dùng mượt cả ngày, sẽ ủng hộ tiếp",2025-10-05
+1399,chuột,4,positive,"pin trâu, dùng mượt cả ngày, sẽ ủng hộ tiếp",2025-11-23
+1400,chuột,4,positive,"kết nối ổn định, không bị lag",2025-06-11
+1401,chuột,3,neutral,săn sale nên thấy chưa dùng lâu nên chưa đánh giá thêm,2025-04-10
+1402,tai nghe,3,neutral,"chưa test lâu nên chưa rõ độ bền, đáng tiền",2025-07-28
+1403,giày thể thao,1,negative,"săn sale nên thấy size không chuẩn, hơi tiếc",2025-10-28
+1404,nồi chiên,3,neutral,"săn sale nên thấy dùng ổn, cần test thêm",2026-03-30
+1405,giày thể thao,4,positive,"shop giao nhanh, nhẹ chân, đúng size, sẽ ủng hộ tiếp",2025-09-14
+1406,sạc dự phòng,3,neutral,"đóng gói cẩn thận, dùng được, chưa thấy vấn đề, đáng tiền",2025-07-04
+1407,sạc dự phòng,3,neutral,"săn sale nên thấy đúng mô tả nhưng chưa nổi bật, sẽ ủng hộ tiếp",2025-04-17
+1408,sạc dự phòng,2,negative,"sạc vào rất chậm, sẽ ủng hộ tiếp",2026-01-28
+1409,nồi chiên,4,positive,"săn sale nên thấy nướng nhanh, chín đều, đáng tiền",2025-03-28
+1410,tai nghe,5,positive,đeo êm tai lâu không đau,2025-04-02
+1411,giày thể thao,3,neutral,"săn sale nên thấy mẫu đẹp nhưng chưa thử chạy lâu, sẽ ủng hộ tiếp",2025-03-05
+1412,sạc dự phòng,5,positive,"săn sale nên thấy thiết kế đẹp, cầm chắc tay",2025-12-15
+1413,bàn phím,5,positive,"săn sale nên thấy gõ êm tay, led đẹp",2025-08-19
+1414,tai nghe,3,neutral,"shop giao nhanh, chưa test lâu nên chưa rõ độ bền",2025-01-05
+1415,bàn phím,3,neutral,"gõ ổn, chưa có gì nổi bật, hơi tiếc",2026-03-14
+1416,chuột,5,positive,"săn sale nên thấy cầm vừa tay, phản hồi tốt, hơi tiếc",2025-11-25
+1417,sạc dự phòng,3,neutral,"shop giao nhanh, dùng được, chưa thấy vấn đề",2025-07-23
+1418,nồi chiên,5,positive,"đóng gói cẩn thận, nướng nhanh, chín đều, đáng tiền",2025-11-06
+1419,áo thun,5,positive,"săn sale nên thấy mặc thoải mái, đường may chắc",2025-10-07
+1420,bàn phím,3,neutral,đúng mô tả nhưng giao hơi lâu,2025-11-04
+1421,nồi chiên,5,positive,"shop giao nhanh, máy chạy êm, dễ vệ sinh",2025-04-19
+1422,nồi chiên,5,positive,"shop giao nhanh, máy chạy êm, dễ vệ sinh",2025-03-14
+1423,chuột,4,positive,"săn sale nên thấy kết nối ổn định, không bị lag",2025-04-20
+1424,giày thể thao,3,neutral,"săn sale nên thấy đi ổn, đúng giá tiền, đáng tiền",2026-01-21
+1425,tai nghe,5,positive,săn sale nên thấy đeo êm tai lâu không đau,2025-12-19
+1426,nồi chiên,5,positive,"dung tích lớn, rất tiện, hơi tiếc",2026-02-26
+1427,chuột,1,negative,"đóng gói cẩn thận, pin yếu hơn mô tả, đáng tiền",2025-01-08
+1428,bàn phím,3,neutral,"đúng mô tả nhưng giao hơi lâu, hơi tiếc",2025-05-15
+1429,sạc dự phòng,1,negative,săn sale nên thấy máy hơi nóng khi sạc,2025-02-19
+1430,chuột,4,positive,"pin trâu, dùng mượt cả ngày, hơi tiếc",2025-04-21
+1431,tai nghe,4,positive,"đóng gói cẩn thận, đeo êm tai lâu không đau",2025-06-04
+1432,tai nghe,2,negative,"săn sale nên thấy đeo hơi đau tai, hơi tiếc",2025-07-30
+1433,tai nghe,5,positive,"shop giao nhanh, âm thanh rõ, bass tốt, hơi tiếc",2025-08-08
+1434,tai nghe,4,positive,"đóng gói cẩn thận, đeo êm tai lâu không đau, hơi tiếc",2025-11-21
+1435,tai nghe,1,negative,âm bị rè khi mở lớn,2025-11-12
+1436,áo thun,4,positive,màu đẹp như hình,2025-12-08
+1437,tai nghe,3,neutral,"nghe ổn trong tầm giá, hơi tiếc",2025-02-28
+1438,bàn phím,3,neutral,"săn sale nên thấy đúng mô tả nhưng giao hơi lâu, hơi tiếc",2025-01-04
+1439,tai nghe,3,neutral,"đóng gói cẩn thận, chưa test lâu nên chưa rõ độ bền, đáng tiền",2026-03-06
+1440,nồi chiên,3,neutral,nấu được nhưng không quá nhanh,2025-01-14
+1441,bàn phím,3,neutral,"gõ ổn, chưa có gì nổi bật, hơi tiếc",2025-05-04
+1442,sạc dự phòng,3,neutral,"dùng được, chưa thấy vấn đề, hơi tiếc",2025-03-07
+1443,giày thể thao,4,positive,"đế bám tốt, chạy thích, sẽ ủng hộ tiếp",2025-08-12
+1444,bàn phím,4,positive,"keycap chắc chắn, build ngon, hơi tiếc",2026-03-08
+1445,nồi chiên,1,negative,"shop giao nhanh, vỏ có vết xước",2025-02-17
+1446,chuột,4,positive,"di chuột mượt, click nhạy, rất đáng tiền, hơi tiếc",2025-01-13
+1447,giày thể thao,2,negative,"shop giao nhanh, keo dán chưa chắc, sẽ ủng hộ tiếp",2025-06-02
+1448,bàn phím,2,negative,"led không đều màu, đáng tiền",2025-02-12
+1449,bàn phím,1,negative,led không đều màu,2025-02-24
+1450,bàn phím,4,positive,"săn sale nên thấy gõ êm tay, led đẹp, đáng tiền",2026-03-06
+1451,bàn phím,5,positive,"switch phản hồi tốt, rất thích, hơi tiếc",2025-11-17
+1452,chuột,5,positive,"săn sale nên thấy cầm vừa tay, phản hồi tốt, sẽ ủng hộ tiếp",2025-04-03
+1453,tai nghe,4,positive,"đóng gói cẩn thận, âm thanh rõ, bass tốt, đáng tiền",2025-09-05
+1454,sạc dự phòng,1,negative,"đóng gói cẩn thận, máy hơi nóng khi sạc",2025-04-09
+1455,sạc dự phòng,4,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng",2026-04-06
+1456,bàn phím,4,positive,"shop giao nhanh, gõ êm tay, led đẹp, đáng tiền",2025-05-21
+1457,áo thun,4,positive,"màu đẹp như hình, đáng tiền",2025-08-28
+1458,giày thể thao,3,neutral,"đóng gói cẩn thận, đi ổn, đúng giá tiền, sẽ ủng hộ tiếp",2025-04-12
+1459,giày thể thao,3,neutral,"đi ổn, đúng giá tiền",2025-06-09
+1460,bàn phím,3,neutral,săn sale nên thấy đúng mô tả nhưng giao hơi lâu,2026-01-18
+1461,tai nghe,3,neutral,"shop giao nhanh, nghe ổn trong tầm giá",2025-06-30
+1462,tai nghe,3,neutral,âm thanh ở mức chấp nhận được,2025-05-10
+1463,sạc dự phòng,5,positive,"sạc nhanh, pin đúng dung lượng, sẽ ủng hộ tiếp",2026-02-19
+1464,tai nghe,4,positive,"âm thanh rõ, bass tốt, sẽ ủng hộ tiếp",2025-12-03
+1465,tai nghe,5,positive,"đóng gói cẩn thận, âm thanh rõ, bass tốt",2026-01-03
+1466,tai nghe,5,positive,"mic thu âm rõ, gọi điện tốt, hơi tiếc",2025-05-26
+1467,sạc dự phòng,4,positive,"đóng gói cẩn thận, dùng ổn định, rất hài lòng",2026-03-29
+1468,nồi chiên,3,neutral,"săn sale nên thấy đúng mô tả, mức trung bình, đáng tiền",2026-02-21
+1469,tai nghe,4,positive,"đeo êm tai lâu không đau, đáng tiền",2025-08-04
+1470,chuột,4,positive,"shop giao nhanh, kết nối ổn định, không bị lag",2025-01-11
+1471,tai nghe,4,positive,"shop giao nhanh, đeo êm tai lâu không đau, hơi tiếc",2025-01-19
+1472,sạc dự phòng,3,neutral,đúng mô tả nhưng chưa nổi bật,2025-08-29
+1473,chuột,3,neutral,"đóng gói cẩn thận, chưa dùng lâu nên chưa đánh giá thêm, đáng tiền",2025-07-24
+1474,chuột,2,negative,"săn sale nên thấy double click sau vài ngày, khá khó chịu, đáng tiền",2025-12-23
+1475,áo thun,4,positive,màu đẹp như hình,2025-04-25
+1476,chuột,3,neutral,"săn sale nên thấy chưa dùng lâu nên chưa đánh giá thêm, sẽ ủng hộ tiếp",2025-03-29
+1477,chuột,5,positive,"đóng gói cẩn thận, di chuột mượt, click nhạy, rất đáng tiền",2025-02-26
+1478,chuột,3,neutral,"chưa dùng lâu nên chưa đánh giá thêm, hơi tiếc",2025-05-19
+1479,giày thể thao,4,positive,"shop giao nhanh, đi êm chân, form đẹp, đáng tiền",2026-03-18
+1480,bàn phím,3,neutral,dùng văn phòng khá ổn,2025-09-28
+1481,bàn phím,2,negative,"săn sale nên thấy led không đều màu, sẽ ủng hộ tiếp",2025-02-17
+1482,tai nghe,3,neutral,"shop giao nhanh, chưa test lâu nên chưa rõ độ bền, sẽ ủng hộ tiếp",2025-12-22
+1483,chuột,5,positive,"pin trâu, dùng mượt cả ngày, sẽ ủng hộ tiếp",2025-08-28
+1484,nồi chiên,5,positive,"shop giao nhanh, máy chạy êm, dễ vệ sinh",2026-01-25
+1485,sạc dự phòng,2,negative,"săn sale nên thấy máy hơi nóng khi sạc, sẽ ủng hộ tiếp",2026-03-11
+1486,sạc dự phòng,4,positive,"săn sale nên thấy thiết kế đẹp, cầm chắc tay, hơi tiếc",2026-03-21
+1487,sạc dự phòng,1,negative,"đóng gói cẩn thận, sạc vào rất chậm, hơi tiếc",2025-03-26
+1488,giày thể thao,4,positive,"đế bám tốt, chạy thích",2025-05-04
+1489,chuột,3,neutral,săn sale nên thấy dùng tạm ổn trong tầm giá,2025-08-20
+1490,tai nghe,4,positive,"shop giao nhanh, đeo êm tai lâu không đau, sẽ ủng hộ tiếp",2025-07-23
+1491,sạc dự phòng,5,positive,"đóng gói cẩn thận, thiết kế đẹp, cầm chắc tay, đáng tiền",2025-02-20
+1492,chuột,1,negative,"shop giao nhanh, con lăn bị kẹt, trải nghiệm tệ, hơi tiếc",2025-04-01
+1493,sạc dự phòng,5,positive,"sạc nhanh, pin đúng dung lượng, sẽ ủng hộ tiếp",2025-02-26
+1494,bàn phím,4,positive,"gõ êm tay, led đẹp",2025-02-21
+1495,tai nghe,5,positive,"đeo êm tai lâu không đau, sẽ ủng hộ tiếp",2026-01-11
+1496,nồi chiên,3,neutral,"shop giao nhanh, dùng ổn, cần test thêm, sẽ ủng hộ tiếp",2025-06-27
+1497,giày thể thao,5,positive,"shop giao nhanh, đi êm chân, form đẹp",2025-12-25
+1498,sạc dự phòng,5,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng",2025-03-27
+1499,bàn phím,5,positive,"săn sale nên thấy gõ êm tay, led đẹp, hơi tiếc",2025-06-21
+1500,chuột,5,positive,"pin trâu, dùng mượt cả ngày",2025-06-30
+1501,áo thun,1,negative,vải mỏng hơn mong đợi,2026-02-24
+1502,chuột,1,negative,"shop giao nhanh, pin yếu hơn mô tả",2025-02-21
+1503,tai nghe,3,neutral,"đóng gói cẩn thận, nghe ổn trong tầm giá",2025-05-12
+1504,giày thể thao,5,positive,"đóng gói cẩn thận, đi êm chân, form đẹp, đáng tiền",2025-12-30
+1505,tai nghe,3,neutral,nghe ổn trong tầm giá,2025-03-17
+1506,áo thun,3,neutral,"đúng mô tả, chất vải bình thường, sẽ ủng hộ tiếp",2025-10-23
+1507,giày thể thao,2,negative,"keo dán chưa chắc, sẽ ủng hộ tiếp",2025-07-13
+1508,giày thể thao,5,positive,"shop giao nhanh, nhẹ chân, đúng size, đáng tiền",2025-12-14
+1509,tai nghe,3,neutral,"đóng gói cẩn thận, nghe ổn trong tầm giá, sẽ ủng hộ tiếp",2025-01-22
+1510,sạc dự phòng,1,negative,săn sale nên thấy dung lượng không như quảng cáo,2026-02-10
+1511,nồi chiên,4,positive,"shop giao nhanh, máy chạy êm, dễ vệ sinh, hơi tiếc",2025-12-15
+1512,bàn phím,1,negative,"săn sale nên thấy led không đều màu, đáng tiền",2025-02-03
+1513,nồi chiên,5,positive,"đóng gói cẩn thận, nướng nhanh, chín đều",2025-03-05
+1514,chuột,4,positive,"cầm vừa tay, phản hồi tốt",2025-05-09
+1515,bàn phím,5,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2026-01-11
+1516,bàn phím,4,positive,"gõ êm tay, led đẹp, hơi tiếc",2025-07-01
+1517,bàn phím,3,neutral,"đúng mô tả nhưng giao hơi lâu, đáng tiền",2025-06-04
+1518,sạc dự phòng,5,positive,"shop giao nhanh, dùng ổn định, rất hài lòng, sẽ ủng hộ tiếp",2025-05-09
+1519,bàn phím,4,positive,"switch phản hồi tốt, rất thích, đáng tiền",2025-10-18
+1520,giày thể thao,4,positive,"đế bám tốt, chạy thích, sẽ ủng hộ tiếp",2025-09-27
+1521,áo thun,2,negative,"săn sale nên thấy vải mỏng hơn mong đợi, hơi tiếc",2025-08-04
+1522,áo thun,4,positive,"shop giao nhanh, vải mềm, form đẹp",2025-06-04
+1523,nồi chiên,5,positive,"dung tích lớn, rất tiện",2026-03-26
+1524,tai nghe,5,positive,"đeo êm tai lâu không đau, hơi tiếc",2026-02-18
+1525,nồi chiên,3,neutral,"dùng ổn, cần test thêm, đáng tiền",2026-03-01
+1526,giày thể thao,4,positive,"săn sale nên thấy nhẹ chân, đúng size, đáng tiền",2026-03-19
+1527,chuột,4,positive,"pin trâu, dùng mượt cả ngày, hơi tiếc",2025-03-11
+1528,bàn phím,3,neutral,"đóng gói cẩn thận, dùng văn phòng khá ổn",2026-02-17
+1529,áo thun,1,negative,"size bị lệch, mặc không vừa, sẽ ủng hộ tiếp",2025-11-06
+1530,chuột,1,negative,"săn sale nên thấy double click sau vài ngày, khá khó chịu",2026-03-03
+1531,sạc dự phòng,4,positive,"săn sale nên thấy thiết kế đẹp, cầm chắc tay, hơi tiếc",2025-04-05
+1532,nồi chiên,5,positive,"dung tích lớn, rất tiện",2025-08-10
+1533,bàn phím,1,negative,"shop giao nhanh, gõ hơi cứng và ồn, sẽ ủng hộ tiếp",2025-09-19
+1534,giày thể thao,2,negative,"đóng gói cẩn thận, đi hơi cứng chân, đáng tiền",2025-12-08
+1535,chuột,3,neutral,"đóng gói cẩn thận, đúng mô tả, hiệu năng bình thường, hơi tiếc",2025-07-17
+1536,giày thể thao,3,neutral,"shop giao nhanh, mẫu đẹp nhưng chưa thử chạy lâu",2025-05-26
+1537,áo thun,5,positive,"đóng gói cẩn thận, màu đẹp như hình",2025-11-27
+1538,giày thể thao,3,neutral,"shop giao nhanh, mẫu đẹp nhưng chưa thử chạy lâu, hơi tiếc",2026-03-28
+1539,giày thể thao,4,positive,"đế bám tốt, chạy thích",2025-04-18
+1540,tai nghe,3,neutral,"shop giao nhanh, âm thanh ở mức chấp nhận được, đáng tiền",2025-12-02
+1541,giày thể thao,1,negative,"đóng gói cẩn thận, đi hơi cứng chân, hơi tiếc",2025-02-04
+1542,nồi chiên,2,negative,"shop giao nhanh, nhiệt không đều như mong đợi",2025-12-29
+1543,sạc dự phòng,3,neutral,"đóng gói cẩn thận, đúng mô tả nhưng chưa nổi bật",2025-10-25
+1544,tai nghe,1,negative,"âm bị rè khi mở lớn, sẽ ủng hộ tiếp",2025-04-29
+1545,chuột,2,negative,"shop giao nhanh, con lăn bị kẹt, trải nghiệm tệ, sẽ ủng hộ tiếp",2025-02-23
+1546,bàn phím,2,negative,một vài phím bị liệt,2025-05-09
+1547,chuột,4,positive,"cầm vừa tay, phản hồi tốt",2025-03-31
+1548,tai nghe,5,positive,"âm thanh rõ, bass tốt",2025-04-13
+1549,bàn phím,5,positive,"shop giao nhanh, gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2025-08-11
+1550,nồi chiên,1,negative,nhiệt không đều như mong đợi,2025-04-15
+1551,chuột,3,neutral,chưa dùng lâu nên chưa đánh giá thêm,2026-03-19
+1552,chuột,5,positive,"pin trâu, dùng mượt cả ngày, hơi tiếc",2025-09-14
+1553,tai nghe,4,positive,"săn sale nên thấy đeo êm tai lâu không đau, hơi tiếc",2026-03-24
+1554,chuột,2,negative,"double click sau vài ngày, khá khó chịu, hơi tiếc",2025-04-29
+1555,chuột,1,negative,"đóng gói cẩn thận, pin yếu hơn mô tả, đáng tiền",2025-07-19
+1556,giày thể thao,4,positive,"đi êm chân, form đẹp",2025-05-04
+1557,nồi chiên,2,negative,nhiệt không đều như mong đợi,2025-12-24
+1558,chuột,1,negative,"đóng gói cẩn thận, double click sau vài ngày, khá khó chịu, hơi tiếc",2025-05-14
+1559,bàn phím,4,positive,"gõ êm tay, led đẹp, đáng tiền",2026-01-23
+1560,giày thể thao,3,neutral,mẫu đẹp nhưng chưa thử chạy lâu,2025-11-09
+1561,giày thể thao,3,neutral,"săn sale nên thấy đi ổn, đúng giá tiền",2026-01-14
+1562,sạc dự phòng,3,neutral,sạc ở mức bình thường,2025-01-19
+1563,áo thun,2,negative,"đóng gói cẩn thận, vải mỏng hơn mong đợi, sẽ ủng hộ tiếp",2025-01-11
+1564,chuột,4,positive,"di chuột mượt, click nhạy, rất đáng tiền, hơi tiếc",2025-01-27
+1565,áo thun,3,neutral,săn sale nên thấy không quá xuất sắc nhưng chấp nhận được,2025-03-12
+1566,chuột,5,positive,"đóng gói cẩn thận, pin trâu, dùng mượt cả ngày, hơi tiếc",2025-01-30
+1567,bàn phím,4,positive,"switch phản hồi tốt, rất thích",2025-01-24
+1568,nồi chiên,4,positive,"nướng nhanh, chín đều, sẽ ủng hộ tiếp",2025-08-13
+1569,bàn phím,5,positive,"shop giao nhanh, keycap chắc chắn, build ngon, đáng tiền",2025-03-08
+1570,sạc dự phòng,4,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng",2025-04-16
+1571,áo thun,1,negative,"đóng gói cẩn thận, vải mỏng hơn mong đợi, đáng tiền",2026-02-04
+1572,sạc dự phòng,4,positive,"thiết kế đẹp, cầm chắc tay",2025-02-23
+1573,chuột,5,positive,"cầm vừa tay, phản hồi tốt, sẽ ủng hộ tiếp",2025-03-12
+1574,nồi chiên,3,neutral,"đúng mô tả, mức trung bình, sẽ ủng hộ tiếp",2025-03-04
+1575,tai nghe,1,negative,"săn sale nên thấy âm bị rè khi mở lớn, hơi tiếc",2025-02-28
+1576,chuột,4,positive,"cầm vừa tay, phản hồi tốt, hơi tiếc",2025-06-03
+1577,nồi chiên,3,neutral,"săn sale nên thấy đúng mô tả, mức trung bình, hơi tiếc",2025-01-10
+1578,nồi chiên,5,positive,"shop giao nhanh, nướng nhanh, chín đều, hơi tiếc",2025-04-05
+1579,giày thể thao,4,positive,"đi êm chân, form đẹp, đáng tiền",2025-01-14
+1580,sạc dự phòng,3,neutral,"shop giao nhanh, đúng mô tả nhưng chưa nổi bật",2025-06-24
+1581,giày thể thao,3,neutral,chất lượng bình thường,2025-10-11
+1582,áo thun,3,neutral,"đúng mô tả, chất vải bình thường",2026-01-29
+1583,sạc dự phòng,5,positive,"shop giao nhanh, dùng ổn định, rất hài lòng, sẽ ủng hộ tiếp",2025-01-08
+1584,tai nghe,3,neutral,"âm thanh ở mức chấp nhận được, đáng tiền",2025-06-22
+1585,sạc dự phòng,5,positive,"đóng gói cẩn thận, thiết kế đẹp, cầm chắc tay",2025-01-07
+1586,chuột,5,positive,"săn sale nên thấy pin trâu, dùng mượt cả ngày, hơi tiếc",2025-01-09
+1587,áo thun,4,positive,"mặc thoải mái, đường may chắc, sẽ ủng hộ tiếp",2025-07-29
+1588,chuột,2,negative,"con lăn bị kẹt, trải nghiệm tệ, hơi tiếc",2025-04-03
+1589,tai nghe,3,neutral,"shop giao nhanh, nghe ổn trong tầm giá, sẽ ủng hộ tiếp",2025-11-19
+1590,bàn phím,4,positive,"gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2025-12-17
+1591,sạc dự phòng,3,neutral,"shop giao nhanh, đúng mô tả nhưng chưa nổi bật",2026-01-01
+1592,tai nghe,3,neutral,chưa test lâu nên chưa rõ độ bền,2025-05-01
+1593,tai nghe,5,positive,"mic thu âm rõ, gọi điện tốt, sẽ ủng hộ tiếp",2025-04-15
+1594,tai nghe,1,negative,"săn sale nên thấy đeo hơi đau tai, đáng tiền",2025-03-15
+1595,chuột,5,positive,"đóng gói cẩn thận, kết nối ổn định, không bị lag, hơi tiếc",2025-05-31
+1596,sạc dự phòng,5,positive,"shop giao nhanh, thiết kế đẹp, cầm chắc tay",2025-01-14
+1597,chuột,2,negative,săn sale nên thấy pin yếu hơn mô tả,2025-01-17
+1598,giày thể thao,1,negative,"shop giao nhanh, keo dán chưa chắc",2025-09-15
+1599,sạc dự phòng,1,negative,máy hơi nóng khi sạc,2025-08-30
+1600,giày thể thao,2,negative,"shop giao nhanh, đi hơi cứng chân",2025-05-31
+1601,bàn phím,5,positive,"đóng gói cẩn thận, switch phản hồi tốt, rất thích",2025-12-21
+1602,bàn phím,5,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp",2025-09-16
+1603,chuột,3,neutral,"săn sale nên thấy chưa dùng lâu nên chưa đánh giá thêm, sẽ ủng hộ tiếp",2025-10-19
+1604,nồi chiên,3,neutral,"nấu được nhưng không quá nhanh, sẽ ủng hộ tiếp",2025-11-07
+1605,tai nghe,3,neutral,"âm thanh ở mức chấp nhận được, hơi tiếc",2025-08-04
+1606,sạc dự phòng,3,neutral,"săn sale nên thấy dùng được, chưa thấy vấn đề",2025-03-27
+1607,chuột,5,positive,"pin trâu, dùng mượt cả ngày, hơi tiếc",2025-01-13
+1608,giày thể thao,4,positive,"nhẹ chân, đúng size, hơi tiếc",2025-08-05
+1609,tai nghe,4,positive,"đóng gói cẩn thận, âm thanh rõ, bass tốt, đáng tiền",2025-10-30
+1610,sạc dự phòng,1,negative,"đóng gói cẩn thận, máy hơi nóng khi sạc, hơi tiếc",2025-07-29
+1611,giày thể thao,5,positive,"shop giao nhanh, đế bám tốt, chạy thích, sẽ ủng hộ tiếp",2026-01-06
+1612,nồi chiên,1,negative,quạt hơi ồn,2025-07-09
+1613,giày thể thao,2,negative,"shop giao nhanh, đi hơi cứng chân",2026-01-05
+1614,sạc dự phòng,4,positive,"săn sale nên thấy thiết kế đẹp, cầm chắc tay, đáng tiền",2025-01-25
+1615,sạc dự phòng,2,negative,"săn sale nên thấy dung lượng không như quảng cáo, đáng tiền",2026-01-23
+1616,bàn phím,3,neutral,"đúng mô tả nhưng giao hơi lâu, đáng tiền",2025-10-22
+1617,sạc dự phòng,5,positive,"sạc nhanh, pin đúng dung lượng, đáng tiền",2025-05-21
+1618,áo thun,4,positive,"mặc thoải mái, đường may chắc",2025-04-29
+1619,giày thể thao,4,positive,"nhẹ chân, đúng size, sẽ ủng hộ tiếp",2025-01-15
+1620,sạc dự phòng,3,neutral,"sạc ở mức bình thường, đáng tiền",2025-04-15
+1621,tai nghe,3,neutral,"shop giao nhanh, chưa test lâu nên chưa rõ độ bền, hơi tiếc",2025-06-01
+1622,chuột,2,negative,"săn sale nên thấy kết nối chập chờn, dùng bực mình, đáng tiền",2025-02-14
+1623,nồi chiên,5,positive,"máy chạy êm, dễ vệ sinh, sẽ ủng hộ tiếp",2026-01-08
+1624,chuột,5,positive,"kết nối ổn định, không bị lag",2025-12-28
+1625,giày thể thao,4,positive,"đi êm chân, form đẹp, đáng tiền",2025-04-08
+1626,nồi chiên,1,negative,"shop giao nhanh, quạt hơi ồn",2025-07-12
+1627,nồi chiên,3,neutral,"shop giao nhanh, nấu được nhưng không quá nhanh, hơi tiếc",2026-02-21
+1628,bàn phím,1,negative,một vài phím bị liệt,2026-03-15
+1629,giày thể thao,2,negative,săn sale nên thấy keo dán chưa chắc,2025-11-09
+1630,bàn phím,2,negative,"đóng gói cẩn thận, gõ hơi cứng và ồn",2025-07-14
+1631,giày thể thao,2,negative,"shop giao nhanh, size không chuẩn, đáng tiền",2026-03-07
+1632,bàn phím,3,neutral,săn sale nên thấy dùng văn phòng khá ổn,2025-07-02
+1633,sạc dự phòng,4,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng, hơi tiếc",2025-08-17
+1634,tai nghe,5,positive,"săn sale nên thấy âm thanh rõ, bass tốt, đáng tiền",2025-12-05
+1635,chuột,5,positive,"săn sale nên thấy kết nối ổn định, không bị lag",2025-07-30
+1636,giày thể thao,5,positive,"shop giao nhanh, nhẹ chân, đúng size, hơi tiếc",2025-02-01
+1637,sạc dự phòng,3,neutral,"săn sale nên thấy sạc ở mức bình thường, hơi tiếc",2025-08-06
+1638,áo thun,4,positive,"shop giao nhanh, mặc thoải mái, đường may chắc, đáng tiền",2025-11-22
+1639,nồi chiên,5,positive,"nướng nhanh, chín đều, sẽ ủng hộ tiếp",2025-10-02
+1640,bàn phím,3,neutral,"gõ ổn, chưa có gì nổi bật",2025-01-11
+1641,giày thể thao,5,positive,"đóng gói cẩn thận, nhẹ chân, đúng size, đáng tiền",2026-01-28
+1642,nồi chiên,1,negative,"vỏ có vết xước, sẽ ủng hộ tiếp",2025-03-22
+1643,nồi chiên,2,negative,"đóng gói cẩn thận, quạt hơi ồn, đáng tiền",2025-07-31
+1644,bàn phím,1,negative,một vài phím bị liệt,2025-02-22
+1645,sạc dự phòng,5,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng, đáng tiền",2025-01-13
+1646,bàn phím,1,negative,"led không đều màu, hơi tiếc",2025-12-02
+1647,áo thun,5,positive,"vải mềm, form đẹp",2026-01-05
+1648,giày thể thao,3,neutral,"đi ổn, đúng giá tiền",2025-03-19
+1649,chuột,1,negative,"đóng gói cẩn thận, con lăn bị kẹt, trải nghiệm tệ, hơi tiếc",2025-09-20
+1650,giày thể thao,5,positive,"đi êm chân, form đẹp, đáng tiền",2025-12-02
+1651,sạc dự phòng,5,positive,"shop giao nhanh, sạc nhanh, pin đúng dung lượng, hơi tiếc",2025-10-15
+1652,tai nghe,4,positive,"săn sale nên thấy âm thanh rõ, bass tốt, hơi tiếc",2025-07-10
+1653,nồi chiên,2,negative,quạt hơi ồn,2025-07-23
+1654,nồi chiên,5,positive,"dung tích lớn, rất tiện, đáng tiền",2025-06-20
+1655,bàn phím,3,neutral,"shop giao nhanh, dùng văn phòng khá ổn, sẽ ủng hộ tiếp",2026-03-19
+1656,áo thun,1,negative,"vải mỏng hơn mong đợi, hơi tiếc",2025-09-25
+1657,giày thể thao,3,neutral,"đóng gói cẩn thận, mẫu đẹp nhưng chưa thử chạy lâu, hơi tiếc",2025-06-09
+1658,giày thể thao,4,positive,"đế bám tốt, chạy thích",2025-07-28
+1659,nồi chiên,4,positive,"săn sale nên thấy dung tích lớn, rất tiện, đáng tiền",2025-11-30
+1660,bàn phím,5,positive,"săn sale nên thấy gõ êm tay, led đẹp",2025-07-12
+1661,bàn phím,3,neutral,"shop giao nhanh, gõ ổn, chưa có gì nổi bật, hơi tiếc",2026-03-22
+1662,chuột,5,positive,"pin trâu, dùng mượt cả ngày, hơi tiếc",2025-03-13
+1663,giày thể thao,3,neutral,"đóng gói cẩn thận, đi ổn, đúng giá tiền",2025-08-11
+1664,tai nghe,2,negative,"đóng gói cẩn thận, đeo hơi đau tai",2025-11-29
+1665,bàn phím,4,positive,"keycap chắc chắn, build ngon, đáng tiền",2025-08-30
+1666,áo thun,5,positive,"vải mềm, form đẹp, hơi tiếc",2025-01-06
+1667,tai nghe,4,positive,"âm thanh rõ, bass tốt, đáng tiền",2025-12-26
+1668,bàn phím,4,positive,"switch phản hồi tốt, rất thích",2025-11-16
+1669,áo thun,2,negative,"chỉ thừa nhiều, hơi thất vọng, sẽ ủng hộ tiếp",2025-06-26
+1670,giày thể thao,4,positive,"săn sale nên thấy đế bám tốt, chạy thích",2026-01-09
+1671,tai nghe,5,positive,"mic thu âm rõ, gọi điện tốt, sẽ ủng hộ tiếp",2025-02-09
+1672,sạc dự phòng,4,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng",2025-02-22
+1673,bàn phím,3,neutral,dùng văn phòng khá ổn,2025-05-22
+1674,nồi chiên,1,negative,"quạt hơi ồn, sẽ ủng hộ tiếp",2025-04-21
+1675,chuột,3,neutral,săn sale nên thấy dùng tạm ổn trong tầm giá,2025-06-15
+1676,chuột,3,neutral,"săn sale nên thấy đúng mô tả, hiệu năng bình thường, hơi tiếc",2025-12-07
+1677,áo thun,4,positive,"săn sale nên thấy màu đẹp như hình, hơi tiếc",2026-02-01
+1678,áo thun,2,negative,"đóng gói cẩn thận, chỉ thừa nhiều, hơi thất vọng",2025-02-10
+1679,sạc dự phòng,3,neutral,"shop giao nhanh, đúng mô tả nhưng chưa nổi bật, hơi tiếc",2025-10-14
+1680,áo thun,5,positive,"săn sale nên thấy màu đẹp như hình, đáng tiền",2025-04-02
+1681,chuột,3,neutral,"săn sale nên thấy đúng mô tả, hiệu năng bình thường, sẽ ủng hộ tiếp",2025-11-12
+1682,sạc dự phòng,3,neutral,"shop giao nhanh, sạc ở mức bình thường",2025-04-11
+1683,áo thun,4,positive,"đóng gói cẩn thận, màu đẹp như hình, đáng tiền",2025-02-18
+1684,tai nghe,3,neutral,"đóng gói cẩn thận, âm thanh ở mức chấp nhận được, hơi tiếc",2025-07-23
+1685,chuột,3,neutral,"đúng mô tả, hiệu năng bình thường",2026-02-26
+1686,chuột,3,neutral,"shop giao nhanh, chưa dùng lâu nên chưa đánh giá thêm, hơi tiếc",2026-01-19
+1687,nồi chiên,1,negative,vỏ có vết xước,2026-04-03
+1688,giày thể thao,4,positive,"săn sale nên thấy đi êm chân, form đẹp",2025-01-29
+1689,áo thun,2,negative,"size bị lệch, mặc không vừa, đáng tiền",2026-03-13
+1690,bàn phím,2,negative,"đóng gói cẩn thận, gõ hơi cứng và ồn, sẽ ủng hộ tiếp",2025-10-28
+1691,giày thể thao,3,neutral,mẫu đẹp nhưng chưa thử chạy lâu,2025-04-09
+1692,nồi chiên,3,neutral,"shop giao nhanh, dùng ổn, cần test thêm, hơi tiếc",2025-01-23
+1693,tai nghe,1,negative,"đeo hơi đau tai, đáng tiền",2025-05-21
+1694,sạc dự phòng,5,positive,"dùng ổn định, rất hài lòng",2025-08-26
+1695,chuột,4,positive,"shop giao nhanh, di chuột mượt, click nhạy, rất đáng tiền, đáng tiền",2025-10-30
+1696,giày thể thao,3,neutral,"đóng gói cẩn thận, đi ổn, đúng giá tiền, hơi tiếc",2025-02-11
+1697,giày thể thao,3,neutral,"shop giao nhanh, chất lượng bình thường, đáng tiền",2025-01-28
+1698,áo thun,2,negative,"size bị lệch, mặc không vừa, đáng tiền",2025-07-31
+1699,bàn phím,3,neutral,"đóng gói cẩn thận, gõ ổn, chưa có gì nổi bật, đáng tiền",2025-12-24
+1700,áo thun,5,positive,"đóng gói cẩn thận, màu đẹp như hình, đáng tiền",2026-01-31
+1701,giày thể thao,1,negative,"săn sale nên thấy size không chuẩn, sẽ ủng hộ tiếp",2025-10-03
+1702,sạc dự phòng,5,positive,"đóng gói cẩn thận, dùng ổn định, rất hài lòng, sẽ ủng hộ tiếp",2025-06-25
+1703,giày thể thao,3,neutral,"shop giao nhanh, chất lượng bình thường, đáng tiền",2025-04-22
+1704,áo thun,4,positive,"shop giao nhanh, mặc thoải mái, đường may chắc, hơi tiếc",2025-10-28
+1705,tai nghe,5,positive,"đeo êm tai lâu không đau, đáng tiền",2026-03-22
+1706,chuột,5,positive,"cầm vừa tay, phản hồi tốt, sẽ ủng hộ tiếp",2025-07-03
+1707,tai nghe,4,positive,"đeo êm tai lâu không đau, hơi tiếc",2025-10-31
+1708,sạc dự phòng,2,negative,"đóng gói cẩn thận, sạc vào rất chậm, đáng tiền",2025-11-04
+1709,tai nghe,5,positive,"shop giao nhanh, âm thanh rõ, bass tốt",2025-02-25
+1710,áo thun,5,positive,"màu đẹp như hình, sẽ ủng hộ tiếp",2025-09-20
+1711,bàn phím,3,neutral,"đóng gói cẩn thận, gõ ổn, chưa có gì nổi bật",2025-02-16
+1712,tai nghe,3,neutral,"săn sale nên thấy nghe ổn trong tầm giá, sẽ ủng hộ tiếp",2025-08-24
+1713,chuột,1,negative,"đóng gói cẩn thận, con lăn bị kẹt, trải nghiệm tệ",2025-04-05
+1714,bàn phím,3,neutral,"shop giao nhanh, dùng văn phòng khá ổn, sẽ ủng hộ tiếp",2025-12-17
+1715,sạc dự phòng,3,neutral,"shop giao nhanh, sạc ở mức bình thường, đáng tiền",2025-02-21
+1716,áo thun,1,negative,"săn sale nên thấy vải mỏng hơn mong đợi, hơi tiếc",2025-12-28
+1717,bàn phím,3,neutral,"đóng gói cẩn thận, gõ ổn, chưa có gì nổi bật, sẽ ủng hộ tiếp",2025-07-24
+1718,nồi chiên,5,positive,"săn sale nên thấy dung tích lớn, rất tiện",2025-02-06
+1719,tai nghe,4,positive,"shop giao nhanh, mic thu âm rõ, gọi điện tốt, sẽ ủng hộ tiếp",2025-07-08
+1720,tai nghe,4,positive,"shop giao nhanh, âm thanh rõ, bass tốt, sẽ ủng hộ tiếp",2025-09-13
+1721,bàn phím,5,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp, hơi tiếc",2025-12-01
+1722,bàn phím,5,positive,"săn sale nên thấy switch phản hồi tốt, rất thích",2025-05-14
+1723,áo thun,5,positive,"mặc thoải mái, đường may chắc, đáng tiền",2025-12-18
+1724,giày thể thao,5,positive,"đóng gói cẩn thận, đi êm chân, form đẹp, sẽ ủng hộ tiếp",2025-10-22
+1725,sạc dự phòng,5,positive,"săn sale nên thấy thiết kế đẹp, cầm chắc tay, hơi tiếc",2026-01-30
+1726,chuột,5,positive,"kết nối ổn định, không bị lag, đáng tiền",2026-02-04
+1727,áo thun,1,negative,"săn sale nên thấy size bị lệch, mặc không vừa",2026-01-24
+1728,áo thun,3,neutral,"đóng gói cẩn thận, mặc tạm ổn",2025-05-13
+1729,bàn phím,2,negative,"săn sale nên thấy một vài phím bị liệt, đáng tiền",2025-01-21
+1730,chuột,3,neutral,"dùng tạm ổn trong tầm giá, đáng tiền",2025-05-10
+1731,áo thun,5,positive,"đóng gói cẩn thận, màu đẹp như hình, sẽ ủng hộ tiếp",2025-05-31
+1732,tai nghe,5,positive,đeo êm tai lâu không đau,2025-02-27
+1733,tai nghe,1,negative,âm bị rè khi mở lớn,2025-02-18
+1734,bàn phím,2,negative,"đóng gói cẩn thận, led không đều màu, hơi tiếc",2025-12-19
+1735,sạc dự phòng,5,positive,"đóng gói cẩn thận, sạc nhanh, pin đúng dung lượng, đáng tiền",2025-01-20
+1736,bàn phím,2,negative,"gõ hơi cứng và ồn, đáng tiền",2025-11-23
+1737,giày thể thao,5,positive,"đóng gói cẩn thận, đi êm chân, form đẹp",2026-03-05
+1738,áo thun,3,neutral,"đúng mô tả, chất vải bình thường",2025-10-04
+1739,nồi chiên,3,neutral,"săn sale nên thấy đúng mô tả, mức trung bình, sẽ ủng hộ tiếp",2026-01-25
+1740,áo thun,4,positive,màu đẹp như hình,2025-07-24
+1741,bàn phím,1,negative,"shop giao nhanh, led không đều màu",2026-02-05
+1742,áo thun,2,negative,"vải mỏng hơn mong đợi, đáng tiền",2025-02-19
+1743,bàn phím,5,positive,"gõ êm tay, led đẹp, đáng tiền",2026-01-08
+1744,giày thể thao,2,negative,"size không chuẩn, đáng tiền",2025-10-05
+1745,áo thun,4,positive,"đóng gói cẩn thận, mặc thoải mái, đường may chắc, đáng tiền",2026-02-26
+1746,áo thun,5,positive,"shop giao nhanh, màu đẹp như hình, hơi tiếc",2025-05-11
+1747,áo thun,4,positive,"đóng gói cẩn thận, màu đẹp như hình",2025-04-17
+1748,giày thể thao,3,neutral,"đóng gói cẩn thận, mẫu đẹp nhưng chưa thử chạy lâu, hơi tiếc",2025-12-12
+1749,áo thun,4,positive,"săn sale nên thấy màu đẹp như hình, hơi tiếc",2026-01-27
+1750,chuột,3,neutral,săn sale nên thấy dùng tạm ổn trong tầm giá,2025-03-09
+1751,áo thun,1,negative,"shop giao nhanh, vải mỏng hơn mong đợi, sẽ ủng hộ tiếp",2025-02-26
+1752,sạc dự phòng,4,positive,"săn sale nên thấy dùng ổn định, rất hài lòng, đáng tiền",2026-01-20
+1753,bàn phím,5,positive,"switch phản hồi tốt, rất thích, đáng tiền",2025-09-15
+1754,sạc dự phòng,2,negative,"săn sale nên thấy dung lượng không như quảng cáo, đáng tiền",2026-02-27
+1755,áo thun,4,positive,"mặc thoải mái, đường may chắc",2026-03-01
+1756,tai nghe,3,neutral,"nghe ổn trong tầm giá, hơi tiếc",2025-08-03
+1757,áo thun,4,positive,"vải mềm, form đẹp",2025-09-15
+1758,chuột,1,negative,"con lăn bị kẹt, trải nghiệm tệ, sẽ ủng hộ tiếp",2025-03-27
+1759,sạc dự phòng,2,negative,"sạc vào rất chậm, hơi tiếc",2025-10-10
+1760,sạc dự phòng,3,neutral,"shop giao nhanh, sạc ở mức bình thường, sẽ ủng hộ tiếp",2025-08-30
+1761,giày thể thao,3,neutral,mẫu đẹp nhưng chưa thử chạy lâu,2025-04-16
+1762,sạc dự phòng,4,positive,"shop giao nhanh, sạc nhanh, pin đúng dung lượng, hơi tiếc",2025-09-14
+1763,giày thể thao,5,positive,"săn sale nên thấy đi êm chân, form đẹp",2025-01-04
+1764,giày thể thao,5,positive,"đế bám tốt, chạy thích, hơi tiếc",2025-05-14
+1765,giày thể thao,2,negative,"đi hơi cứng chân, đáng tiền",2026-02-20
+1766,áo thun,3,neutral,"đúng mô tả, chất vải bình thường, hơi tiếc",2025-08-08
+1767,nồi chiên,4,positive,"dung tích lớn, rất tiện, sẽ ủng hộ tiếp",2025-07-07
+1768,áo thun,1,negative,"shop giao nhanh, vải mỏng hơn mong đợi, đáng tiền",2025-02-19
+1769,tai nghe,2,negative,"săn sale nên thấy đeo hơi đau tai, sẽ ủng hộ tiếp",2026-01-23
+1770,tai nghe,5,positive,"đóng gói cẩn thận, đeo êm tai lâu không đau",2025-05-21
+1771,sạc dự phòng,4,positive,"đóng gói cẩn thận, dùng ổn định, rất hài lòng",2025-04-24
+1772,tai nghe,2,negative,"shop giao nhanh, đeo hơi đau tai",2025-11-21
+1773,tai nghe,5,positive,"shop giao nhanh, âm thanh rõ, bass tốt, sẽ ủng hộ tiếp",2025-11-08
+1774,tai nghe,3,neutral,"shop giao nhanh, âm thanh ở mức chấp nhận được",2025-06-05
+1775,bàn phím,2,negative,gõ hơi cứng và ồn,2025-07-27
+1776,áo thun,2,negative,"shop giao nhanh, chỉ thừa nhiều, hơi thất vọng",2026-03-13
+1777,sạc dự phòng,5,positive,"shop giao nhanh, thiết kế đẹp, cầm chắc tay",2025-09-04
+1778,bàn phím,5,positive,"keycap chắc chắn, build ngon, đáng tiền",2025-04-26
+1779,tai nghe,4,positive,"mic thu âm rõ, gọi điện tốt, sẽ ủng hộ tiếp",2025-07-02
+1780,áo thun,4,positive,"shop giao nhanh, màu đẹp như hình, đáng tiền",2025-12-07
+1781,chuột,4,positive,"đóng gói cẩn thận, di chuột mượt, click nhạy, rất đáng tiền",2025-10-01
+1782,nồi chiên,1,negative,vỏ có vết xước,2025-05-07
+1783,bàn phím,4,positive,"săn sale nên thấy gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2025-01-21
+1784,sạc dự phòng,5,positive,"shop giao nhanh, dùng ổn định, rất hài lòng",2025-03-09
+1785,sạc dự phòng,4,positive,"sạc nhanh, pin đúng dung lượng",2025-09-02
+1786,áo thun,4,positive,"màu đẹp như hình, sẽ ủng hộ tiếp",2025-09-02
+1787,chuột,5,positive,"di chuột mượt, click nhạy, rất đáng tiền",2025-04-21
+1788,sạc dự phòng,4,positive,"săn sale nên thấy sạc nhanh, pin đúng dung lượng, sẽ ủng hộ tiếp",2025-10-29
+1789,nồi chiên,1,negative,săn sale nên thấy vỏ có vết xước,2025-05-19
+1790,áo thun,2,negative,"đóng gói cẩn thận, chỉ thừa nhiều, hơi thất vọng, đáng tiền",2025-05-16
+1791,nồi chiên,2,negative,nhiệt không đều như mong đợi,2025-06-08
+1792,giày thể thao,4,positive,"đóng gói cẩn thận, đi êm chân, form đẹp",2025-08-29
+1793,áo thun,4,positive,"đóng gói cẩn thận, màu đẹp như hình",2026-03-18
+1794,áo thun,4,positive,"shop giao nhanh, vải mềm, form đẹp, sẽ ủng hộ tiếp",2025-06-07
+1795,sạc dự phòng,5,positive,"đóng gói cẩn thận, dùng ổn định, rất hài lòng",2025-04-18
+1796,sạc dự phòng,1,negative,"săn sale nên thấy sạc vào rất chậm, sẽ ủng hộ tiếp",2026-03-13
+1797,bàn phím,2,negative,săn sale nên thấy gõ hơi cứng và ồn,2026-02-08
+1798,áo thun,3,neutral,"săn sale nên thấy đúng mô tả, chất vải bình thường, đáng tiền",2025-07-09
+1799,bàn phím,5,positive,"đóng gói cẩn thận, switch phản hồi tốt, rất thích, hơi tiếc",2025-10-16
+1800,áo thun,3,neutral,"săn sale nên thấy mặc tạm ổn, đáng tiền",2025-11-27
+1801,nồi chiên,5,positive,"shop giao nhanh, nướng nhanh, chín đều, sẽ ủng hộ tiếp",2025-12-05
+1802,giày thể thao,5,positive,"săn sale nên thấy đế bám tốt, chạy thích, hơi tiếc",2025-06-16
+1803,sạc dự phòng,1,negative,"máy hơi nóng khi sạc, hơi tiếc",2026-03-15
+1804,tai nghe,4,positive,săn sale nên thấy đeo êm tai lâu không đau,2025-08-29
+1805,chuột,3,neutral,"đóng gói cẩn thận, dùng tạm ổn trong tầm giá",2025-10-28
+1806,áo thun,4,positive,"mặc thoải mái, đường may chắc, đáng tiền",2025-08-13
+1807,tai nghe,4,positive,"săn sale nên thấy đeo êm tai lâu không đau, sẽ ủng hộ tiếp",2026-03-24
+1808,bàn phím,1,negative,"shop giao nhanh, led không đều màu, đáng tiền",2025-10-21
+1809,sạc dự phòng,3,neutral,"đúng mô tả nhưng chưa nổi bật, sẽ ủng hộ tiếp",2026-01-31
+1810,nồi chiên,5,positive,"shop giao nhanh, máy chạy êm, dễ vệ sinh, sẽ ủng hộ tiếp",2025-06-14
+1811,áo thun,5,positive,"đóng gói cẩn thận, vải mềm, form đẹp, đáng tiền",2025-11-06
+1812,giày thể thao,3,neutral,"săn sale nên thấy chất lượng bình thường, hơi tiếc",2025-07-22
+1813,nồi chiên,4,positive,"đóng gói cẩn thận, dung tích lớn, rất tiện",2025-10-17
+1814,áo thun,3,neutral,"đúng mô tả, chất vải bình thường, đáng tiền",2025-11-21
+1815,chuột,1,negative,pin yếu hơn mô tả,2025-10-21
+1816,áo thun,1,negative,"săn sale nên thấy chỉ thừa nhiều, hơi thất vọng, đáng tiền",2025-08-27
+1817,áo thun,3,neutral,"shop giao nhanh, mặc tạm ổn",2025-06-23
+1818,áo thun,1,negative,"vải mỏng hơn mong đợi, đáng tiền",2025-01-04
+1819,sạc dự phòng,3,neutral,"đóng gói cẩn thận, dùng được, chưa thấy vấn đề, hơi tiếc",2025-03-19
+1820,tai nghe,3,neutral,"shop giao nhanh, chưa test lâu nên chưa rõ độ bền",2025-07-01
+1821,giày thể thao,3,neutral,"shop giao nhanh, đi ổn, đúng giá tiền, đáng tiền",2025-04-03
+1822,chuột,4,positive,"cầm vừa tay, phản hồi tốt, đáng tiền",2026-03-22
+1823,tai nghe,3,neutral,"shop giao nhanh, nghe ổn trong tầm giá, hơi tiếc",2025-05-19
+1824,bàn phím,3,neutral,"shop giao nhanh, gõ ổn, chưa có gì nổi bật, hơi tiếc",2025-03-05
+1825,nồi chiên,3,neutral,"shop giao nhanh, đúng mô tả, mức trung bình, hơi tiếc",2025-01-26
+1826,áo thun,4,positive,"mặc thoải mái, đường may chắc",2025-02-17
+1827,bàn phím,1,negative,"một vài phím bị liệt, hơi tiếc",2026-01-15
+1828,sạc dự phòng,5,positive,"shop giao nhanh, sạc nhanh, pin đúng dung lượng",2026-02-14
+1829,sạc dự phòng,5,positive,"thiết kế đẹp, cầm chắc tay",2025-07-14
+1830,nồi chiên,4,positive,"đóng gói cẩn thận, máy chạy êm, dễ vệ sinh",2025-08-11
+1831,nồi chiên,1,negative,"săn sale nên thấy nhiệt không đều như mong đợi, hơi tiếc",2025-01-09
+1832,tai nghe,1,negative,"shop giao nhanh, âm bị rè khi mở lớn, sẽ ủng hộ tiếp",2025-10-17
+1833,chuột,4,positive,"kết nối ổn định, không bị lag",2025-11-02
+1834,nồi chiên,5,positive,"săn sale nên thấy dung tích lớn, rất tiện, sẽ ủng hộ tiếp",2025-08-03
+1835,bàn phím,4,positive,"switch phản hồi tốt, rất thích, sẽ ủng hộ tiếp",2025-01-16
+1836,áo thun,5,positive,"mặc thoải mái, đường may chắc, đáng tiền",2025-01-15
+1837,nồi chiên,4,positive,"shop giao nhanh, nướng nhanh, chín đều, hơi tiếc",2025-01-24
+1838,sạc dự phòng,4,positive,"sạc nhanh, pin đúng dung lượng, đáng tiền",2026-04-05
+1839,bàn phím,4,positive,"săn sale nên thấy switch phản hồi tốt, rất thích, hơi tiếc",2026-03-15
+1840,sạc dự phòng,4,positive,"săn sale nên thấy thiết kế đẹp, cầm chắc tay, đáng tiền",2025-03-07
+1841,tai nghe,1,negative,săn sale nên thấy pin tụt nhanh,2025-04-11
+1842,bàn phím,4,positive,"gõ êm tay, led đẹp",2026-01-03
+1843,áo thun,4,positive,"đóng gói cẩn thận, vải mềm, form đẹp, sẽ ủng hộ tiếp",2026-01-09
+1844,giày thể thao,5,positive,"đóng gói cẩn thận, đi êm chân, form đẹp, hơi tiếc",2025-07-11
+1845,giày thể thao,4,positive,"nhẹ chân, đúng size, sẽ ủng hộ tiếp",2025-04-04
+1846,chuột,4,positive,"săn sale nên thấy pin trâu, dùng mượt cả ngày, đáng tiền",2025-01-06
+1847,sạc dự phòng,5,positive,"dùng ổn định, rất hài lòng, hơi tiếc",2025-08-20
+1848,bàn phím,5,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp",2025-06-22
+1849,tai nghe,3,neutral,săn sale nên thấy nghe ổn trong tầm giá,2025-08-22
+1850,giày thể thao,5,positive,"đóng gói cẩn thận, đi êm chân, form đẹp, hơi tiếc",2025-11-25
+1851,chuột,3,neutral,săn sale nên thấy dùng tạm ổn trong tầm giá,2025-03-03
+1852,sạc dự phòng,2,negative,"săn sale nên thấy dung lượng không như quảng cáo, hơi tiếc",2025-10-11
+1853,chuột,3,neutral,"shop giao nhanh, đúng mô tả, hiệu năng bình thường, sẽ ủng hộ tiếp",2026-03-07
+1854,giày thể thao,4,positive,"đóng gói cẩn thận, nhẹ chân, đúng size",2025-11-04
+1855,nồi chiên,4,positive,"shop giao nhanh, dung tích lớn, rất tiện",2025-03-27
+1856,tai nghe,4,positive,"shop giao nhanh, mic thu âm rõ, gọi điện tốt",2025-11-09
+1857,áo thun,3,neutral,"đóng gói cẩn thận, đúng mô tả, chất vải bình thường, hơi tiếc",2025-09-25
+1858,áo thun,3,neutral,"đóng gói cẩn thận, mặc tạm ổn",2025-02-08
+1859,tai nghe,1,negative,đeo hơi đau tai,2025-02-04
+1860,chuột,3,neutral,"shop giao nhanh, chưa dùng lâu nên chưa đánh giá thêm, sẽ ủng hộ tiếp",2025-07-20
+1861,nồi chiên,5,positive,"shop giao nhanh, dung tích lớn, rất tiện, sẽ ủng hộ tiếp",2026-03-04
+1862,tai nghe,5,positive,đeo êm tai lâu không đau,2025-12-11
+1863,bàn phím,4,positive,"switch phản hồi tốt, rất thích",2025-09-24
+1864,tai nghe,1,negative,"săn sale nên thấy đeo hơi đau tai, đáng tiền",2026-02-25
+1865,chuột,1,negative,"đóng gói cẩn thận, double click sau vài ngày, khá khó chịu, đáng tiền",2025-01-21
+1866,áo thun,3,neutral,"săn sale nên thấy không quá xuất sắc nhưng chấp nhận được, hơi tiếc",2025-10-27
+1867,bàn phím,3,neutral,"gõ ổn, chưa có gì nổi bật",2025-02-15
+1868,giày thể thao,1,negative,"săn sale nên thấy size không chuẩn, hơi tiếc",2025-08-04
+1869,chuột,2,negative,"con lăn bị kẹt, trải nghiệm tệ, đáng tiền",2025-08-03
+1870,giày thể thao,3,neutral,"đi ổn, đúng giá tiền, hơi tiếc",2025-05-05
+1871,sạc dự phòng,5,positive,"săn sale nên thấy sạc nhanh, pin đúng dung lượng",2025-11-07
+1872,nồi chiên,1,negative,nhiệt không đều như mong đợi,2026-03-06
+1873,nồi chiên,1,negative,"shop giao nhanh, quạt hơi ồn, đáng tiền",2025-10-25
+1874,giày thể thao,2,negative,"size không chuẩn, đáng tiền",2025-11-28
+1875,nồi chiên,5,positive,"săn sale nên thấy máy chạy êm, dễ vệ sinh",2025-04-21
+1876,sạc dự phòng,5,positive,"săn sale nên thấy thiết kế đẹp, cầm chắc tay",2026-01-09
+1877,áo thun,3,neutral,"đóng gói cẩn thận, không quá xuất sắc nhưng chấp nhận được, đáng tiền",2025-05-08
+1878,tai nghe,4,positive,"đóng gói cẩn thận, đeo êm tai lâu không đau, sẽ ủng hộ tiếp",2025-04-18
+1879,sạc dự phòng,3,neutral,"shop giao nhanh, sạc ở mức bình thường, hơi tiếc",2026-03-15
+1880,chuột,4,positive,"cầm vừa tay, phản hồi tốt",2025-11-24
+1881,áo thun,5,positive,"shop giao nhanh, mặc thoải mái, đường may chắc, đáng tiền",2026-03-15
+1882,giày thể thao,5,positive,"shop giao nhanh, đế bám tốt, chạy thích, sẽ ủng hộ tiếp",2025-06-15
+1883,chuột,5,positive,"săn sale nên thấy pin trâu, dùng mượt cả ngày",2025-12-23
+1884,chuột,4,positive,"shop giao nhanh, cầm vừa tay, phản hồi tốt, đáng tiền",2025-09-30
+1885,tai nghe,5,positive,"đóng gói cẩn thận, mic thu âm rõ, gọi điện tốt",2025-10-19
+1886,chuột,4,positive,"shop giao nhanh, di chuột mượt, click nhạy, rất đáng tiền",2025-03-21
+1887,giày thể thao,3,neutral,"shop giao nhanh, đi ổn, đúng giá tiền, sẽ ủng hộ tiếp",2026-03-25
+1888,bàn phím,4,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2025-01-11
+1889,nồi chiên,2,negative,nhiệt không đều như mong đợi,2025-04-09
+1890,áo thun,5,positive,"đóng gói cẩn thận, màu đẹp như hình, đáng tiền",2026-02-16
+1891,nồi chiên,5,positive,"đóng gói cẩn thận, nướng nhanh, chín đều",2025-07-02
+1892,chuột,3,neutral,"shop giao nhanh, đúng mô tả, hiệu năng bình thường",2025-10-24
+1893,bàn phím,5,positive,"gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2026-01-04
+1894,tai nghe,2,negative,pin tụt nhanh,2025-08-24
+1895,sạc dự phòng,5,positive,"sạc nhanh, pin đúng dung lượng",2025-08-18
+1896,sạc dự phòng,2,negative,"shop giao nhanh, máy hơi nóng khi sạc",2025-12-16
+1897,tai nghe,5,positive,"mic thu âm rõ, gọi điện tốt",2025-09-09
+1898,áo thun,2,negative,"săn sale nên thấy size bị lệch, mặc không vừa, đáng tiền",2025-10-03
+1899,giày thể thao,1,negative,"size không chuẩn, hơi tiếc",2025-03-15
+1900,nồi chiên,1,negative,"nhiệt không đều như mong đợi, đáng tiền",2025-10-28
+1901,chuột,3,neutral,"săn sale nên thấy đúng mô tả, hiệu năng bình thường, sẽ ủng hộ tiếp",2026-01-11
+1902,bàn phím,4,positive,"săn sale nên thấy gõ êm tay, led đẹp",2025-06-19
+1903,chuột,5,positive,"săn sale nên thấy kết nối ổn định, không bị lag, hơi tiếc",2025-03-12
+1904,nồi chiên,4,positive,"shop giao nhanh, máy chạy êm, dễ vệ sinh, hơi tiếc",2026-03-27
+1905,tai nghe,4,positive,"shop giao nhanh, đeo êm tai lâu không đau, sẽ ủng hộ tiếp",2025-06-29
+1906,giày thể thao,2,negative,"keo dán chưa chắc, đáng tiền",2025-01-11
+1907,sạc dự phòng,4,positive,"shop giao nhanh, sạc nhanh, pin đúng dung lượng",2025-09-28
+1908,chuột,5,positive,"di chuột mượt, click nhạy, rất đáng tiền",2025-07-11
+1909,nồi chiên,4,positive,"dung tích lớn, rất tiện, hơi tiếc",2025-04-04
+1910,sạc dự phòng,5,positive,"shop giao nhanh, dùng ổn định, rất hài lòng",2025-07-11
+1911,sạc dự phòng,5,positive,"shop giao nhanh, dùng ổn định, rất hài lòng, hơi tiếc",2025-01-16
+1912,sạc dự phòng,4,positive,"thiết kế đẹp, cầm chắc tay, đáng tiền",2025-12-16
+1913,bàn phím,1,negative,"shop giao nhanh, led không đều màu",2025-03-21
+1914,sạc dự phòng,3,neutral,sạc ở mức bình thường,2025-02-03
+1915,tai nghe,4,positive,"shop giao nhanh, đeo êm tai lâu không đau, hơi tiếc",2025-01-22
+1916,tai nghe,5,positive,"mic thu âm rõ, gọi điện tốt, đáng tiền",2025-09-27
+1917,sạc dự phòng,1,negative,"đóng gói cẩn thận, dung lượng không như quảng cáo, sẽ ủng hộ tiếp",2025-08-18
+1918,nồi chiên,5,positive,"săn sale nên thấy máy chạy êm, dễ vệ sinh",2025-09-09
+1919,chuột,5,positive,"đóng gói cẩn thận, kết nối ổn định, không bị lag, hơi tiếc",2026-02-07
+1920,nồi chiên,4,positive,"nướng nhanh, chín đều, đáng tiền",2026-04-02
+1921,sạc dự phòng,2,negative,máy hơi nóng khi sạc,2025-01-15
+1922,chuột,3,neutral,chưa dùng lâu nên chưa đánh giá thêm,2026-02-26
+1923,nồi chiên,1,negative,"đóng gói cẩn thận, nhiệt không đều như mong đợi",2025-04-20
+1924,chuột,4,positive,"cầm vừa tay, phản hồi tốt, sẽ ủng hộ tiếp",2025-09-11
+1925,bàn phím,1,negative,"shop giao nhanh, led không đều màu",2025-05-29
+1926,chuột,3,neutral,"shop giao nhanh, chưa dùng lâu nên chưa đánh giá thêm, đáng tiền",2026-03-05
+1927,áo thun,4,positive,"đóng gói cẩn thận, màu đẹp như hình, hơi tiếc",2025-12-15
+1928,sạc dự phòng,1,negative,"đóng gói cẩn thận, máy hơi nóng khi sạc, hơi tiếc",2025-12-20
+1929,chuột,5,positive,"shop giao nhanh, cầm vừa tay, phản hồi tốt, hơi tiếc",2025-05-10
+1930,sạc dự phòng,5,positive,"săn sale nên thấy dùng ổn định, rất hài lòng, sẽ ủng hộ tiếp",2025-12-06
+1931,giày thể thao,4,positive,"săn sale nên thấy đi êm chân, form đẹp",2025-04-04
+1932,sạc dự phòng,5,positive,"thiết kế đẹp, cầm chắc tay, đáng tiền",2025-05-26
+1933,nồi chiên,1,negative,"shop giao nhanh, vỏ có vết xước",2025-10-12
+1934,nồi chiên,4,positive,"săn sale nên thấy máy chạy êm, dễ vệ sinh",2025-02-27
+1935,bàn phím,5,positive,"gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2025-08-12
+1936,sạc dự phòng,4,positive,"dùng ổn định, rất hài lòng",2026-01-28
+1937,bàn phím,3,neutral,"dùng văn phòng khá ổn, sẽ ủng hộ tiếp",2025-06-24
+1938,nồi chiên,3,neutral,"shop giao nhanh, nấu được nhưng không quá nhanh",2025-07-20
+1939,áo thun,5,positive,"shop giao nhanh, vải mềm, form đẹp, sẽ ủng hộ tiếp",2025-06-21
+1940,giày thể thao,2,negative,"shop giao nhanh, keo dán chưa chắc",2025-09-28
+1941,tai nghe,2,negative,âm bị rè khi mở lớn,2025-07-29
+1942,sạc dự phòng,2,negative,"dung lượng không như quảng cáo, sẽ ủng hộ tiếp",2025-02-23
+1943,giày thể thao,5,positive,"nhẹ chân, đúng size, hơi tiếc",2026-01-29
+1944,sạc dự phòng,4,positive,"dùng ổn định, rất hài lòng",2025-01-11
+1945,giày thể thao,3,neutral,"mẫu đẹp nhưng chưa thử chạy lâu, hơi tiếc",2025-08-19
+1946,giày thể thao,5,positive,"săn sale nên thấy đế bám tốt, chạy thích, hơi tiếc",2026-04-06
+1947,bàn phím,5,positive,"đóng gói cẩn thận, gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2025-07-18
+1948,tai nghe,3,neutral,"đóng gói cẩn thận, nghe ổn trong tầm giá, sẽ ủng hộ tiếp",2025-01-22
+1949,áo thun,4,positive,"đóng gói cẩn thận, vải mềm, form đẹp, sẽ ủng hộ tiếp",2025-07-27
+1950,áo thun,3,neutral,"săn sale nên thấy đúng mô tả, chất vải bình thường, hơi tiếc",2025-07-06
+1951,tai nghe,5,positive,"mic thu âm rõ, gọi điện tốt, sẽ ủng hộ tiếp",2025-05-06
+1952,bàn phím,2,negative,"led không đều màu, hơi tiếc",2025-07-11
+1953,giày thể thao,5,positive,"đế bám tốt, chạy thích",2025-11-30
+1954,áo thun,5,positive,"shop giao nhanh, vải mềm, form đẹp, đáng tiền",2025-10-10
+1955,bàn phím,1,negative,"led không đều màu, sẽ ủng hộ tiếp",2025-07-17
+1956,sạc dự phòng,1,negative,săn sale nên thấy máy hơi nóng khi sạc,2026-02-05
+1957,nồi chiên,5,positive,"shop giao nhanh, máy chạy êm, dễ vệ sinh, sẽ ủng hộ tiếp",2026-01-26
+1958,áo thun,4,positive,"vải mềm, form đẹp",2025-01-05
+1959,nồi chiên,3,neutral,"đóng gói cẩn thận, nấu được nhưng không quá nhanh, sẽ ủng hộ tiếp",2026-01-16
+1960,bàn phím,3,neutral,"đúng mô tả nhưng giao hơi lâu, đáng tiền",2025-10-26
+1961,nồi chiên,5,positive,"đóng gói cẩn thận, máy chạy êm, dễ vệ sinh",2026-02-15
+1962,sạc dự phòng,4,positive,"thiết kế đẹp, cầm chắc tay",2025-11-13
+1963,áo thun,5,positive,"shop giao nhanh, màu đẹp như hình",2025-12-06
+1964,bàn phím,3,neutral,"săn sale nên thấy gõ ổn, chưa có gì nổi bật, hơi tiếc",2025-07-14
+1965,áo thun,4,positive,"mặc thoải mái, đường may chắc",2025-04-04
+1966,áo thun,3,neutral,"đúng mô tả, chất vải bình thường, đáng tiền",2025-02-05
+1967,bàn phím,5,positive,"gõ êm tay, led đẹp, sẽ ủng hộ tiếp",2025-11-21
+1968,tai nghe,4,positive,"săn sale nên thấy mic thu âm rõ, gọi điện tốt",2025-11-15
+1969,sạc dự phòng,4,positive,"shop giao nhanh, thiết kế đẹp, cầm chắc tay",2025-05-24
+1970,sạc dự phòng,3,neutral,"shop giao nhanh, sạc ở mức bình thường",2025-11-29
+1971,bàn phím,2,negative,"đóng gói cẩn thận, led không đều màu",2025-05-20
+1972,giày thể thao,3,neutral,mẫu đẹp nhưng chưa thử chạy lâu,2025-03-08
+1973,nồi chiên,3,neutral,"săn sale nên thấy nấu được nhưng không quá nhanh, sẽ ủng hộ tiếp",2025-08-29
+1974,áo thun,5,positive,"đóng gói cẩn thận, mặc thoải mái, đường may chắc",2026-03-14
+1975,nồi chiên,5,positive,"đóng gói cẩn thận, máy chạy êm, dễ vệ sinh",2025-04-09
+1976,áo thun,4,positive,"màu đẹp như hình, đáng tiền",2026-03-18
+1977,sạc dự phòng,3,neutral,"shop giao nhanh, dùng được, chưa thấy vấn đề",2025-04-01
+1978,tai nghe,4,positive,"âm thanh rõ, bass tốt",2026-01-13
+1979,nồi chiên,4,positive,"săn sale nên thấy dung tích lớn, rất tiện, đáng tiền",2026-02-07
+1980,giày thể thao,4,positive,"shop giao nhanh, nhẹ chân, đúng size, sẽ ủng hộ tiếp",2026-01-17
+1981,chuột,4,positive,"shop giao nhanh, kết nối ổn định, không bị lag, sẽ ủng hộ tiếp",2025-01-26
+1982,giày thể thao,5,positive,"shop giao nhanh, đế bám tốt, chạy thích, hơi tiếc",2025-11-06
+1983,giày thể thao,5,positive,"shop giao nhanh, đế bám tốt, chạy thích",2025-01-04
+1984,chuột,4,positive,"pin trâu, dùng mượt cả ngày",2025-04-07
+1985,giày thể thao,4,positive,"đóng gói cẩn thận, đi êm chân, form đẹp, sẽ ủng hộ tiếp",2025-03-25
+1986,áo thun,2,negative,"đóng gói cẩn thận, chỉ thừa nhiều, hơi thất vọng, sẽ ủng hộ tiếp",2025-08-07
+1987,tai nghe,3,neutral,"đóng gói cẩn thận, chưa test lâu nên chưa rõ độ bền, đáng tiền",2026-01-22
+1988,bàn phím,4,positive,"switch phản hồi tốt, rất thích",2026-01-22
+1989,nồi chiên,5,positive,"dung tích lớn, rất tiện, đáng tiền",2025-10-29
+1990,nồi chiên,3,neutral,"đóng gói cẩn thận, đúng mô tả, mức trung bình, đáng tiền",2025-08-19
+1991,tai nghe,2,negative,"đóng gói cẩn thận, pin tụt nhanh, hơi tiếc",2025-06-10
+1992,sạc dự phòng,3,neutral,"shop giao nhanh, đúng mô tả nhưng chưa nổi bật",2025-12-20
+1993,tai nghe,5,positive,"săn sale nên thấy đeo êm tai lâu không đau, hơi tiếc",2025-08-20
+1994,bàn phím,5,positive,"shop giao nhanh, gõ êm tay, led đẹp, đáng tiền",2025-07-15
+1995,nồi chiên,2,negative,"săn sale nên thấy quạt hơi ồn, sẽ ủng hộ tiếp",2025-03-19
+1996,sạc dự phòng,3,neutral,"săn sale nên thấy dùng được, chưa thấy vấn đề, hơi tiếc",2025-03-18
+1997,tai nghe,4,positive,"shop giao nhanh, đeo êm tai lâu không đau, đáng tiền",2026-03-01
+1998,nồi chiên,1,negative,"vỏ có vết xước, hơi tiếc",2025-08-10
+1999,áo thun,3,neutral,"không quá xuất sắc nhưng chấp nhận được, đáng tiền",2025-02-24
+2000,chuột,3,neutral,"shop giao nhanh, dùng tạm ổn trong tầm giá",2025-09-11

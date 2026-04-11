@@ -1,0 +1,7 @@
+streamlit==1.56.0
+uvicorn>=0.14.0
+websockets>=10.4
+underthesea
+pandas
+scikit-learn
+matplotlib
