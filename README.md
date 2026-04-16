@@ -14,6 +14,11 @@ sdk_version: 1.56.0
 
 Ứng dụng này dùng Streamlit để phân tích cảm xúc từ review Shopee.
 
+## Tính năng
+- Dự đoán cảm xúc cho từng review nhập tay.
+- Phân tích hàng loạt từ file CSV với các cột như `comment`, `review_text`, `review`, `content`, `text`.
+- Phân tích trực tiếp từ link sản phẩm Shopee để lấy review và thống kê cảm xúc.
+
 ## Cách chạy
 - Hugging Face sẽ tự động chạy `app.py` bằng SDK Streamlit.
 - Các thư viện cần thiết được cài đặt từ `requirements.txt`.
